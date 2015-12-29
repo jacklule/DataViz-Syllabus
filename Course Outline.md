@@ -2,7 +2,8 @@
 
 ### Day-by-Day Course Outline
 
-### [Week 1, Monday, August 29](Weeks/week-01-01.md)
+### [Week 1, Monday, August 29](https://github.com/jacklule/DataViz-Syllabus/blob/master/Weeks/week01-01.md)
+(Weeks/week-01-01.md)
 
 - Structure of Jour 24.
 - Getting comfortable with GitHub.
