@@ -9,7 +9,8 @@
 - Getting comfortable with GitHub.
 - Assignments.
 
-### [Week 1, Wednesday, August 31](weeks/week-01-02.md)
+### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
+(weeks/week-01-02.md)
 
 - Goal: Storytelling with data.
 - GitHub. Google Fusion; CartoDB; Tableau; Quartz;
