@@ -56,7 +56,7 @@
 - Analysis.
 - Analysis.
 
-### [Week 5, September 28](weeks/week-05-02.md)
+### [Week 5, Wednesday, September 28](weeks/week-05-02.md)
 
 - Overview.
 - Analysis.
