@@ -10,15 +10,15 @@
 
 ### [Week 1, Wednesday, August 31](weeks/week-01-02.md)
 
-- Static vs. interactive visualizations.
-- The elemental forms of data visualization.
-- Charting tools.
+- Goal: Storytelling with data.
+- GitHub. Google Fusion; CartoDB; Tableau; Quartz;
+- Names: Playfair, Tufte, Cairo.
 
 ### [Week 2, Monday, September 5](weeks/week-02-01.md)
 
-- Overview.
-- Analysis.
-- Analysis.
+- Static vs. interactive visualizations.
+- The elemental forms of data visualization.
+- Charting tools.
 
 ### [Week 2, Wednesday, September 7](weeks/week-02-02.md)
 
