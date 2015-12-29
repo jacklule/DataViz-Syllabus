@@ -10,8 +10,9 @@
 
 ### [Week 1, Wednesday, August 31](weeks/week-01-02.md)
 
-- Review of Structure.
-- Best Practices.
+- Static vs. interactive visualizations.
+- The elemental forms of data visualization.
+- Charting tools.
 
 ### [Week 2, Monday, September 5](weeks/week-02-01.md)
 
@@ -25,11 +26,11 @@
 - Analysis.
 - Analysis.
 
-### [Week 3, Monday, September 12: Visualization — Introduction](weeks/week-03-01.md)
+### [Week 3, Monday, September 12](weeks/week-03-01.md)
 
-- Static vs. interactive visualizations.
-- The elemental forms of data visualization.
-- Charting tools.
+- Overview.
+- Analysis.
+- Analysis.
 
 ### [Week 3, Wednesday, September 14](weeks/week-03-02.md)
 
@@ -37,7 +38,7 @@
 - Analysis.
 - Analysis.
 
-### [Week 4, Monday, September 19: Visualization — Introduction](weeks/week-04-01.md)
+### [Week 4, Monday, September 19](weeks/week-04-01.md)
 
 - Static vs. interactive visualizations.
 - The elemental forms of data visualization.
@@ -51,17 +52,17 @@
 
 ### [Week 5, Monday, September 26](weeks/week-05-01.md)
 
-- "Regular expressions": find-and-replace on steroids.
-- Using OpenRefine to clean and transform data.
-- Fact-checking your data.
+- Overview.
+- Analysis.
+- Analysis.
 
 ### [Week 5, September 28](weeks/week-05-02.md)
 
-- Grouping data using pivot tables in spreadsheet software.
-- Grouping data using SQL in database software.
-- Outliers, sample size, and the law of large numbers.
+- Overview.
+- Analysis.
+- Analysis.
 
-### [Week 6, Monday, October 3: Visualization — Introduction](weeks/week-06-01.md)
+### [Week 6, Monday, October 3](weeks/week-06-01.md)
 
 - Static vs. interactive visualizations.
 - The elemental forms of data visualization.
@@ -75,14 +76,14 @@
 
 ### [Week 7, Monday, October 10](weeks/week-07-01.md)
 
-- Joining datasets with spreadsheets and database software.
-- Introduction to web scraping.
-- Freedom of Information requests, FOIA Machine, and MuckRock.
+- Overview.
+- Analysis.
+- Analysis.
 
-### [Week 7, October 12: Visualization, part II – HTML, CSS, and JavaScript](weeks/week-07-02.md)
+### [Week 7, Wednesday, October 12](weeks/week-07-02.md)
 
-- Building basic charts with HTML and CSS.
-- Throwing in some JavaScript magic.
-- Using basic JavaScript charting libraries.
+- Overview.
+- Analysis.
+- Analysis.
 
 ### [Week 8, Monday, October 17, Pacing Break] (weeks/week-08-01.md)
