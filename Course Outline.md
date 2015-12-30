@@ -12,7 +12,7 @@
 
 - Goal: Storytelling with data.
 - GitHub. Google Fusion; CartoDB; Tableau; Quartz;
-- Names: Playfair, Tufte, Cairo.
+- Names: Playfair, Snow, Tufte, Cairo.
 
 ### [Week 2, Monday, September 5](weeks/week-02-01.md)
 
