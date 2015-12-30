@@ -14,76 +14,76 @@
 - GitHub. Google Fusion; CartoDB; Tableau; Quartz;
 - Names: Playfair, Snow, Tufte, Cairo.
 
-### [Week 2, Monday, September 5](weeks/week-02-01.md)
+### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
 - Static vs. interactive visualizations.
 - The elemental forms of data visualization.
 - Charting tools.
 
-### [Week 2, Wednesday, September 7](weeks/week-02-02.md)
+### [Week 2, Wednesday, September 7](Weeks/week02-02.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 3, Monday, September 12](weeks/week-03-01.md)
+### [Week 3, Monday, September 12](Weeks/week03-01.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 3, Wednesday, September 14](weeks/week-03-02.md)
+### [Week 3, Wednesday, September 14](Weeks/week03-02.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 4, Monday, September 19](weeks/week-04-01.md)
+### [Week 4, Monday, September 19](Weeks/week04-01.md)
 
 - Static vs. interactive visualizations.
 - The elemental forms of data visualization.
 - Charting tools.
 
-### [Week 4, Wednesday, September 21](weeks/week-04-02.md)
+### [Week 4, Wednesday, September 21](Weeks/week04-02.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 5, Monday, September 26](weeks/week-05-01.md)
+### [Week 5, Monday, September 26](Weeks/week05-01.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 5, Wednesday, September 28](weeks/week-05-02.md)
+### [Week 5, Wednesday, September 28](Weeks/week05-02.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 6, Monday, October 3](weeks/week-06-01.md)
+### [Week 6, Monday, October 3](Weeks/week06-01.md)
 
 - Static vs. interactive visualizations.
 - The elemental forms of data visualization.
 - Charting tools.
 
-### [Week 6, Wednesday, October 5](weeks/week-06-02.md)
+### [Week 6, Wednesday, October 5](Weeks/week06-02.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 7, Monday, October 10](weeks/week-07-01.md)
+### [Week 7, Monday, October 10](Weeks/week07-01.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 7, Wednesday, October 12](weeks/week-07-02.md)
+### [Week 7, Wednesday, October 12](Weeks/week07-02.md)
 
 - Overview.
 - Analysis.
 - Analysis.
 
-### [Week 8, Monday, October 17, Pacing Break] (weeks/week-08-01.md)
+### [Week 8, Monday, October 17, Pacing Break] (Weeks/week08-01.md)
