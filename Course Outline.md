@@ -5,13 +5,15 @@
 ### [Week 1, Monday, August 29](Weeks/week01-01.md)
 
 - Structure of Jour 24.
+- Goal: Telling Stories with Data
+- Fixing the hole in your resume
 - Getting comfortable with GitHub.
 - Assignments.
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
 
 - Goal: Storytelling with data.
-- Statis v. Interactive visualizations.
+- Static v. Interactive visualizations.
 - The elemental forms of data visualization.
 - GitHub. Google Fusion; CartoDB; Tableau; Quartz;
 - Names: Playfair, Snow, Tufte, Cairo.
