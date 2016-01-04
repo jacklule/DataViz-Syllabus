@@ -6,17 +6,18 @@
 
 - Structure of Jour 24.
 - Goal: Telling Stories with Data
+- Principles (long lasting) and Practice (always evolving)
 - Fixing the hole in your resume
-- Getting comfortable with GitHub.
+- Names: Playfair, Snow, Tufte, Cairo.
+- GitHub. Google Fusion; CartoDB; Tableau; Quartz;
 - Assignments.
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
 
 - Goal: Storytelling with data.
+- Getting comfortable with GitHub
 - Static v. Interactive visualizations.
 - The elemental forms of data visualization.
-- GitHub. Google Fusion; CartoDB; Tableau; Quartz;
-- Names: Playfair, Snow, Tufte, Cairo.
 
 ### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
