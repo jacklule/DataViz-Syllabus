@@ -2,7 +2,7 @@
 
 ### Day-by-Day Course Outline
 
-### [Week 1, Monday, August 29](Weeks/week01-01.md)
+### [Week 1, Monday, August 29/Wednesday, October 19](Weeks/week01-01.md)
 
 - Structure of Jour 24.
 - Goal: Telling Stories with Data
@@ -92,4 +92,4 @@
 - Analysis.
 - Analysis.
 
-### [Week 8, Monday, October 17, Pacing Break] (Weeks/week08-01.md)
+### [Week 8, Monday, October 17, Pacing Break/December 7 last day of classes] (Weeks/week08-01.md)
