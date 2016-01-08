@@ -10,6 +10,7 @@
 - Fixing the hole in your resume
 - Names: Playfair, Snow, Tufte, Cairo.
 - GitHub. Google Fusion; CartoDB; Tableau; Quartz;
+- [Creating a page with html](http://www.w3schools.com/html/html_intro.asp)
 - Assignments.
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
