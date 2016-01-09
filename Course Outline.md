@@ -9,7 +9,7 @@
 - Principles (long lasting) and Practice (always evolving)
 - Fixing the hole in your resume
 - Names: Playfair, Snow, Tufte, Cairo.
-- GitHub. Google Fusion; CartoDB; Tableau; Quartz;
+- Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
 - [Creating a page with TextEditor and html](http://www.w3schools.com/html/html_intro.asp)
 - Assignments.
 
