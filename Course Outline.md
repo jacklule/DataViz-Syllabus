@@ -10,6 +10,7 @@
 - Fixing the hole in your resume
 - Names: Playfair, Snow, Tufte, Cairo.
 - Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
+- What is the difference between infographics and data visualizations?
 - [Creating a page with TextEditor and html](http://www.w3schools.com/html/html_intro.asp)
 - Assignments.
 
