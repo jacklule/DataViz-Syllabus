@@ -8,9 +8,12 @@
 - Goal: Telling Stories with Data
 - Principles (long lasting) and Practice (always evolving)
 - Fixing the hole in your resume
+- Google spreadsheet for review of readings, quizzes and tests
 - Names: Playfair, Snow, Tufte, Cairo.
 - Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
 - What is the difference between infographics and data visualizations?
+- Introduction to GitHub
+- Difference between .md pages and html pages
 - [Creating a page with TextEditor and html](http://www.w3schools.com/html/html_intro.asp)
 - Assignments.
 
