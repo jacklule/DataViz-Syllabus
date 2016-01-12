@@ -75,9 +75,9 @@
 
 ### [Week 6, Monday, October 3](Weeks/week06-01.md)
 
-- Static vs. interactive visualizations.
-- The elemental forms of data visualization.
-- Charting tools.
+- Data Visualization for Mobile.
+- Designing for Mobile.
+- Interactivity for Mobile.
 
 ### [Week 6, Wednesday, October 5](Weeks/week06-02.md)
 
