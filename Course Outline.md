@@ -87,8 +87,8 @@
 
 ### [Week 7, Monday, October 10](Weeks/week07-01.md)
 
-- Overview.
-- Analysis.
+- Ambition: Data Visualization as Documentary
+- [The Fallen of World War II](http://www.fallen.io/ww2/)
 - Analysis.
 
 ### [Week 7, Wednesday, October 12](Weeks/week07-02.md)
