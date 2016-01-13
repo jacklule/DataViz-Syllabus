@@ -20,8 +20,8 @@
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
 
+#### Getting comfortable with GitHub
 - Goal: Storytelling with data.
-- Getting comfortable with GitHub
 - Static v. Interactive visualizations.
 - The elemental forms of data visualization.
 
