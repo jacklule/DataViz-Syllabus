@@ -10,6 +10,7 @@
 - Fixing the hole in your resume
 - Google spreadsheet for review of readings, quizzes and tests
 - Names: Playfair, Snow, Tufte, Cairo.
+- [The Art of Data Visualization, PBS, 7:44](http://www.pbs.org/video/2365039781/)
 - Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
 - What is the difference between infographics and data visualizations?
 - Introduction to GitHub
