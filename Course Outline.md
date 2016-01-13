@@ -76,7 +76,7 @@
 
 ### [Week 6, Monday, October 3](Weeks/week06-01.md)
 
-- Data Visualization for Mobile.
+#### Data Visualization for Mobile
 - Designing for Mobile.
 - Interactivity for Mobile.
 
@@ -88,7 +88,7 @@
 
 ### [Week 7, Monday, October 10](Weeks/week07-01.md)
 
-- Ambition: Data Visualization as Documentary
+#### Data Visualization as Documentary
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - Analysis.
 
