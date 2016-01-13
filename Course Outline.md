@@ -4,8 +4,8 @@
 
 ### [Week 1, Monday, August 29/Wednesday, October 19](Weeks/week01-01.md)
 
+#### Telling Stories with Data
 - Structure of Jour 24.
-- Goal: Telling Stories with Data
 - Principles (long lasting) and Practice (always evolving)
 - Fixing the hole in your resume
 - Google spreadsheet for review of readings, quizzes and tests
