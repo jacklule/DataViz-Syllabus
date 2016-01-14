@@ -4,13 +4,17 @@
 
 ### [Week 1, Monday, August 29/Wednesday, October 19](Weeks/week01-01.md)
 
-#### Telling Stories with Data
+### Telling Stories with Data
+
+#### Principles
 - Structure of Jour 24.
 - Principles (long lasting) and Practice (always evolving)
 - Fixing the hole in your resume
 - Google spreadsheet for review of readings, quizzes and tests
 - Names: Playfair, Snow, Tufte, Cairo.
 - [The Art of Data Visualization, PBS, 7:44](http://www.pbs.org/video/2365039781/)
+
+#### Practice
 - Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
 - What is the difference between infographics and data visualizations?
 - Introduction to GitHub
@@ -24,9 +28,12 @@
 - Goal: Storytelling with data
 - GitHub Exercise
 - GitHub Assignment
+
+#### The Functional Art
+- Assignment: The Functional Art
 - Assignment: FlowingData
 - Assignment: Journalism in the Age of Data
-- Assignment: The elemental forms of data visualization
+- Assignment: The Visual Display of Quantitative Information
 
 ### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
