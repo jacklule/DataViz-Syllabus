@@ -27,14 +27,14 @@
 
 ### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
-- Telling Stories with Charts
+####Telling Stories with Charts
 - Charting with Excel
 - Charting tools
 - Chartbuilder
 
 ### [Week 2, Wednesday, September 7](Weeks/week02-02.md)
 
-- Chart Exercise
+####Telling Stories with Charts
 - Analysis.
 - Chart Assignment
 
