@@ -6,13 +6,7 @@
 
 ### Telling Stories with Data
 
-#### Principles
-- Structure of Jour 24.
-- Principles (long lasting) and Practice (always evolving)
-- Fixing the hole in your resume
-- Google spreadsheet for review of readings, quizzes and tests
-- Names: Playfair, Snow, Tufte, Cairo.
-- [The Art of Data Visualization, PBS, 7:44](http://www.pbs.org/video/2365039781/)
+#### Principles: from Playfair to Tufte to Cairo
 
 #### Practice
 - Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
