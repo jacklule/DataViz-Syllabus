@@ -8,13 +8,7 @@
 
 #### Principles: from Playfair to Tufte to Cairo
 
-#### Practice
-- Tools: GitHub; Chartbuilder; Google Fusion; CartoDB; Tableau.
-- What is the difference between infographics and data visualizations?
-- Introduction to GitHub
-- Difference between .md pages and html pages
-- [Creating a page with TextEditor and html](http://www.w3schools.com/html/html_intro.asp)
-- Assignments
+#### Practice: GitHub, the TextEditor and html
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
 
