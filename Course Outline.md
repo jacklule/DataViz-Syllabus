@@ -16,14 +16,17 @@
 - Introduction to GitHub
 - Difference between .md pages and html pages
 - [Creating a page with TextEditor and html](http://www.w3schools.com/html/html_intro.asp)
-- Assignments.
+- Assignments
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
 
 #### Getting comfortable with GitHub
-- Goal: Storytelling with data.
-- Static v. Interactive visualizations.
-- The elemental forms of data visualization.
+- Goal: Storytelling with data
+- GitHub Exercise
+- GitHub Assignment
+- Assignment: FlowingData
+- Assignment: Journalism in the Age of Data
+- Assignment: The elemental forms of data visualization
 
 ### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
