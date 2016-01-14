@@ -35,7 +35,7 @@
 ### [Week 2, Wednesday, September 7](Weeks/week02-02.md)
 
 ####Telling Stories with Charts
-- Analysis.
+- Chart Exercise
 - Chart Assignment
 
 ### [Week 3, Monday, September 12](Weeks/week03-01.md)
