@@ -14,12 +14,7 @@
 - GitHub for Creating and Sharing
 - The Functional Art
 - Flowing Data
-
-#### The Functional Art
-- Assignment: The Functional Art
-- Assignment: FlowingData
-- Assignment: Journalism in the Age of Data
-- Assignment: The Visual Display of Quantitative Information
+- Journalism in the Age of Data
 
 ### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
