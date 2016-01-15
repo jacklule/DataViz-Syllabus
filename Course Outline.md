@@ -32,7 +32,7 @@
 
 ####Telling Stories with Maps
 - Choice and Design
-- Mapping tools: Google, ArcGis, Cartodb
+- Mapping tools: Google Fusion, ArcGis, Cartodb
 
 ### [Week 3, Wednesday, September 14](Weeks/week03-02.md)
 
