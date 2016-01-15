@@ -4,7 +4,7 @@
 
 ### [Week 1, Monday, August 29/Wednesday, October 19](Weeks/week01-01.md)
 
-### Telling Stories with Data
+#### Telling Stories with Data
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, the TextEditor and html
 
