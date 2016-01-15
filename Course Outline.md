@@ -10,10 +10,10 @@
 
 ### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
 
-#### Getting comfortable with GitHub
-- Goal: Storytelling with data
-- GitHub Exercise
-- GitHub Assignment
+#### Telling Stories with Data
+- GitHub for Creating and Sharing
+- The Functional Art
+- Flowing Data
 
 #### The Functional Art
 - Assignment: The Functional Art
