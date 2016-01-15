@@ -30,15 +30,15 @@
 
 ### [Week 3, Monday, September 12](Weeks/week03-01.md)
 
-- Overview.
-- Analysis.
-- Analysis.
+####Telling Stories with Maps
+- Choice and Design
+- Mapping tools: Google, ArcGis, Cartodb
 
 ### [Week 3, Wednesday, September 14](Weeks/week03-02.md)
 
-- Overview.
-- Analysis.
-- Analysis.
+####Telling Stories with Maps
+- Map Exercise
+- Map Assignment
 
 ### [Week 4, Monday, September 19](Weeks/week04-01.md)
 
