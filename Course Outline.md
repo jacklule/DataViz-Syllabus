@@ -19,9 +19,8 @@
 ### [Week 2, Monday, September 5](Weeks/week02-01.md)
 
 ####Telling Stories with Charts
-- Charting with Excel
-- Charting tools
-- Chartbuilder
+- Choice and Design
+- Charting tools: Excel, Datawrapper, Chartbuilder
 
 ### [Week 2, Wednesday, September 7](Weeks/week02-02.md)
 
