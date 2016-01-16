@@ -42,15 +42,15 @@
 
 ### [Week 4, Monday, September 19](Weeks/week04-01.md)
 
+####Telling Interactive Stories
 - Static vs. interactive visualizations.
-- The elemental forms of data visualization.
-- Charting tools.
+- Tableau
 
 ### [Week 4, Wednesday, September 21](Weeks/week04-02.md)
 
-- Overview.
-- Analysis.
-- Analysis.
+####Telling Interactive Stories
+- Tableau Exercise
+- Tableau Assignment
 
 ### [Week 5, Monday, September 26](Weeks/week05-01.md)
 
