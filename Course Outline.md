@@ -5,6 +5,7 @@
 ### [Week 1, Monday, August 29 and Wednesday, October 19](Weeks/week01-01.md)
 
 #### Telling Stories with Data
+- Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, the TextEditor and html
 
