@@ -55,33 +55,27 @@
 
 ### [Week 5, Monday, September 26](Weeks/week05-01.md)
 
-- Overview.
-- Analysis.
-- Analysis.
+####Telling Stories for Mobile
+- Designing for Mobile
 
 ### [Week 5, Wednesday, September 28](Weeks/week05-02.md)
 
-- Overview.
-- Analysis.
-- Analysis.
+####Telling Stories for Mobile
+- Designing for Mobile
 
 ### [Week 6, Monday, October 3](Weeks/week06-01.md)
 
-#### Data Visualization for Mobile
-- Designing for Mobile.
-- Interactivity for Mobile.
+#### Data Visualization as Documentary
+- [The Fallen of World War II](http://www.fallen.io/ww2/)
 
 ### [Week 6, Wednesday, October 5](Weeks/week06-02.md)
 
-- Overview.
-- Analysis.
+#### Data Visualization as Documentary
 - Analysis.
 
 ### [Week 7, Monday, October 10](Weeks/week07-01.md)
 
-#### Data Visualization as Documentary
-- [The Fallen of World War II](http://www.fallen.io/ww2/)
-- Analysis.
+ - Presentation of Final Projects
 
 ### [Week 7, Wednesday, October 12](Weeks/week07-02.md)
 
