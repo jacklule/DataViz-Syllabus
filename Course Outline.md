@@ -87,6 +87,6 @@
 
 - Presentation of Final Projects
 
-### [Week 8, Monday, October 17, Pacing Break/December 7 last day of classes] (Weeks/week08-01.md)
+### [Week 8, Monday, October 17, Pacing Break and December 7 last day of classes] (Weeks/week08-01.md)
 
 
