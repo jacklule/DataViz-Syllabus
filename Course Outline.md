@@ -75,11 +75,11 @@
 
 ### [Week 7, Monday, October 10](Weeks/week07-01.md)
 
- - Presentation of Final Projects
+####Presentation of Final Projects
 
 ### [Week 7, Wednesday, October 12](Weeks/week07-02.md)
 
-- Presentation of Final Projects
+####Presentation of Final Projects
 
 ### [Week 8, Monday, October 17, Pacing Break and December 7 last day of classes] (Weeks/week08-01.md)
 
