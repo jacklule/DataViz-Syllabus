@@ -8,9 +8,8 @@
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, the TextEditor and html
 
-### [Week 1, Wednesday, August 31](Weeks/week01-02.md)
+### [Week 1, Wed., Aug. 31: Telling Stories with Data](Weeks/week01-02.md)
 
-#### Telling Stories with Data
 - GitHub for Creating and Sharing
 - The Functional Art
 - Flowing Data
