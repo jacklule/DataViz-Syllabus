@@ -6,6 +6,9 @@
 
 <p> To Customize the GitHub Page, which will eventually be their GitHub portfolio:</p>
 
+- After creating username.github.io, students can personalize that page;
+- they should go to page --- username.github.io -- and find the setting link to the top right;
+
 **UPDATE**: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up:
 
 - Students first must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
