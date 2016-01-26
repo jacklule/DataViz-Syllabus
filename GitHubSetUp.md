@@ -2,7 +2,7 @@
 
 <p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a></p>
 
-<p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac."</p>
+<p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page.</p>
 
 <p> To Customize the GitHub Page, which will eventually be their GitHub portfolio, students should follow these steps:</p>
 
