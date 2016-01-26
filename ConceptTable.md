@@ -1,6 +1,6 @@
-| First Header  | Second Header |
+| Concept List  | Fall 2016 |
 | ------------- | ------------- |
-| William Playfair
+| William Playfair | John Snow | Edward Tufte |
 John Snow
 Edward Tufte
 Alberto Cairo
