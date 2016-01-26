@@ -3,12 +3,6 @@
 | William Playfair | John Snow | Edward Tufte | Alberto Cairo  |
 | Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
 | the guardian.com | the UpShot | KnowMore | 538 |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-|the guardian.com/data | The Upshot | 538 |
 |data | data visualization | infographic | GitHub |
 | md files | html files | pull request | branch |
 
