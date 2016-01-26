@@ -9,7 +9,7 @@
 [Meta comment: Tables are easy to create with "GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
 Much easier than creating a table in html. Be sure to name the page with .md. 
 
-In html, I would have needed more tags such as html, body, table border=“1”, style="width:50%", and then, after each line, tr for table row, td for table data.
+In html, I would have needed more tags such as html, body, table border=“1”, style="width:50%", and then, after each line, tr for table row, td for table data. I also struggled to get the table width right.
 
 <html>
 <body>
