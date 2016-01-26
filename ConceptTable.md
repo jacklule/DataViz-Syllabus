@@ -24,6 +24,7 @@ In html, I would have needed more tags such as html, body, table border=“1”,
     <td>Alberto Cairo</td>
     <td>Simon Rogers</td>		
     <td>theguardian.com/data</td>
+    <td>The UpShot</td>
   </tr>
   </table>
 
