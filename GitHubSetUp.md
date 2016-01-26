@@ -2,7 +2,7 @@
 
 <p>Students of course first need to set up an account. <a href="https://github.com">It is easy at GitHub.com.</a></p>
 
-<p><a href="https://pages.github.com/"> I then followed this GitHub Pages guide, using "User or organization" site and "GitHub for Mac."</a></p>
+<p>I then followed the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac."</p>
 
 **UPDATE**: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up:
 
