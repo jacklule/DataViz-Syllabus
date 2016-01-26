@@ -31,7 +31,7 @@ In html, I would have needed more tags such as table border=“1”, style="widt
 
 <h3>Concept Table: Data Visualization in Journalism</h3>
 
-<table border=“1” style="width:50%">
+<table border=“1”>
   <tr>
     <td>William Playfair</td>
     <td>John Snow</td>		
