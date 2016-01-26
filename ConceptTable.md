@@ -38,8 +38,7 @@ In html, I would have needed more tags such as table border=“1”, style="widt
     <td>Edward Tufte</td>
     <td>Alberto Cairo</td>
     <td>Simon Rogers</td>		
-    <td>theguardian.com/data</td>
-  </tr>
+    <td>theguardian.com/data</td></tr>
   </table>
 
 <h1>Concept Table</h1>
@@ -50,8 +49,6 @@ In html, I would have needed more tags such as table border=“1”, style="widt
     <td>William Playfair</td>
     <td>John Snow</td>		
     <td>Edward Tufte</td>
-  </tr>
-  <tr>
     <td>Alberto Cairo</td>
     <td>Simon Rogers</td>		
     <td>theguardian.com/data</td>
