@@ -36,8 +36,6 @@ In html, I would have needed more tags such as table border=“1”, style="widt
     <td>William Playfair</td>
     <td>John Snow</td>		
     <td>Edward Tufte</td>
-  </tr>
-  <tr>
     <td>Alberto Cairo</td>
     <td>Simon Rogers</td>		
     <td>theguardian.com/data</td>
