@@ -1,6 +1,12 @@
-| Concept List  | Fall 2016 |
+| Concepts 2016  | Concepts 2016 | Concepts 2016 | Concepts 2016 | Concepts 2016 |
 | ------------- | ------------- |
-| William Playfair | John Snow | Edward Tufte |
+| William Playfair | John Snow | Edward Tufte | Alberto Cairo |
+| Simon Rogers |Nate Silver | Nathan Yau | Hans Gosling |
+|the guardian.com/data | The Upshot | 538 |
+|data | data visualization | infographic | GitHub |
+| md files | html files | pull request | branch | merge|
+
+Conten
 John Snow
 Edward Tufte
 Alberto Cairo
@@ -10,21 +16,14 @@ Nathan Yau
 Hans Gosling
 Nate Silver
 data
-data visualization
-infographic
-GitHub
-md files
-html files
-pull request
-branch
-mergeContent Cell  | Content Cell  |
+t Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
 [Meta comment: Tables are easy to create with "GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
 Much easier than creating a table in html. Be sure to name the page with .md.
 
-In html, I would have needed more tags such as table border=“1”, style="width:50%", and then, after each line, tr for table row, td for table data.
+In html, I would have needed more tags such as html, body, table border=“1”, style="width:50%", and then, after each line, tr for table row, td for table data.
 
 <html>
 <body>
