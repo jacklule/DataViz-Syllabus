@@ -4,7 +4,7 @@
 
 <p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac."</p>
 
-<p> To Customize the GitHub Page, which will eventually be their GitHub portfolio:</p>
+<p> To Customize the GitHub Page, which will eventually be their GitHub portfolio, students should follow these steps:</p>
 
 - After creating username.github.io, students can personalize that page;
 - they should go to page --- username.github.io -- and find the setting link to the top right;
