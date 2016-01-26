@@ -24,7 +24,9 @@ mergeContent Cell  | Content Cell  |
 [Meta comment: Tables are easy to create with "GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
 Much easier than creating a table in html. Be sure to name the page with .md.
 
-Here is what it looked like in html:
+Here is what it looked like in html: It needed many html tags such as <table border=“1” style="width:50%">
+  <tr>
+    <td>William Playfair</td>
 <html>
 <body>
 
