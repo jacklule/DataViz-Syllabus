@@ -26,6 +26,15 @@ In html, I would have needed more tags such as html, body, table border=“1”,
     <td>theguardian.com/data</td>
     <td>KnowMore</td>
   </tr>
+  <tr>
+  <td>data</td>
+  <td>data visualization</td>
+  <td>infographic</td>
+  <td>GitHub</td>
+  <td>md files</td>
+  <td>html files</td>
+  <td>pull request</td>
+  </tr>
   </table>
 
 </body>
