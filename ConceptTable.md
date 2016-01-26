@@ -14,7 +14,7 @@ In html, I would have needed more tags such as html, body, table border=“1”,
 <html>
 <body>
 
-<h4>Concept Table: Data Visualization in Journalism</h4>
+<h4>Concept table done in html</h4>
 
 <table border=“1”>
   <tr>
@@ -24,7 +24,7 @@ In html, I would have needed more tags such as html, body, table border=“1”,
     <td>Alberto Cairo</td>
     <td>Simon Rogers</td>		
     <td>theguardian.com/data</td>
-    <td>The UpShot</td>
+    <td>the UpShot</td>
   </tr>
   </table>
 
