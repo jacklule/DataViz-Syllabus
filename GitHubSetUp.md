@@ -1,6 +1,6 @@
 ##Getting Set Up in GitHub
 
-<p>Students of course first need to set up an account. <a href="https://github.com">It is easy at GitHub.com.</a></p>
+<p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a></p>
 
 <p>I then followed the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac."</p>
 
