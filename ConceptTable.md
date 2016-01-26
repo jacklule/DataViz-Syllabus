@@ -1,7 +1,13 @@
-| Concepts 2016  | Concepts 2016 | Concepts 2016 | Concepts 2016 |
-| ------------- | ------------- || ------------- | ------------- |
-| William Playfair | John Snow | Edward Tufte | Alberto Cairo |
-| Simon Rogers |Nate Silver | Nathan Yau | Hans Gosling |
+| Concepts 2016 |  | |  |
+| ------------- | ------------- | ------------ | --------------- |
+| William Playfair | John Snow | Edward Tufte | Alberto Cairo  |
+| Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
+| the guardian.com | the UpShot | KnowMore | 538 |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 |the guardian.com/data | The Upshot | 538 |
 |data | data visualization | infographic | GitHub |
 | md files | html files | pull request | branch |
@@ -20,7 +26,7 @@ t Cell  | Content Cell  |
 
 
 [Meta comment: Tables are easy to create with "GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
-Much easier than creating a table in html. Be sure to name the page with .md.
+Much easier than creating a table in html. Be sure to name the page with .md. 
 
 In html, I would have needed more tags such as html, body, table border=“1”, style="width:50%", and then, after each line, tr for table row, td for table data.
 
