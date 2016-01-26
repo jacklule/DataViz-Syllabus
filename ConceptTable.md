@@ -14,7 +14,7 @@ In html, I would have needed more tags such as html, body, table border=“1”,
 <html>
 <body>
 
-<h3>Concept Table: Data Visualization in Journalism</h3>
+<h4>Concept Table: Data Visualization in Journalism</h4>
 
 <table border=“1”>
   <tr>
@@ -23,42 +23,9 @@ In html, I would have needed more tags such as html, body, table border=“1”,
     <td>Edward Tufte</td>
     <td>Alberto Cairo</td>
     <td>Simon Rogers</td>		
-    <td>theguardian.com/data</td></tr>
-  </table>
-
-<h1>Concept Table</h1>
-<h1>Data Visualization in Journalism</h1>
-
-<table border=“1” style="width:50%">
-  <tr>
-    <td>William Playfair</td>
-    <td>John Snow</td>		
-    <td>Edward Tufte</td>
-    <td>Alberto Cairo</td>
-    <td>Simon Rogers</td>		
     <td>theguardian.com/data</td>
   </tr>
-<tr>
-    <td>Nathan Yau</td>
-    <td>Hans Gosling</td>		
-    <td>Nate Silver</td>
-  </tr>
-  <tr>
-    <td>data</td>
-    <td>data visualization</td>		
-    <td>infographic</td>
-  </tr>
-<tr>
-    <td>GitHub</td>
-    <td>md files</td>		
-    <td>html files</td>
-  </tr>
-<tr>
-    <td>pull request</td>
-    <td>branch</td>		
-    <td>merge</td>
-  </tr>
-</table>
+  </table>
 
 </body>
 </html>
