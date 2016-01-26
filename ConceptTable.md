@@ -1,12 +1,11 @@
-| Concepts 2016  | Concepts 2016 | Concepts 2016 | Concepts 2016 | Concepts 2016 |
-| ------------- | ------------- |
+| Concepts 2016  | Concepts 2016 | Concepts 2016 | Concepts 2016 |
+| ------------- | ------------- || ------------- | ------------- |
 | William Playfair | John Snow | Edward Tufte | Alberto Cairo |
 | Simon Rogers |Nate Silver | Nathan Yau | Hans Gosling |
 |the guardian.com/data | The Upshot | 538 |
 |data | data visualization | infographic | GitHub |
-| md files | html files | pull request | branch | merge|
+| md files | html files | pull request | branch |
 
-Conten
 John Snow
 Edward Tufte
 Alberto Cairo
