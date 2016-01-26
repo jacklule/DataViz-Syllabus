@@ -42,3 +42,6 @@ Here is what it looked like in html:
     <td>Simon Rogers</td>		
     <td>theguardian.com/data</td>
   </tr>
+  </table>
+</body>
+</html>
