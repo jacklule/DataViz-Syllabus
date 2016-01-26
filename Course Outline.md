@@ -6,7 +6,7 @@
 ### Telling Stories with Data
 - Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
-- Practice: GitHub, the TextEditor and html
+- Practice: GitHub, md. html. and the TextEditor
 
 ### [Week 1, Wed., Aug. 31: Telling Stories with Data](Weeks/week01-02.md)
 
