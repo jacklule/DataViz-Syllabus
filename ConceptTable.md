@@ -26,6 +26,9 @@ Much easier than creating a table in html. Be sure to name the page with .md.
 
 In html, I would have needed more tags such as table border=“1”, style="width:50%", and then, after each line, tr for table row, td for table data.
 
+<html>
+<body>
+
 <h3>Concept Table: Data Visualization in Journalism</h3>
 
 <table border=“1” style="width:50%">
@@ -40,10 +43,6 @@ In html, I would have needed more tags such as table border=“1”, style="widt
     <td>theguardian.com/data</td>
   </tr>
   </table>
-</body>
-</html>
-<html>
-<body>
 
 <h1>Concept Table</h1>
 <h1>Data Visualization in Journalism</h1>
