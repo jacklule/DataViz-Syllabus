@@ -8,8 +8,17 @@
 
 - After creating username.github.io, students can personalize that page;
 - They should go to page --- username.github.io -- and find the **setting** link to the top right;
+- Scroll down to Update site and click on Automatic Page Generator;
+- provide a straightforward page name: name.github.io
+- provide a brief tagline of description;
+- scroll past generic text and continue to Layout; 
+- I chose Minimal but students can pick from other styles;
+- Students can then go to their index page, remove generic GitHug text and provide their own content
+- Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
-**UPDATE**: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up:
+##To submit assignments
+
+**UPDATE**: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up for submitting assignments:
 
 - Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
 - Students then **set up their repo site at github.io**, retracing my steps at [Git Hub Pages guide above](https://pages.github.com/)
