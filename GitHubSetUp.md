@@ -2,9 +2,9 @@
 
 <p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a></p>
 
-<p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page.</p>
+<p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
-<p> To Customize the GitHub Page, which will eventually be their GitHub portfolio, students should follow these steps:</p>
+<p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
 
 - After creating username.github.io, students can personalize that page;
 - They should go to page --- username.github.io -- and find the **setting** link to the top right;
@@ -13,7 +13,8 @@
 - provide a brief tagline of description;
 - scroll past generic text and continue to Layout; 
 - I chose Minimal but students can pick from other styles;
-- Students can then go to their index page, remove generic GitHug text and provide their own content
+- the repo/portfolio page is now customized;
+- Students can then go to their index page, remove the generic GitHug text and begin providjng their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
 ##To submit assignments
