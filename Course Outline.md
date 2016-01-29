@@ -63,8 +63,6 @@
 
 ### [Week 6, Monday, October 3](WeeklySchedule/week06-01.md)
 
-#### Data Visualization as Documentary
-- [The Fallen of World War II](http://www.fallen.io/ww2/)
 
 ### [Week 6, Wednesday, October 5](WeeklySchedule/week06-02.md)
 
@@ -73,11 +71,16 @@
 
 ### [Week 7, Monday, October 10](WeeklySchedule/week07-01.md)
 
-####Presentation of Final Projects
+#### Data Visualization as Documentary
+- [The Fallen of World War II](http://www.fallen.io/ww2/)
+- MIT Interactive Documentary and Digital Journalism
 
 ### [Week 7, Wednesday, October 12](WeeklySchedule/week07-02.md)
 
-####Presentation of Final Projects
+#### Comics as Data Visualization
+- Facebook and Bitstrips
+- Mark Fiore
+- Kidnapped in Syria
 
 ### [Week 8, Monday, October 17, Pacing Break and December 7 last day of classes] (WeeklySchedule/week08-01.md)
 
