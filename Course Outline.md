@@ -47,9 +47,6 @@
 
 ### [Week 4, Wednesday, September 21](WeeklySchedule/week04-02.md)
 
-####Telling Interactive Stories
-- Tableau Exercise
-- Tableau Assignment
 
 ### [Week 5, Monday, September 26](WeeklySchedule/week05-01.md)
 
@@ -64,8 +61,6 @@
 
 ### [Week 6, Wednesday, October 5](WeeklySchedule/week06-02.md)
 
-####Telling Stories for Mobile
-- Designing for Mobile
 
 ### [Week 7, Monday, October 10](WeeklySchedule/week07-01.md)
 
