@@ -53,21 +53,19 @@
 
 ### [Week 5, Monday, September 26](WeeklySchedule/week05-01.md)
 
-####Telling Stories for Mobile
-- Designing for Mobile
 
 ### [Week 5, Wednesday, September 28](WeeklySchedule/week05-02.md)
 
-####Telling Stories for Mobile
-- Designing for Mobile
 
 ### [Week 6, Monday, October 3](WeeklySchedule/week06-01.md)
 
+####Telling Stories for Mobile
+- Designing for Mobile
 
 ### [Week 6, Wednesday, October 5](WeeklySchedule/week06-02.md)
 
-#### Data Visualization as Documentary
-- Analysis.
+####Telling Stories for Mobile
+- Designing for Mobile
 
 ### [Week 7, Monday, October 10](WeeklySchedule/week07-01.md)
 
