@@ -28,7 +28,7 @@
 - **To "hand in" the assignment**, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into their "Portfolio" page, name.github.io; 2) The students may need to add http:// in front of the assigment file path name on their Portfolio page for the pasted url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Portfolio page.
 - Again, name.github.io will be **The Portfolio** page, a collection of Data Viz work that can be shared with future employers.
 
-**File and Folder management** is important.
+##File and Folder management
 
 Creating folders within GitHub:
 - go to the folder inside which you want to create another folder
