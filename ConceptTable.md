@@ -1,5 +1,6 @@
 | Concepts 2016 | See meta-commentary below  | |  |
 | ------------- | ------------- | ------------ | --------------- |
+| 01-01 | data.gov | Socrata | Infochimps |infographics |
 | William Playfair | John Snow | Edward Tufte | Alberto Cairo  |
 | Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
 | the guardian.com | the UpShot | KnowMore | 538 |
