@@ -1,9 +1,9 @@
 | Concepts 2016 | See meta-commentary below  | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
 | **01-01** | data.gov | Socrata | Infochimps |infographics |
+| the guardian.com/data | the Upshot | KnowMore | 538 | HuffPo Data |
 |Alberto Cairo| Robert Kosara | Edward Tufte |John Snow  |William Playfair |
 | Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
-| the guardian.com | the UpShot | KnowMore | 538 |
 |data | data visualization | infographic | GitHub |
 | md files | html files | pull request | branch |
 
