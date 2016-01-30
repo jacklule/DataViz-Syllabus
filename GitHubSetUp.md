@@ -17,7 +17,7 @@
 - Students can then go to their index page, remove the generic GitHug text and begin providjng their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
-##To submit assignments, Create html pages: Day 2
+##To submit assignments, create html pages: Day 2
 
 Students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up for submitting assignments:
 
