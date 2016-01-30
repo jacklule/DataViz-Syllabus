@@ -1,4 +1,4 @@
-| Concepts 2016 | See meta-commentary at bottom  | |  |
+| Concepts 2016 | See meta-commentary below  | |  |
 | ------------- | ------------- | ------------ | --------------- |
 | William Playfair | John Snow | Edward Tufte | Alberto Cairo  |
 | Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
