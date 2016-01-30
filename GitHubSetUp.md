@@ -1,6 +1,6 @@
 ##Getting Set Up in GitHub
 
-<p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a></p>
+<p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a> They should compose a brief ReadMe page in md.</p>
 
 <p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
