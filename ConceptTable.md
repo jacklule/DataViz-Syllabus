@@ -1,7 +1,7 @@
 | Concepts 2016 | See meta-commentary below  | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
 | **01-01** | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
-| the guardian.com/data | the Upshot | KnowMore | 538 | HuffPo Data |
+| the guardian.com/data | The Upshot | KnowMore | 538 | HuffPo Data |
 |Alberto Cairo| Robert Kosara | Edward Tufte |John Snow  |William Playfair |
 | Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
 |data | data visualization | infographic | GitHub |
