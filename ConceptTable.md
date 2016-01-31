@@ -1,6 +1,6 @@
 ## Concepts Fall 2016
 #####(meta-commentary below) 
-|01-01 | | |  |  |
+|**01-01** | | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
 | telling stories | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
 | Socrata | Infochimps |infographics | the guardian.com/data | The Upshot | 
