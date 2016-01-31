@@ -2,7 +2,8 @@
 | ------------- | ------------- | ------------ | --------------- | -------- |
 | **01-01** | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
 | the guardian.com/data | The Upshot | KnowMore | 538 | HuffPo Data |
-|Alberto Cairo| Robert Kosara | Edward Tufte |John Snow  |William Playfair |
+|Alberto Cairo| Robert Kosara | Emily Ferber | commits | forking | pull requests |
+| Edward Tufte |John Snow  |William Playfair |
 | Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
 |data | data visualization | infographic | GitHub |
 | md files | html files | pull request | branch |
