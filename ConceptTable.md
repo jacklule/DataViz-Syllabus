@@ -4,9 +4,9 @@
 | the guardian.com/data | The Upshot | KnowMore | 538 | HuffPo Data |
 | Alberto Cairo| Robert Kosara | Emily Ferber | commits | forking |
 | pull requests | Edward Tufte | style and failed content | Galileo | pattern recognition |
-| tiger in the grass | Hans Goslng | 
+| tiger in the grass | Hans Gosling | 
 | John Snow  |William Playfair |
-| Simon Rogers  | Nate Silver  | Nathan Yau | Hans Gosling |
+| Simon Rogers  | Nate Silver  | Nathan Yau |
 | data | data visualization | infographic | GitHub |
 | md files | html files | pull request | branch |
 | Socrata | Infochimps |infographics |
