@@ -3,7 +3,7 @@
 | **01-01** | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
 | Socrata | Infochimps |infographics | the guardian.com/data | The Upshot | 
 | KnowMore | 538 | HuffPo Data | Alberto Cairo| Robert Kosara | Emily Ferber |
-| commits | forking |
+| commits | forking | GitHub | | md files | html files |
 | pull requests | Edward Tufte | style and failed content | Galileo | pattern recognition |
 | tiger in the grass | Hans Gosling | long life, small family | history of data viz | William Playfair |
 | Charles Minard | John Snow |
