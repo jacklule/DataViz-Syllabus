@@ -1,5 +1,5 @@
 ## Concepts Fall 2016
-#####meta-commentary below 
+#####(meta-commentary below) 
 |01-01 | | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
 | telling stories | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
