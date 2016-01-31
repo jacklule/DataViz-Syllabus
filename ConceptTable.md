@@ -1,7 +1,7 @@
 | Concepts 2016 | See meta-commentary below  | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
 | **01-01** | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
-| Socrata | Infochimps |infographics | | the guardian.com/data | The Upshot | 
+| Socrata | Infochimps |infographics | the guardian.com/data | The Upshot | 
 | KnowMore | 538 | HuffPo Data |
 | Alberto Cairo| Robert Kosara | Emily Ferber | commits | forking |
 | pull requests | Edward Tufte | style and failed content | Galileo | pattern recognition |
