@@ -1,7 +1,7 @@
 ## Concepts Fall 2016
-| | See meta-commentary below  | |  |  |
+|01-01 | meta-commentary below  | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
-| **01-01** | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
+| telling stories | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
 | Socrata | Infochimps |infographics | the guardian.com/data | The Upshot | 
 | KnowMore | 538 | HuffPo Data | Alberto Cairo| Robert Kosara |
 | md files | html files | Emily Ferber | commits | forking | GitHub |
