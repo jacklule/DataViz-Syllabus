@@ -6,12 +6,7 @@
 | md files | html files | Emily Ferber | commits | forking | GitHub |
 | pull requests | Edward Tufte | style and failed content | Galileo | pattern recognition |
 | tiger in the grass | Hans Gosling | long life, small family | history of data viz | William Playfair |
-| Charles Minard | John Snow |
-| Simon Rogers  | Nate Silver  | Nathan Yau |
-| data | data visualization | infographic | GitHub |
-| md files | html files | pull request | branch |
-
-
+| Charles Minard | John Snow | Amanda Cox | Libera arts and data viz | Aha moments |
 
 
 **Meta comment**: Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
