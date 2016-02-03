@@ -23,7 +23,7 @@ My **annotations** for Hello World:
 
 ##Getting Set Up at GitHub.io: Day 2
 
-<p> They then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to install GitHub on their local computer and set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
+<p> The following class,the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to install GitHub on their local computer and set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
 <p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
 
