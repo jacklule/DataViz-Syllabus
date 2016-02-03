@@ -6,8 +6,8 @@
 My **annotations** for Hello World:
 - for **Signup**, students should use their first and last name: jacklule
 - before Create a Repository, follow tip to open up Hello World guide in **separate tab** and work in another tab
-- also before repository, GitHub will ask, **Plese verify email address**; will need to open email
-- 
+- also before repository, GitHub will ask, **Please verify email address**; will need to open email
+- for repository, no need to name, "Hello World;" can **name Data Viz**
 
 <p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
 
