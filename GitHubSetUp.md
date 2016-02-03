@@ -10,8 +10,13 @@ My **annotations** for Hello World:
 - for repository, no need to name, "Hello World;" can **name Data Viz**
 - click Public, click Initialize with ReadMe; notice **ReadMe is md file**
 - do Issue and Create Branch, notice **working in branch, not master**; not use often, will work in master, but good practice
-- click to edit ReadMe (**notice we are in branch**);
+- click to access ReadMe (**notice we are in branch**);
 - click pencil icon in top right to **edit ReadMe**; practice md and preview as go along
+- -write a Commit title or message (**grey default can be written over**)
+- can check ReadMe in branch and master to see difference; **master is still unedited; changes have not been pulled in**
+- **request a pull**; will not usually make a request of yourself; just work on master; New Pull Request
+- as creator of the master branch, you **compare change**; either in grey base box, master>branch; or click on edit link; notice changes in green and red
+- click **confirm merge** and **delete branch** to keep things clean
 
 <p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
 
