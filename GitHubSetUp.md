@@ -14,9 +14,10 @@ My **annotations** for Hello World:
 - click pencil icon in top right to **edit ReadMe**; practice md and preview as go along
 - -write a Commit title or message (**grey default can be written over**)
 - can check ReadMe in branch and master to see difference; **master is still unedited; changes have not been pulled in**
-- **request a pull**; will not usually make a request of yourself; just work on master; New Pull Request
+- **request a pull**; (you will not usually make a request of yourself and just work on master) New Pull Request
 - as creator of the master branch, you **compare change**; either in grey base box, master>branch; or click on edit link; notice changes in green and red
 - click **confirm merge** and **delete branch** to keep things clean
+- check your repository; changes made and the branch has been deleted; though we will not use much can see the advantage of collaborative work flow; check the **GitHub work flow** link
 
 <p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
 
