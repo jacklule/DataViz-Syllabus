@@ -4,6 +4,8 @@
 <p>We will follow along with the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
 
 My annotations for Hello World:
+- for **Signup**, students should use their first and last name: jacklule
+- Before **Create a Repository**, follow tip to open up Hello World guide in separate tab and work in another tab
 
 <p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
 
