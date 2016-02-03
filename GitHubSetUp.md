@@ -1,6 +1,8 @@
 ##Getting Set Up at GitHub.com: Day 1
 
-<p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a> They should compose a brief ReadMe page in md.</p>
+<p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a> 
+<p>We will follow along with the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
+<p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
 
 ##Getting Set Up at GitHub.io: Day 2
 
