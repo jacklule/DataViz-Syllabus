@@ -9,7 +9,9 @@ My **annotations** for Hello World:
 - also before repository, GitHub will ask, **Please verify email address**; will need to open email
 - for repository, no need to name, "Hello World;" can **name Data Viz**
 - click Public, click Initialize with ReadMe; notice **ReadMe is md file**
-- do Issue and Create Branch, notice **working in branch, not master**; not use often but good practice
+- do Issue and Create Branch, notice **working in branch, not master**; not use often, will work in master, but good practice
+- click to edit ReadMe (**notice we are in branch**);
+- click pencil icon in top right to **edit ReadMe**; practice md and preview as go along
 
 <p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
 
