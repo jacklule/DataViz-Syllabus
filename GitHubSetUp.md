@@ -4,7 +4,7 @@
 <p>We will follow along with the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
 
 My **annotations** for Hello World:
-- for **Signup**, students should use their first and last name: jacklule
+- for **Signup**, students should use their first and last name: for example, jacklule
 - before Create a Repository, follow tip to open up Hello World guide in **separate tab** and work in another tab
 - also before repository, GitHub will ask, **Please verify email address**; will need to open email
 - for repository, no need to name, "Hello World;" can **name Data Viz**
