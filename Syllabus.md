@@ -1,5 +1,14 @@
-# Syllabus: Fall 2016
-# Data Visualization
+# Syllabus: JOUR 24 Visual Communication
+#Fall 2016
+
+## Data Visualization Module
+
+The best journalism education has at least three parts:
+- A broad and solid liberal arts background
+- Basic journalism skills
+- Preparation for the digital age
+
+In Lehigh's journalism major, you get all three. In Jour 24 Visual Communication, including this module, you get all three.
 
 ##The hole in your resume
 
