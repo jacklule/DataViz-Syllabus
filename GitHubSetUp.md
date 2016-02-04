@@ -34,8 +34,13 @@ My **annotations** for GitHub Pages Guide:
 - Students then save that page to their GitHub repository on the local computer
 - GitHub will recognize a change has been made to the repository. Students then commit the changes and sync with their GitHub site
 - The sync will add the html page to name.github.com
+- Students can view the html page through any browser
 
-<p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
+Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. 
+
+##To Customize the GitHub Page
+
+Remembering that the page eventually will be their GitHub portfolio, students should follow these steps:
 
 - Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
 - After creating username.github.io, students can personalize that page;
@@ -51,7 +56,7 @@ My **annotations** for GitHub Pages Guide:
 
 ##Create and Submit html page to GitHub.io: Day 2
 
-Students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up for submitting assignments:
+
 
 
 - **To publish work saved on the local computer**, such as svg files produced by Chartbuilder: 1) Students would complete the assignment at Chartbuilder; 2) download the svg file to their local computer (the other option, png files, do not render consistently); 3) create an html page for the assignment; 4) insert the svg file into the html page; 5) upload the html page to their github.io site. Here are examples of a Chartbuilder assignment in svg and png format: [Chartbuilder svg test](http://jacklule.github.io/pages/SVGtest.html) and [Chartbuilder png test](http://jacklule.github.io/pages/PNGtest.html)
