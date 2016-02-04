@@ -19,11 +19,11 @@ My **annotations** for Hello World:
 - click **confirm merge** and **delete branch** to keep things clean
 - check your repository; changes made and the branch has been deleted; though we will not use much can see the advantage of collaborative work flow; check the **GitHub work flow** link
 
-<p>Following those instructions, students should compose a brief ReadMe page in md and practice with markdown.</p>
+<p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
 
 ##Getting Set Up at GitHub.io: Day 2
 
-<p> The following class,the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to install GitHub on their local computer and set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
+<p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to install GitHub on their local computer and set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
 <p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
 
