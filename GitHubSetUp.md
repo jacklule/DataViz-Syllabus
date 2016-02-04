@@ -54,7 +54,9 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - Students can then go to their index page, remove the generic GitHug text and begin providjng their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
-##To publish other work, such as charts, Tableau files and YouTube videosto GitHub.io:
+##To publish other work
+
+To publish other work, such as charts, Tableau files and YouTube videosbto GitHub.io:
 
 - **To publish work saved on the local computer**, such as svg files produced by Chartbuilder: 1) Students would complete the assignment at Chartbuilder; 2) download the svg file to their local computer (the other option, png files, do not render consistently); 3) create an html page for the assignment; 4) insert the svg file into the html page; 5) upload the html page to their github.io site. Here are examples of a Chartbuilder assignment in svg and png format: [Chartbuilder svg test](http://jacklule.github.io/pages/SVGtest.html) and [Chartbuilder png test](http://jacklule.github.io/pages/PNGtest.html)
 - **To embed and publish work hosted on sites**, such as Tableau or YouTube: 1) Students would complete the assignment on Tableau; 2) get the embed code at Tableau; 3) create an html page for the assignment; 4) embed the Tableau work into the html page; 5) upload the html page to their github.io site. Here are examples: [You Tube Embed Test](http://jacklule.github.io/pages/YouTubeEmbedTest.html) and [Tableau Embed Test](http://jacklule.github.io/pages/embed-test-Tableau.html)
