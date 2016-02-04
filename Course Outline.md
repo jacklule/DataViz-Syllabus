@@ -1,15 +1,15 @@
-#Jour 24 Data Visualization Module, 7 Weeks
+##Jour 24 Data Visualization Module, 7 Weeks
 
 ## Day-by-Day Course Outline
 
-### [Week 1 (Mon., Aug. 29](WeeklySchedule/week01-01.md) and Wed. Oct. 19
+### [Week 1 (Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed. Oct. 19](WeeklySchedule/week01-01.md)
 ### Telling Stories with Data
 - Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, md. html. and the TextEditor
 
 ### [Week 1, Wed., Aug. 31](WeeklySchedule/week01-02.md)
-##Telling Stories with Data
+###Telling Stories with Data
 
 - GitHub for Creating and Sharing
 - The Functional Art
