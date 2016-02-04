@@ -33,6 +33,7 @@ My **annotations** for GitHub Pages Guide:
 - Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
 - Students then save that page to their GitHub repository on the local computer
 - GitHub will recognize a change has been made to the repository. Students then commit the changes and sync with their GitHub site
+- The sync will add the html page to name.github.com
 
 <p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
 
