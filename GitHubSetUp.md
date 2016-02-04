@@ -25,6 +25,25 @@ My **annotations** for Hello World:
 
 <p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to install GitHub on their local computer and set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
+My **annotations** for GitHub Pages Guide:
+- After choosing User site and GitHub for Mac, students will install or **clone** GitHub on their local computer
+- GitHub says, **grab your favorite text edito**: not so simple; 
+- Students must first **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
+- Students can then take the next step in the Pages Guide and create an index.html page
+- - Opening up the Mac's TextEdit, students will type:
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
+
+
+- Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
+- 
+
+
 <p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
 
 - After creating username.github.io, students can personalize that page;
@@ -42,8 +61,7 @@ My **annotations** for Hello World:
 
 Students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up for submitting assignments:
 
-- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
-- Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
+
 - **To publish work saved on the local computer**, such as svg files produced by Chartbuilder: 1) Students would complete the assignment at Chartbuilder; 2) download the svg file to their local computer (the other option, png files, do not render consistently); 3) create an html page for the assignment; 4) insert the svg file into the html page; 5) upload the html page to their github.io site. Here are examples of a Chartbuilder assignment in svg and png format: [Chartbuilder svg test](http://jacklule.github.io/pages/SVGtest.html) and [Chartbuilder png test](http://jacklule.github.io/pages/PNGtest.html)
 - **To embed and publish work hosted on sites**, such as Tableau or YouTube: 1) Students would complete the assignment on Tableau; 2) get the embed code at Tableau; 3) create an html page for the assignment; 4) embed the Tableau work into the html page; 5) upload the html page to their github.io site. Here are examples: [You Tube Embed Test](http://jacklule.github.io/pages/YouTubeEmbedTest.html) and [Tableau Embed Test](http://jacklule.github.io/pages/embed-test-Tableau.html)
 - **To "hand in" the assignment**, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into their "Portfolio" page, name.github.io; 2) The students may need to add http:// in front of the assigment file path name on their Portfolio page for the pasted url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Portfolio page.
