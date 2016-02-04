@@ -30,16 +30,13 @@ My **annotations** for GitHub Pages Guide:
 - GitHub says, **grab your favorite text editor**: not so simple; 
 - Students must first **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
 - Students can then take the next step in the Pages Guide and create an index.html page
-- Opening up the Mac's TextEdit, students will follow the html directions at the Guide 
-- Students then need to save that page to their GitHub repository on the local computer
-- GitHub will recognize a change has been made to the repository. You will commit the changes and sync with your GitHub site
-
-- Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
-- 
-
+- Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
+- Students then save that page to their GitHub repository on the local computer
+- GitHub will recognize a change has been made to the repository. Students then commit the changes and sync with their GitHub site
 
 <p> To Customize the GitHub Page, remembering that the page eventually will be their GitHub portfolio, students should follow these steps:</p>
 
+- Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
 - After creating username.github.io, students can personalize that page;
 - They should go to page --- username.github.io -- and find the **setting** link to the top right;
 - Scroll down to Update site and click on Automatic Page Generator;
