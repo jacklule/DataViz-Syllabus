@@ -29,6 +29,8 @@ My **annotations** for GitHub Pages Guide:
 - After choosing User site and GitHub for Mac, students will install or **clone** GitHub on their local computer
 - GitHub says, **grab your favorite text editor**: not so simple; 
 - Students must first **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
+- Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
+- If you need to edit the html page in TextEdit later: Under TextEdit, find Preferences, go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text.” Also, under "New Document," make TextEdit default to "plain text" (instead of "rich text").
 - Students can then take the next step in the Pages Guide and create an index.html page
 - Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
 - Students then save that page to their GitHub repository on the local computer
