@@ -23,10 +23,12 @@ My **annotations** for Hello World:
 
 ##Getting Set Up at GitHub.io: Day 2
 
-<p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to install GitHub on their local computer and set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
+<p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
 My **annotations** for GitHub Pages Guide:
-- After choosing User site and GitHub for Mac, students will install or **clone** GitHub on their local computer
+- GitHub for Mac should already be installed on local computer
+- Go to the [GitHub Pages Guide](https://pages.github.com/) and follow steps, using GitHub for Mac
+- "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
 - GitHub says, **grab your favorite text editor**: not so simple; 
 - Students must first **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
