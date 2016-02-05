@@ -41,13 +41,13 @@ My **annotations** for GitHub Pages Guide:
 
 Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. 
 
-##To Edit an html page in TextEdit
+##To edit an html page in TextEdit
 TextEdit will open the page as an html file, not in text edit. To edit an html page in TextEdit:
 - Under TextEdit, find Preferences
 - Go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text” 
 - Under "New Document," make TextEdit default to "plain text" (instead of "rich text")
 
-##To Customize the GitHub.io Page
+##To customize the github.io page
 Remembering that the page eventually will be their GitHub portfolio, students should follow these steps:
 
 - Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
@@ -62,7 +62,7 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - Students can then go to their index page, remove the generic GitHug text and begin providjng their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
-##To publish other work
+##To publish other work at github.io
 
 To publish other work, such as charts, Tableau files and YouTube videos to GitHub.io:
 
@@ -71,7 +71,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - **To "hand in" the assignment**, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into their "Portfolio" page, name.github.io; 2) The students may need to add http:// in front of the assigment file path name on their Portfolio page for the pasted url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Portfolio page.
 - Again, name.github.io will be **The Portfolio** page, a collection of Data Viz work that can be shared with future employers.
 
-##File and Folder management
+##To create and manage files and folders
 
 Creating folders within GitHub:
 - go to the folder inside which you want to create another folder
