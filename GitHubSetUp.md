@@ -38,12 +38,16 @@ My **annotations** for GitHub Pages Guide:
 - GitHub will recognize a change has been made to the repository. Students then commit the changes and sync with their GitHub site
 - The sync will add the html page to name.github.com
 - Students can view the html page through any browser
-- If students need to edit the html page in TextEdit later: Under TextEdit, find Preferences, go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text.” Also, under "New Document," make TextEdit default to "plain text" (instead of "rich text").
 
 Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. 
 
-##To Customize the GitHub Page
+##To Edit an html page in TextEdit
+TextEdit will open the page as an html file, not in text edit. To edit an html page in TextEdit:
+- Under TextEdit, find Preferences
+- Go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text” 
+- Under "New Document," make TextEdit default to "plain text" (instead of "rich text")
 
+##To Customize the GitHub.io Page
 Remembering that the page eventually will be their GitHub portfolio, students should follow these steps:
 
 - Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
