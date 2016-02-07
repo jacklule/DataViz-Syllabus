@@ -82,5 +82,5 @@ Creating folders within GitHub:
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
 
 ###Resources
-- [Nice intro to first steps with GitHub to add to a list](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/_
+- [Nice intro to first steps with GitHub to add to a list](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 - [A good, clear introduction to using Terminal/the Command Line and GitHub](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
