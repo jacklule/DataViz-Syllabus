@@ -83,5 +83,4 @@ Creating folders within GitHub:
 
 ###Resources
 - [Nice intro to first steps with GitHub to add to a list](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/_
-- [A good, clear introduction to using Terminal/the Command Line and GitHub](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/
-- 
+- [A good, clear introduction to using Terminal/the Command Line and GitHub](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
