@@ -80,3 +80,8 @@ Creating folders within GitHub:
 - on the next text field to the right, after the /, type the *file* name (type .md if you want that style) and hit Enter
 - this creates a folder.
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
+
+###Resources
+- [Nice intro to first steps with GitHub to add to a list](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/_
+- [A good, clear introduction to using Terminal/the Command Line and GitHub](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/
+- 
