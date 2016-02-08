@@ -30,8 +30,8 @@ My **annotations** for GitHub Pages Guide:
 - Go to the [GitHub Pages Guide](https://pages.github.com/) and follow steps, using GitHub for Mac
 - "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
 - Step 2: Clone the Repository **may** be accomplished by merely clicking Set Up in Desktop. Students will need to know, however, where the local repo is being stored on the computer.
-- If the cloning does not work, here are [GitHub instructions for cloning](https://help.github.com/articles/cloning-a-repository/); desktop instructions are below.
-- GitHub says, **grab your favorite text editor**: not so simple; 
+- If the cloning does not work, here are [GitHub instructions for cloning](https://help.github.com/articles/cloning-a-repository/); desktop instructions are near the bottom: Go to repo's main page; click on clipboard to copy the URL for the rep; go to GitHub Desktop, verify name and location of where the file should be; click Clone.
+- GitHub then says, **grab your favorite text editor**: not so simple; 
 - Students must first **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
 - Students can then take the next step in the Pages Guide and create an index.html page
