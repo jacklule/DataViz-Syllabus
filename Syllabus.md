@@ -1,10 +1,6 @@
 # Syllabus: JOUR 24 Visual Communication
 #Fall 2016
 
-From Alberto Cairo:
-- "I think that the future of visualization doesn't depend on the tools we use, but on solid principles."
-- "Instead of thinking what the future of visualization will be, I perhaps should talk about what I want the future of news visualization to be."
-
 ## Data Visualization Module
 
 The best journalism education has at least three parts:
@@ -17,6 +13,10 @@ In Lehigh's journalism major, you get all three. In Jour 24 Visual Communication
 In this module, you will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn essential journalism skills, such as working with images and data. You will become familiar with new, but always evolving, digital tools that will help you tell stories with data.
 
 ##Data: The hole in your resume
+
+From Alberto Cairo:
+- "I think that the future of visualization doesn't depend on the tools we use, but on solid principles."
+- "Instead of thinking what the future of visualization will be, I perhaps should talk about what I want the future of news visualization to be."
 
 Many of us go into journalism because we want to tell stories. Data are not stories, we think.
 
