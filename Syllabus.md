@@ -28,6 +28,6 @@ Then, once you see the story in the data, how will you tell the story? Sometimes
 
 Our graduates find work in journalism, media, communication, public relations, marketing, politics, law, health and many other fields. Every single field now wants its employees to understand data and data visualization. If you cannot, you will have a hole in your resume.
 
-Lehigh's Commitment to an Equitable Community
+##Lehigh's Commitment to an Equitable Community
 
 Lehigh University endorses The Principles of Our Equitable Community (http://www4.lehigh.edu/diversity/principles). We expect each member of this class to acknowledge and practice these Principles. Respect for each other and for differing viewpoints is a vital component of the learning environment inside and outside the classroom. 
