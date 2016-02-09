@@ -61,7 +61,7 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - scroll past generic text and continue to Layout; 
 - I chose Minimal but students can pick from other styles;
 - the repo/portfolio page is now customized;
-- Students can then go to their index page, remove the generic GitHug text and begin providjng their own content;
+- Students can then go to their index page, remove the generic GitHug text and begin providing their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
 ##To publish other work at github.io
