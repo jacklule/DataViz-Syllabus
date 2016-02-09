@@ -31,3 +31,7 @@ Our graduates find work in journalism, media, communication, public relations, m
 ##Lehigh's Commitment to an Equitable Community
 
 Lehigh University endorses The Principles of Our Equitable Community (http://www4.lehigh.edu/diversity/principles). We expect each member of this class to acknowledge and practice these Principles. Respect for each other and for differing viewpoints is a vital component of the learning environment inside and outside the classroom. 
+
+##Lehigh Statement on Accommodations for Students with Disabilities  
+
+If you have a disability for which you are or may be requesting accommodations, please contact both your instructor and the Office of Academic Support Services, University Center C212 (610-758-4152) as early as possible in the semester.  You must have documentation from the Academic Support Services office before accommodations can be granted.
