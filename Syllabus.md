@@ -1,5 +1,5 @@
-# Syllabus: JOUR 24 Visual Communication
-#Fall 2016
+# Jour 24 Visual Communication
+# Syllabus Fall 2016
 
 ## Data Visualization Module
 
@@ -30,7 +30,7 @@ Our graduates find work in journalism, media, communication, public relations, m
 
 But no more.
 
-See our [Course Outline](DataViz-Syllabus/Course Outline.md) for how we will proceed.
+See our [Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md) for how we will proceed.
 
 ##Lehigh's Commitment to an Equitable Community
 
