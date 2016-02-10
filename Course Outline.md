@@ -76,6 +76,6 @@
 - Mark Fiore
 - Kidnapped in Syria
 
-### [Week 8, Monday, October 17](WeeklySchedule/week08-01.md) pacing break and [December 7](WeeklySchedule/week08-01.md) last day of classes
+### [Week 8, Monday, October 17](WeeklySchedule/week08-01.md), pacing break and [December 7](WeeklySchedule/week08-01.md), last day of classes
 
 
