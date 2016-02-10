@@ -1,5 +1,5 @@
 # Jour 24 Visual Communication
-# Syllabus Fall 2016
+# Syllabus: Fall 2016
 
 ## Data Visualization Module
 
