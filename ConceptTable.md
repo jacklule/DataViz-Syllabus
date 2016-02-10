@@ -11,7 +11,7 @@
 | Charles Minard | John Snow | Amanda Cox | Liberal arts and data viz | Aha moments |
 
 
-###Meta-comment
+####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
 Much easier than creating a table in html. Be sure to name the page with .md. 
 
