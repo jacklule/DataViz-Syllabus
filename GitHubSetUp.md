@@ -8,7 +8,7 @@ Found below are instructions for:
 
 
 
-##Getting Set Up at GitHub.com<a id="Getting-Set-Up-at-GitHub.com"></a>
+##Getting Set Up at GitHub.com <a id="Getting-Set-Up-at-GitHub.com"></a>
 
 <p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a> 
 <p>We will follow along with the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
@@ -30,8 +30,8 @@ My **annotations** for Hello World:
 - check your repository; changes made and the branch has been deleted; though we will not use much can see the advantage of collaborative work flow; check the **GitHub work flow** link
 
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
-
-##Getting Set Up at GitHub.io <a id="Getting-Set-Up-at-GitHub.io"></a>
+<a id="Getting-Set-Up-at-GitHub.io"></a>
+##Getting Set Up at GitHub.io 
 
 <p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
