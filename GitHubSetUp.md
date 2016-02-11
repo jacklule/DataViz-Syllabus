@@ -109,9 +109,10 @@ Students likely will not have administrative access to download and install GitH
 
 For students then to set up GitHub.io pages, follow the four-step process at [GitHub Pages](https://pages.github.com/) or see above but also follow these annotations:
 
-1. Create a repository at github.com: name.github.io
+1. Create a repository at github.com: 
+  - name.github.io
   - select GitHub for Mac as client
-2.Clone the repository: 
+2. Clone the repository: 
   - GitHub.com might give “Setup in Desktop” as an option. That should clone the repository on the local computer.
   - If that option does not appear: Instructions say to “launch the local app.” That means, find GitHub on the local Mac and open. At top bar, go to File>Clone Repository. Defaults say: “clone as name.github.io” and where (GitHub folder): press okay
   - The repository should now be cloned (copied) onto local computer.
