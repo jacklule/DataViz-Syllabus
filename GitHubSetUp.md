@@ -6,7 +6,7 @@ Found below are instructions for:
 - [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
 - [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
-- [To Customize the GitHub.io Page](#To Customize the Github.io Page)
+- [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
