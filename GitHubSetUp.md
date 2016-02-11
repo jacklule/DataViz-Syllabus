@@ -2,7 +2,9 @@
 I have attempted to make this guide as simple and clear as possible for those without any GitHub experinece. If you have questions, please do let me know so I can make the document even more clear.
 
 Found below are instructions for:
+
 [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
+[Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
 
 
 
@@ -29,7 +31,7 @@ My **annotations** for Hello World:
 
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
 
-##Getting Set Up at GitHub.io: Day 2
+##Getting Set Up at GitHub.io <a id="Getting-Set-Up-at-GitHub.io"></a>
 
 <p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
