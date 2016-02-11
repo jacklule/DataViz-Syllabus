@@ -4,7 +4,7 @@ I have attempted to make this guide as simple and clear as possible for those wi
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
 - [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
-- [To Edit an HTML page in TextEdit](#"To-edit-an-html-page-in-TextEdit)
+- [To Edit an html page in TextEdit](#"To-edit-an-html-page-in-TextEdit)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
