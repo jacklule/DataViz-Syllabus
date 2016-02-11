@@ -5,6 +5,7 @@ Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
 - [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
+- [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
@@ -41,8 +42,11 @@ My **annotations** for GitHub Pages Guide:
 - "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
 - Step 2: Clone the Repository **may** be accomplished by merely clicking Set Up in Desktop. Students will need to know, however, where the local repo is being stored on the computer.
 - If the cloning does not work, here are [GitHub instructions for cloning](https://help.github.com/articles/cloning-a-repository/); desktop instructions are near the bottom: Go to repo's main page; click on clipboard to copy the URL for the rep; go to GitHub Desktop, verify name and location of where the file should be; click Clone.
-- GitHub then says, **grab your favorite text editor**: not so simple; 
-- Students must first **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
+- GitHub then says, **grab your favorite text editor**: not so simple; next step:
+
+<a id="To-Set-Up-TextEdit-to-Create-html-Pages"></a>
+##To Set Up TextEdit to Create html Pages
+- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
 - Students can then take the next step in the Pages Guide and create an index.html page
 - Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
@@ -55,7 +59,7 @@ Students thus have learned to code and create a new html page to embed and publi
 
 <a id="To-edit-an-html-page-in-TextEdit"></a>
 ##To edit an html page in TextEdit
-TextEdit will open the page as an html file, not in text edit. To edit an html page in TextEdit:
+TextEdit will open a previously created html page as an html file, not in text edit. To edit an html page in TextEdit:
 - Under TextEdit, find Preferences
 - Go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text” 
 - Under "New Document," make TextEdit default to "plain text" (instead of "rich text")
