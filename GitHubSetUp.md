@@ -1,11 +1,12 @@
 #GitHub Set Up
-I have attempted to make this guide as simple and clear as possible for those without any GitHub experinece. If you have questions, please do let me know so I can continue to improve the document.
+I have attempted to make this guide as simple and clear as possible for those without any GitHub experience. If you have questions, please do let me know so I can continue to improve the document.
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
 - [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
 - [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
+- [To Customize the GitHub.io Page](#To Customize the Github.io Page)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
@@ -64,9 +65,9 @@ TextEdit will open a previously created html page as an html file, not in text e
 - Go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text” 
 - Under "New Document," make TextEdit default to "plain text" (instead of "rich text")
 
-##To customize the github.io page
+<a id="To-Customize-the-Github.io-Page"></a>
+##To Customize the GitHub.io Page
 Remembering that the page eventually will be their GitHub portfolio, students should follow these steps:
-
 - Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
 - After creating username.github.io, students can personalize that page;
 - They should go to page --- username.github.io -- and find the **setting** link to the top right;
