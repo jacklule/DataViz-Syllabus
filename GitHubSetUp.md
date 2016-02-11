@@ -9,7 +9,7 @@ Found below are instructions for:
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
 - [To Publish Other Work at GitHub.io](#To-Publish-Other-Work-at-GitHub.io)
 - [To Create and Manage Files and Folders](#To-Create-and-Manage-Files-and-Folders)
-- [Working with GitHub in a Computer Lab](#"Working-with-GitHub-in-a-computer-lab")
+- [Working with GitHub in a Computer Lab](#Working-with-GitHub-in-a-computer-lab)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
