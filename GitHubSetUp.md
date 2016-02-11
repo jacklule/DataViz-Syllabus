@@ -1,9 +1,10 @@
 #GitHub Set Up
-I have attempted to make this guide as simple and clear as possible for those without any GitHub experinece. If you have questions, please do let me know so I can make the document even more clear.
+I have attempted to make this guide as simple and clear as possible for those without any GitHub experinece. If you have questions, please do let me know so I can continue to improve the document.
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
 - [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
+- [To Edit an HTML page in TextEdit](#"To-edit-an-html-page-in-TextEdit)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
@@ -52,6 +53,7 @@ My **annotations** for GitHub Pages Guide:
 
 Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. 
 
+<a id="To-edit-an-html-page-in-TextEdit"></a>
 ##To edit an html page in TextEdit
 TextEdit will open the page as an html file, not in text edit. To edit an html page in TextEdit:
 - Under TextEdit, find Preferences
