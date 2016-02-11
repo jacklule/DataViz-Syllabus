@@ -7,6 +7,8 @@ Found below are instructions for:
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
 - [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
+- [To Publish Other Work at GitHub.io](#To-Publish-Other-Work-at-GitHub.io)
+- [To Create and Manage Files and Folders](#To-Create-and-Manage-Files-and-Folders)
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
@@ -59,7 +61,7 @@ My **annotations** for GitHub Pages Guide:
 Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. 
 
 <a id="To-edit-an-html-page-in-TextEdit"></a>
-##To edit an html page in TextEdit
+##To Edit an html Page in TextEdit
 TextEdit will open a previously created html page as an html file, not in text edit. To edit an html page in TextEdit:
 - Under TextEdit, find Preferences
 - Go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text” 
@@ -80,8 +82,8 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - Students can then go to their index page, remove the generic GitHug text and begin providing their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
-##To publish other work at github.io
-
+<a id="To-Publish-Other-Work-at-GitHub.io></a>
+##To Publish Other Work at GitHub.io
 To publish other work, such as charts, Tableau files and YouTube videos to GitHub.io:
 
 - **To publish work saved on the local computer**, such as svg files produced by Chartbuilder: 1) Students would complete the assignment at Chartbuilder; 2) download the svg file to their local computer (the other option, png files, do not render consistently); 3) create an html page for the assignment; 4) insert the svg file into the html page; 5) upload the html page to their github.io site. Here are examples of a Chartbuilder assignment in svg and png format: [Chartbuilder svg test](http://jacklule.github.io/pages/SVGtest.html) and [Chartbuilder png test](http://jacklule.github.io/pages/PNGtest.html)
@@ -89,8 +91,8 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - **To "hand in" the assignment**, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into their "Portfolio" page, name.github.io; 2) The students may need to add http:// in front of the assigment file path name on their Portfolio page for the pasted url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Portfolio page.
 - Again, name.github.io will be **The Portfolio** page, a collection of Data Viz work that can be shared with future employers.
 
-##To create and manage files and folders
-
+<a id="To-Create-and-Manage-Files-and-Folders"></a>
+##To Create and Manage Files and Folders
 Creating folders within GitHub:
 - go to the folder inside which you want to create another folder
 - click on New file
