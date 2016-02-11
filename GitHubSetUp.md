@@ -9,6 +9,7 @@ Found below are instructions for:
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
 - [To Publish Other Work at GitHub.io](#To-Publish-Other-Work-at-GitHub.io)
 - [To Create and Manage Files and Folders](#To-Create-and-Manage-Files-and-Folders)
+- [Working with GitHub in a Computer Lab](#"Working-with-GitHub-in-a-computer-lab")
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
@@ -82,7 +83,7 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - Students can then go to their index page, remove the generic GitHug text and begin providing their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
-<a id="To-Publish-Other-Work-at-GitHub.io></a>
+<a id="To-Publish-Other-Work-at-GitHub.io"></a>
 ##To Publish Other Work at GitHub.io
 To publish other work, such as charts, Tableau files and YouTube videos to GitHub.io:
 
@@ -93,7 +94,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 
 <a id="To-Create-and-Manage-Files-and-Folders"></a>
 ##To Create and Manage Files and Folders
-Creating folders within GitHub:
+**Creating folders within GitHub**:
 - go to the folder inside which you want to create another folder
 - click on New file
 - on the text field for creatng the file name, after the /, type the *folder* name you want to create and hit Enter
@@ -101,40 +102,31 @@ Creating folders within GitHub:
 - this creates a folder.
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
 
-##Working with GitHub in a computer lab
-
+<a id="Working-with-GitHub-in-a-computer-lab"></a>
+##Working with GitHub in a Computer Lab
 Students likely will not have administrative access to download and install GitHub for Mac in a computer lab. The instructor would do so with JournalismAdmin access, for example, with its password. 
 
-For students then to set up GitHub.io pages:
+For students then to set up GitHub.io pages, follow the four-step process at [GitHub Pages](https://pages.github.com/) or see above but also follow these annotations:
 
-Follow the four-step process at https://pages.github.com/
-
-1) Create a repository at github.com: name.github.io
-select GitHub for Mac as client
-
-2 Clone the repository: 
-GitHub.com might give “Setup in Desktop” as an option. That would clone the repository on the local computer.
-
-If not: Instructions say to “launch the local app” – find GitHub on the local Mac and open. At top bar, go to File>Clone Repository. It asks “clone as name.github.io” and where (GitHub folder): press okay
-
-The repository should now be cloned (copied) onto local computer.
-
-Where is GitHub stored locally?
-Mac3>Users>DataViz>GitHub>name.github.io
-To access: Finder>top bar> Go>Home(opens as DataViz)>GitHub folder. Inside that folder should be another folder name.github.io
-
-3) Create an Index file
-The local Mac’s text edit needs to have been adjusted so it can create and save an html page. See instructions above. 
-
-Save the html file. It should automatically save without prompting to folder: name.github.io. Can check using instructions above – Where is GitHub stored locally?
-
-4)Commit and Sync
-Go back to github desktop. You should see “1 uncommitted page”
-Click and see the new html page.
-Provide a summary and description and then “commit to master.”
-Page is now on the local GitHub master.
-Click sync. The local and github.com repositories are now synced.
-Check online: the index.html file should be added to the github.com repository.
+1. Create a repository at github.com: name.github.io
+- select GitHub for Mac as client
+2.Clone the repository: 
+- GitHub.com might give “Setup in Desktop” as an option. That should clone the repository on the local computer.
+- If that option does not appear: Instructions say to “launch the local app.” That means, find GitHub on the local Mac and open. At top bar, go to File>Clone Repository. Defaults say: “clone as name.github.io” and where (GitHub folder): press okay
+- The repository should now be cloned (copied) onto local computer.
+- But **where is GitHub stored locally?**
+- Mac3>Users>DataViz>GitHub>name.github.io
+- To access: Finder>top bar> Go>Home(opens as DataViz)>GitHub folder. Inside that folder should be another folder name.github.io
+3. Create an Index file
+- The local Mac’s text edit needs to have been adjusted so it can create and save an html page. See instructions above. 
+- Save the html file. It should automatically save without prompting to local folder: name.github.io. Can check using instructions above, "where is GitHub stored locally?"
+4. Commit and Sync
+- Go back to GitHub desktop. You should see “1 uncommitted page.”
+- Click and see the new html page.
+- Provide a summary and description and then “commit to master.”
+- Page is now on the local GitHub master.
+- Click sync. The local and GitHub.com repositories are now synced.
+- To check online: Go to the io repository at name.github.com. The index.html file should be now in the github.com repository.
 
 
 
