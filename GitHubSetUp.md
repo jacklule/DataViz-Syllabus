@@ -83,6 +83,44 @@ Creating folders within GitHub:
 - this creates a folder.
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
 
+##Working with GitHub in a computer lab
+
+Students likely will not have administrative access to download and install GitHub for Mac in a computer lab. The instructor would do so with JournalismAdmin access, for example, with its password. 
+
+For students then to set up GitHub.io pages:
+
+Follow the four-step process at https://pages.github.com/
+
+1) Create a repository at github.com: name.github.io
+select GitHub for Mac as client
+
+2 Clone the repository: 
+GitHub.com might give “Setup in Desktop” as an option. That would clone the repository on the local computer.
+
+If not: Instructions say to “launch the local app” – find GitHub on the local Mac and open. At top bar, go to File>Clone Repository. It asks “clone as name.github.io” and where (GitHub folder): press okay
+
+The repository should now be cloned (copied) onto local computer.
+
+Where is GitHub stored locally?
+Mac3>Users>DataViz>GitHub>name.github.io
+To access: Finder>top bar> Go>Home(opens as DataViz)>GitHub folder. Inside that folder should be another folder name.github.io
+
+3) Create an Index file
+The local Mac’s text edit needs to have been adjusted so it can create and save an html page. See instructions above. 
+
+Save the html file. It should automatically save without prompting to folder: name.github.io. Can check using instructions above – Where is GitHub stored locally?
+
+4)Commit and Sync
+Go back to github desktop. You should see “1 uncommitted page”
+Click and see the new html page.
+Provide a summary and description and then “commit to master.”
+Page is now on the local GitHub master.
+Click sync. The local and github.com repositories are now synced.
+Check online: the index.html file should be added to the github.com repository.
+
+
+
+
 ###Resources
 - [Nice intro to first steps with GitHub to add to a list](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 - [A good, clear introduction to using Terminal/the Command Line and GitHub](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
