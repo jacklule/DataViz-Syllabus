@@ -1,4 +1,12 @@
-##Getting Set Up at GitHub.com: Day 1
+#GitHub Set Up
+I have attempted to make this guide as simple and clear as possible for those without any GitHub experinece. If you have questions, please do let me know so I can make the document even more clear.
+
+Found below are instructions for:
+[Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
+
+
+
+##Getting Set Up at GitHub.com<a id="Getting-Set-Up-at-GitHub.com"></a>
 
 <p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a> 
 <p>We will follow along with the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
