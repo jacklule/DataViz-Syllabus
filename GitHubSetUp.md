@@ -1,5 +1,5 @@
 #GitHub Set Up
-I have attempted to make this guide as simple and clear as possible for those without any GitHub experience. If you have questions, please do let me know so I can continue to improve the document.
+I have attempted to make this guide as simple and clear as possible for those without any GitHub experience. It is written for Macs but can be adapted to PCs. If you have questions, please do let me know so I can continue to improve the document.
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
@@ -117,11 +117,11 @@ For students then to set up GitHub.io pages, follow the four-step process at [Gi
   - If that option does not appear: Instructions say to “launch the local app.” That means, find GitHub on the local Mac and open. At top bar, go to File>Clone Repository. Defaults say: “clone as name.github.io” and where (GitHub folder): press okay
   - The repository should now be cloned (copied) onto local computer.
   - But **where is GitHub stored locally?**
-  - Mac3>Users>DataViz>GitHub>name.github.io
-  - To access: Finder>top bar> Go>Home(opens as DataViz)>GitHub folder. Inside that folder should be another folder name.github.io
+  - Outside of a lab, GitHub on a Mac is stored under Home, with Documents, Downloads etc. In a computer lab, GitHub will be stored under Users, for example: Mac3>Users>DataViz>GitHub>name.github.io
+  - To access: Finder>top bar> Go> Home(opens as DataViz)> GitHub folder. Inside that folder should be another folder name.github.io
 3. Create an Index file
   - The local Mac’s text edit needs to have been adjusted so it can create and save an html page. See instructions above. 
-  - Save the html file. It should automatically save without prompting to local folder: name.github.io. Can check using instructions above, "where is GitHub stored locally?"
+  - Save the html file. It should automatically save without prompting to local folder: name.github.io. Can check using instructions above, "Where is GitHub stored locally?"
 4. Commit and Sync
   - Go back to GitHub desktop. You should see “1 uncommitted page.”
   - Click and see the new html page.
