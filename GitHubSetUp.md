@@ -17,13 +17,13 @@ Found below are instructions for:
 ##Getting Set Up at GitHub.com <a id="Getting-Set-Up-at-GitHub.com"></a>
 
 <p>Students of course first need to set up an account. It is easy at <a href="https://github.com">GitHub.com.</a> 
-<p>We will follow along with the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
+<p>We will follow along with but adapt the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
 
 My **annotations** for Hello World:
 - for **Signup**, students should use their first and last name: for example, jacklule
-- before Create a Repository, follow tip to open up Hello World guide in **separate tab** and work in another tab
-- also before repository, GitHub will ask, **Please verify email address**; will need to open email
-- for repository, no need to name, "Hello World;" can **name Data Viz**
+- before Create a Repository, students should follow the tip to open up Hello World guide in **separate tab** and work in another tab
+- also before creating a repository, GitHub will ask, **Please verify email address**; students will need to open their email
+- for the repository, no need to name it, "Hello World;" can **name Data Viz**
 - click Public, click Initialize with ReadMe; notice **ReadMe is md file**
 - do Issue and Create Branch, notice **working in branch, not master**; not use often, will work in master, but good practice
 - click to access ReadMe (**notice we are in branch**);
