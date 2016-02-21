@@ -6,7 +6,7 @@
 ### Telling Stories with Data
 - Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
-- Practice: GitHub, md. html. and the TextEditor
+- Practice: GitHub, md. html5, and the TextEditor
 
 ### [Week 1, Wed., Aug. 31](WeeklySchedule/week01-02.md)
 ###Telling Stories with Data
@@ -15,6 +15,7 @@
 - The Functional Art
 - Flowing Data
 - Journalism in the Age of Data
+- Creating a web page in html5
 
 ### [Week 2, Monday, September 5](WeeklySchedule/week02-01.md)
 
@@ -26,7 +27,7 @@
 
 ####Telling Stories with Charts
 - Chart Exercise
-- Chart Assignment
+- Chart Assignment: Adding CSS to your web page
 
 ### [Week 3, Monday, September 12](WeeklySchedule/week03-01.md)
 
