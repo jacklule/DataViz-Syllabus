@@ -30,54 +30,54 @@
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
-### [Week 3.1: Mon., Sept. 12](WeeklySchedule/week03-01.md)
+### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 
 ####Telling Stories with Maps
 - Choice and Design
 - Mapping tools: Google Fusion, ArcGis, Cartodb
 
-### [Week 3.2: Wednesday, September 14](WeeklySchedule/week03-02.md)
+### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)
 
 ####Telling Stories with Maps
 - Map Exercise
 - Map Assignment
 
-### [Week 4.1: Monday, September 19](WeeklySchedule/week04-01.md)
+### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md)
 
 ####Telling Interactive Stories
 - Static vs. interactive visualizations.
 - Tableau
 
-### [Week 4.2: Wednesday, September 21](WeeklySchedule/week04-02.md)
+### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
 
 
-### [Week 5.1: Monday, September 26](WeeklySchedule/week05-01.md)
+### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
 
 
-### [Week 5.2: Wednesday, September 28](WeeklySchedule/week05-02.md)
+### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
 
 
-### [Week 6.1: Monday, October 3](WeeklySchedule/week06-01.md)
+### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
 
 ####Telling Stories for Mobile
 - Designing for Mobile
 
-### [Week 6.2: Wednesday, October 5](WeeklySchedule/week06-02.md)
+### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)
 
 
-### [Week 7.1: Monday, October 10](WeeklySchedule/week07-01.md)
+### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)
 
 #### Data Visualization as Documentary
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
 
-### [Week 7.2: Wednesday, October 12](WeeklySchedule/week07-02.md)
+### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
 
 #### Comics as Data Visualization
 - Facebook and Bitstrips
 - Mark Fiore
 - Kidnapped in Syria
 
-### [Week 8.1: Monday, October 17](WeeklySchedule/week08-01.md), pacing break and [December 7](WeeklySchedule/week08-01.md), last day of classes
+### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md), pacing break and [December 7](WeeklySchedule/week08-01.md), last day of classes
 
 
