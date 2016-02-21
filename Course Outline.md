@@ -2,7 +2,7 @@
 
 ### Day-by-Day Course Outline: 7 weeks
 
-### [Week 1.1 29 August](WeeklySchedule/week01-01.md) and [19 October](WeeklySchedule/week01-01.md)
+### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)
 #### Telling Stories with Data
 - Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
