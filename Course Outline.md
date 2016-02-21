@@ -20,13 +20,14 @@
 ### [Week 2, Monday, September 5](WeeklySchedule/week02-01.md)
 
 ####Telling Stories with Charts
-- Choice and Design
+- Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
+- Chart Exericse: Creating a chart with Chartbuilder
 
 ### [Week 2, Wednesday, September 7](WeeklySchedule/week02-02.md)
 
 ####Telling Stories with Charts
-- Chart Exercise
+- Chart Exercise: Embedding charts in html5 and uploading to your site
 - Chart Assignment: Adding CSS to your web page
 
 ### [Week 3, Monday, September 12](WeeklySchedule/week03-01.md)
