@@ -22,7 +22,7 @@
 ####Telling Stories with Charts
 - Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
-- Chart Exericse: Creating a chart with Chartbuilder
+- Chart Exercise: Creating a chart with Chartbuilder
 
 ### [Week 2.2: Wednesday, September 7](WeeklySchedule/week02-02.md)
 
