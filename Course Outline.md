@@ -17,20 +17,20 @@
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
 
-### [Week 2.1 -- Monday, September 5](WeeklySchedule/week02-01.md)
+### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)
 
 ####Telling Stories with Charts
 - Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
 
-### [Week 2.2 -- Wednesday, September 7](WeeklySchedule/week02-02.md)
+### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 
 ####Telling Stories with Charts
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
-### [Week 3.1: Monday, September 12](WeeklySchedule/week03-01.md)
+### [Week 3.1: Mon., Sept. 12](WeeklySchedule/week03-01.md)
 
 ####Telling Stories with Maps
 - Choice and Design
