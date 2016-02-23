@@ -49,6 +49,8 @@
 - Tableau
 
 ### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
+####Telling Interactive Stories
+-Tableau
 
 
 ### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
