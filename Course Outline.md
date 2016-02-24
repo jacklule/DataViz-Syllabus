@@ -18,6 +18,17 @@
 - Practice: Publishing in HTML5 for github.io
 
 ### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)
+####Telling Stories with Infographics
+- Alberto Cairo on infographics
+- Canva
+- Infog.rm
+
+### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
+####Telling Stories with Timelines
+- James Carey on Time in journalism
+- TimelineJS
+
+### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)
 
 ####Telling Stories with Charts
 - Choosing and Designing Charts
@@ -51,17 +62,6 @@
 ### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
 ####Telling Interactive Stories
 - Tableau
-
-
-### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
-####Telling Stories with Infographics
-- Canva
-- Infog.rm
-
-
-### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
-####Telling Stories with Timelines
-- TimelineJS
 
 
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
