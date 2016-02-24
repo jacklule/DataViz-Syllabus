@@ -54,9 +54,14 @@
 
 
 ### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
+####Telling Stories with Infographics
+- Canva
+- Infog.rm
 
 
 ### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
+####Telling Stories with Timelines
+- TimelineJS
 
 
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
