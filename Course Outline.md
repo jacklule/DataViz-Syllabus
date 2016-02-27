@@ -43,6 +43,7 @@
 ####Telling Stories with Charts
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
+- - (goes to 02-02 with Timelines on top and Chart 2 on bottom; needs title 3.2 and new 3.2 page with bottom chart)
 
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 
