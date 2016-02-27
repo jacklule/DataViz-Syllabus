@@ -36,6 +36,7 @@
 - Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
+- (goes to 02-01 Infogram; needs title 3.1 and link to a new 3.1 Charts)
 
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 
