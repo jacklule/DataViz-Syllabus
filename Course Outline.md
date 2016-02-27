@@ -22,6 +22,7 @@
 - Alberto Cairo on infographics
 - Canva
 - Infog.rm
+- (good: goes to 02-01 Infographics)
 
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 ####Telling Stories with Timelines
