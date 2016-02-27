@@ -28,6 +28,7 @@
 ####Telling Stories with Timelines
 - James Carey on Time in journalism
 - TimelineJS
+- (goes to 02-02 with Timelines on top and Chart 2 on bottom)
 
 ### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)
 
