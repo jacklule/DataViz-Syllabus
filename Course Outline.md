@@ -48,30 +48,37 @@
 - Choice and Design
 - Mapping tools: Google Fusion, ArcGis, Cartodb
 
-### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)
+### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
 
 ####Telling Stories with Maps
+- ESRI and ArcGis
+- CartoDB
 - Map Exercise
 - Map Assignment
 
-### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md)
+### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
 
 ####Telling Interactive Stories
+- Designing for Interactivity
 - Static vs. interactive visualizations.
-- Tableau
+- Tableau tutorrials
 
-### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
+### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
 ####Telling Interactive Stories
 - Tableau
+- Charts, Histogram, Scatterplots and Maps
 
 
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
 
 ####Telling Stories for Mobile
 - Designing for Mobile
+- Data Viz for the Phone
 
 ### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)
-
+####Telling Stories for Mobile
+- Designing for Mobile
+- Data Viz for the Phone
 
 ### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)
 
@@ -81,7 +88,7 @@
 
 ### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
 
-#### Comics as Data Visualization
+#### Data VisualizationComics as a Visualization
 - Facebook and Bitstrips
 - Mark Fiore
 - Kidnapped in Syria
