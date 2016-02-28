@@ -22,7 +22,6 @@
 - Alberto Cairo on infographics
 - Canva
 - Infog.rm
-- (good: goes to 02-01 Infographics)
 
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 ####Telling Stories with Timelines
@@ -37,12 +36,11 @@
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
 
-### [Week 3.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
+### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)
 
 ####Telling Stories with Charts
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
-- - (goes to 02-02 with Timelines on top and Chart 2 on bottom; needs title 3.2 and new 3.2 page with bottom chart)
 
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 
