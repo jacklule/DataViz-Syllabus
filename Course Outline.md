@@ -88,7 +88,7 @@
 
 ### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
 
-#### Data VisualizationComics as a Visualization
+#### Data Visualization as Comics
 - Facebook and Bitstrips
 - Mark Fiore
 - Kidnapped in Syria
