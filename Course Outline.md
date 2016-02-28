@@ -42,7 +42,7 @@
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
-### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
+### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md)
 
 ####Telling Stories with Maps
 - Choice and Design
