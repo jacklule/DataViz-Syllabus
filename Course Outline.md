@@ -37,7 +37,7 @@
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
 
-### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
+### [Week 3.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 
 ####Telling Stories with Charts
 - Chart Exercise: Embedding charts in HTML5 and publishing
