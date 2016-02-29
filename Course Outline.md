@@ -46,13 +46,14 @@
 
 ####Telling Stories with Maps
 - Choice and Design
-- Mapping tools: Google Fusion, ArcGis, Cartodb
+- Mapping tools: Google Fusion, ArcGis, CartoDB, StorymapJS
 
 ### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
 
 ####Telling Stories with Maps
 - ESRI and ArcGis
 - CartoDB
+- StorymapJS
 - Map Exercise
 - Map Assignment
 
