@@ -27,7 +27,6 @@
 ####Telling Stories with Timelines
 - James Carey on Time in journalism
 - TimelineJS
-- (goes to 02-02 with Timelines on top and Chart 2 on bottom)
 
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 
@@ -62,7 +61,7 @@
 ####Telling Interactive Stories
 - Designing for Interactivity
 - Static vs. interactive visualizations.
-- Tableau tutorrials
+- Tableau tutorials
 
 ### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
 ####Telling Interactive Stories
