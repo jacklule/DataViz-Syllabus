@@ -85,6 +85,7 @@
 #### Data Visualization as Documentary
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
+- "Hollow"
 
 ### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
 
