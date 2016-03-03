@@ -27,6 +27,7 @@
 ####Telling Stories with Timelines
 - James Carey on Time in journalism
 - TimelineJS
+- Publishing TimelineJS in HTML5
 
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 
