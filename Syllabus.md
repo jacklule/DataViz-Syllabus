@@ -35,13 +35,15 @@ See our [Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/maste
 ##Grading
 The class will find a balance between principles and practice. So will our grading.
 
-20% Quizzes over readings and videos
+20% Quizzes and analyses over readings and videos
+
 50% Five assignments that put our principles into practice, likely to include:
 - customized HTML5 page at name.github.io
 - infographic and timeline
 - chart with CSS
 - map story
 - interactive story with Tableau
+
 30% Portfolio at name.github.io, which will include a final project and edited, improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
 
 ##Lehigh's Commitment to an Equitable Community
