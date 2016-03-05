@@ -32,6 +32,9 @@ But no more.
 
 See our [Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md) for how we will proceed.
 
+##Readings
+There are no required texts for this class. All readings, videos and tutorials will be found online.
+
 ##Grading
 The class will find a balance between principles and practice. So will our grading.
 
