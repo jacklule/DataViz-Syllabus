@@ -19,4 +19,4 @@ My decision to use GitHub is so students will get to know this site and some fun
 - [Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
  
 ### Also See
-- [Narrative Visualization: Tell Stories with Data](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjSzaf3oMHLAhVCFT4KHUtIDBEQFggcMAA&url=http%3A%2F%2Fvis.stanford.edu%2Ffiles%2F2010-Narrative-InfoVis.pdf&usg=AFQjCNFk10XQNrt7y428tLcEm-gJ4KZ_4Q&sig2=lNSu7sqySmDE9OIeZmigAg&bvm=bv.116636494,d.cWw). A dated piece but two Stanford profs examine the grammar and genres of narrative visualization.
+- [Narrative Visualization: Telling Stories with Data](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjSzaf3oMHLAhVCFT4KHUtIDBEQFggcMAA&url=http%3A%2F%2Fvis.stanford.edu%2Ffiles%2F2010-Narrative-InfoVis.pdf&usg=AFQjCNFk10XQNrt7y428tLcEm-gJ4KZ_4Q&sig2=lNSu7sqySmDE9OIeZmigAg&bvm=bv.116636494,d.cWw). A dated piece but two Stanford profs examine the grammar and genres of narrative visualization.
