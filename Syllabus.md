@@ -1,6 +1,8 @@
 # Jour 24 Visual Communication
 # Syllabus: Fall 2016
 
+## Also see the [Day-to-Day Course Outline](DataViz-Syllabus/Course Outline.md)
+
 ## Data Visualization Module
 
 The best journalism education has at least three parts:
