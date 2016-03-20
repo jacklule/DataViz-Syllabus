@@ -74,17 +74,19 @@
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
 
 ####Telling Stories with Comics
+- Comics as Journalism
+- Symbolia
+- The Nib
 - Facebook and Bitstrips
-- Mark Fiore
-- Kidnapped in Syria
 
 ### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)
-####Telling Stories with Comics (for Mobile)
-- Designing for Mobile
-- Data Viz for the Phone
+####Telling Stories with Comics
+- Comics as Journalism
+- Mark Fiore
+- Powtoons
 
 ### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)
-
+####Telling Stories for Mobile
 - Designing for Mobile
 - Data Viz for the Phone
 #### Data Visualization as Documentary
