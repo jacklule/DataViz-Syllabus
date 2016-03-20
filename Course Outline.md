@@ -59,25 +59,25 @@
 
 ### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
 
-####Telling Interactive Stories
+####Telling Stories with Interactivity
 - Designing for Interactivity
 - Static vs. interactive visualizations.
 - Tableau tutorials
 
 ### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
-####Telling Interactive Stories
+####Telling Stories with Interactivity
 - Tableau
 - Charts, Histogram, Scatterplots and Maps
 
 
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
 
-####Telling Stories for Mobile
+####Telling Stories with Comics (for Mobile)
 - Designing for Mobile
 - Data Viz for the Phone
 
 ### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)
-####Telling Stories for Mobile
+####Telling Stories with Comics (for Mobile)
 - Designing for Mobile
 - Data Viz for the Phone
 
