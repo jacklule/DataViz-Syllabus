@@ -68,6 +68,7 @@
 ####Telling Stories with Interactivity
 - Tableau
 - Charts, Histogram, Scatterplots and Maps
+- Tableau Storypoints
 
 
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
