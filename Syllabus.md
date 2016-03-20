@@ -40,7 +40,7 @@ There are no required texts for this class. All readings, videos and tutorials w
 ##Grading
 The class will find a balance between principles and practice. So will our grading.
 
-20% Quizzes and analyses over readings and videos
+20% Quizzes, annotations and analyses of readings and videos
 
 50% Five assignments that put our principles into practice, likely to include:
 - customized HTML5 page at name.github.io
