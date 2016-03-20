@@ -86,18 +86,16 @@
 - Powtoons
 
 ### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)
-####Telling Stories for Mobile
+####Telling Stories with Mobile
 - Designing for Mobile
 - Data Viz for the Phone
-#### Data Visualization as Documentary
+- Vertical Video
+
+### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
+#### Telling Stories with Documentaries and Data
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
-
-### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
-
-#### Data Visualization as Comics
-
 
 ### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md), pacing break and [Dec. 7](WeeklySchedule/week08-01.md), last day of classes
 
