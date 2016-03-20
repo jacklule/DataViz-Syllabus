@@ -51,7 +51,7 @@ The class will find a balance between principles and practice. So will our gradi
 
 30% Portfolio at name.github.io, which will include a final project and edited, improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
 
-##Lehigh's Commitment to an Equitable Community
+##Lehigh Commitment to an Equitable Community
 
 Lehigh University endorses The Principles of Our Equitable Community (http://www4.lehigh.edu/diversity/principles). We expect each member of this class to acknowledge and practice these Principles. Respect for each other and for differing viewpoints is a vital component of the learning environment inside and outside the classroom. 
 
