@@ -3,7 +3,7 @@
 
 ## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md)
 
-## Data Visualization Module
+## Data Visualization Module (14 days)
 
 The best journalism education has at least three parts:
 - A broad and solid liberal arts background
