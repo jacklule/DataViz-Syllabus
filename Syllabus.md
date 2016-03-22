@@ -42,16 +42,16 @@ Your final grade for Jour 24 Visual Communication will be based on your performa
 
 The data visualization module strives for a balance between principles and practice. So will our grading.
 
--20% Quizzes, annotations and analyses of readings and videos
+**20%** Quizzes, annotations and analyses of readings and videos
 
--50% Five assignments that put our principles into practice, likely to include:
+**50%** Five assignments that put our principles into practice, likely to include:
 - customized HTML5 page at name.github.io
 - infographic and timeline
 - chart with CSS
 - map story
 - interactive story with Tableau
 
--30% Portfolio at name.github.io, which will include a final project and edited, improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
+**30%** Portfolio at name.github.io, which will include a final project and edited, improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
 
 ##Lehigh Commitment to an Equitable Community
 
