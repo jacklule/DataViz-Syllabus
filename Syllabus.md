@@ -3,16 +3,16 @@
 
 ## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md)
 
-## Data Visualization Module (14 days)
+## Data Visualization Module (7/14: 7 weeks, 14 days)
 
-The best journalism education has at least three parts:
+The best journalism education has at least three components:
 - A broad and solid liberal arts background
 - Basic and fundamental journalism skills
 - Preparation and practice for the digital age
 
 In Lehigh's journalism major, you get all three. In Jour 24 Visual Communication, including this module, you get all three.
 
-In this module, you will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn essential journalism skills, such as working with images and data. You will become familiar with new, but always evolving, digital tools that will help you tell stories with data.
+In this module, you will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn essential journalism skills, such as reporting, finding information, storytelling and working with images and data. You will become familiar with new, but always evolving, digital tools that will help you tell stories with data.
 
 ##Data: The hole in your resume
 
@@ -32,7 +32,7 @@ Our graduates find work in journalism, media, communication, public relations, m
 
 But no more.
 
-See our [Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md) for how we will proceed.
+See our [Day-byDay Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md) for how we will proceed.
 
 ##Readings
 There are no required texts for this class. All readings, videos and tutorials will be found online.
@@ -44,14 +44,15 @@ The data visualization module strives for a balance between principles and pract
 
 **20%** Quizzes, annotations and analyses of readings and videos
 
-**50%** Five assignments that put our principles into practice, likely to include:
+**50%** Assignments that put our principles into practice, likely to include:
 - customized HTML5 page at name.github.io
 - infographic and timeline
 - chart with CSS
 - map story
+- a comic
 - interactive story with Tableau
 
-**30%** Portfolio at name.github.io, which will include a final project and edited, improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
+**30%** Portfolio at name.github.io, which will include a final project as well as edited, corrected and improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
 
 ##Lehigh Commitment to an Equitable Community
 
