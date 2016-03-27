@@ -1,10 +1,10 @@
 # DataViz-Syllabus
 A first draft for a Fall 2016 Data Viz module in Lehigh University journalism.
 
-I am thinking of using GitHub to create, and perhaps to host, my syllabus for a new Fall 2016 class, Data Visualization.
+I have decided to use GitHub to create and host my syllabus for a new Fall 2016 class, Data Visualization.
 The class will actually be part of a larger, current class, Jour 24 Visual Communication. If the experiment works, Jour 24 will have seven weeks of traditional visual communication and seven weeks of data visualization. A companion course, Jour 23 Editing and Critical Thinking, will have seven weeks of traditional editing and seven weeks of data journalism.
 
-My decision to use GitHub is so students will get to know this site and some fundamental coding even as they work on the class. I created my own [Set Up Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md) for those without any GitHub experience.
+My decision to use GitHub is so students will get to know this site and get introduced to some fundamental coding even as they work on other projects for the class. I annotated my steps and created my own [Set Up Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md) for those without any GitHub experience.
 
 ### Resources
 
