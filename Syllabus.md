@@ -49,7 +49,7 @@ The data visualization module strives for a balance between principles and pract
 - infographic and timeline
 - chart with CSS
 - map story
-- a comic
+- a three-panel comic introduction of yourself
 - interactive story with Tableau
 
 **30%** Portfolio at name.github.io, which will include a final project as well as edited, corrected and improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
