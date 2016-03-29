@@ -1,6 +1,6 @@
 ##Jour 24 Data Visualization Module
 
-### Day-by-Day Course Outline: 14 days over 8 weeks
+### Day-by-Day Course Outline: 14 days over 7 weeks
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)
 #### Telling Stories with Data
@@ -77,7 +77,7 @@
 - Comics as Journalism
 - Symbolia
 - The Nib
-- Facebook and Bitstrips
+- Bitstrips as storytelling tool
 
 ### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)
 ####Telling Stories with Comics
@@ -97,6 +97,6 @@
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
 
-### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md), pacing break and [Dec. 7](WeeklySchedule/week08-01.md), last day of classes
+### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md), pacing break and [Dec. 7](WeeklySchedule/week08-01.md), last day of classes; portfolios at name.github.io
 
 
