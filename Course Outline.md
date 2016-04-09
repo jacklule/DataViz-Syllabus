@@ -12,7 +12,7 @@
 ####Telling Stories with Data
 
 - GitHub for Creating and Sharing
-- The Functional Art
+- The Functional Art, The Truthful Art
 - Flowing Data
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
