@@ -97,6 +97,7 @@
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
 
-### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md), pacing break and [Dec. 7](WeeklySchedule/week08-01.md), last day of classes; portfolios at name.github.io
+### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md), pacing break and [Dec. 7](WeeklySchedule/week08-01.md), last day of classes
+- portfolios due at name.github.io
 
 
