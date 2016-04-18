@@ -28,7 +28,7 @@
 
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 ####Telling Stories of Change over Time
-#### Timelines and Time Series
+Timelines and Time Series
 - Stories of Change Over Time
 - Visualizing Time Series Data
 - James Carey on Time in journalism
