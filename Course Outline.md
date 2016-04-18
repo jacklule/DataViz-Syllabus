@@ -20,6 +20,7 @@
 ### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)
 ####Telling Stories with Infographics
 - Stories of Categories and Comparisons
+- Visualizing Categorical Data
 - Alberto Cairo on infographics
 - Canva
 - Infog.rm
@@ -27,6 +28,7 @@
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
 ####Telling Stories with Timelines
 - Stories of Change Over Time
+- Visualizing Time Series Data
 - James Carey on Time in journalism
 - TimelineJS
 - Publishing TimelineJS in HTML5
@@ -34,6 +36,7 @@
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 ####Telling Stories with Charts
 - Stories of Proportions and Distributions
+- Visualizing Distributive Data
 - Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
@@ -42,6 +45,7 @@
 
 ####Telling Stories with Charts
 - Stories of Relationships and Differences
+- Visualizing Multiple Variables
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
@@ -49,6 +53,7 @@
 
 ####Telling Stories with Maps
 - Stories of Place and Space
+- Visualizing Spatial Data
 - Choice and Design
 - Mapping tools: Google Fusion, ArcGis, CartoDB, StorymapJS
 
@@ -56,6 +61,7 @@
 
 ####Telling Stories with Maps
 - Stories of Place and Space
+- Visualizing Spatial Data
 - ESRI and ArcGis
 - CartoDB
 - StorymapJS
