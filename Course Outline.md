@@ -9,10 +9,9 @@
 - Practice: GitHub, markdown language, and the TextEditor
 
 ### [Week 1.2 -- Wed., Aug. 31](WeeklySchedule/week01-02.md)
-####Telling Stories with Data
+####Telling Stories with Data <br/> The Truthful Art
 
 - GitHub for Creating, Sharing and Version Control
-- The Functional Art, The Truthful Art
 - Flowing Data
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
