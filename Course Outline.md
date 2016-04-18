@@ -3,7 +3,7 @@
 ### Day-by-Day Course Outline: 14 days over 7 weeks
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)
-#### Telling Stories with Data
+#### Telling Stories with Data <br/> The Functional Art
 - Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, markdown language, and the TextEditor
