@@ -21,12 +21,13 @@
 ####Telling Stories with Infographics
 - Stories of Categories and Comparisons
 - Visualizing Categorical Data
+- Means and Modes and Medians
 - Alberto Cairo on infographics
 - Canva
 - Infog.rm
 
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md)
-####Telling Stories with Timelines
+####Telling Stories with Timelines and Time Series
 - Stories of Change Over Time
 - Visualizing Time Series Data
 - James Carey on Time in journalism
@@ -37,6 +38,7 @@
 ####Telling Stories with Charts
 - Stories of Proportions and Distributions
 - Visualizing Distributive Data
+- Normal Distributions and those Standard Deviations
 - Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
