@@ -20,7 +20,7 @@
 ### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)
 ####Telling Stories with Infographics
 - Stories of Categories and Comparisons
-- Visualizing Categorical Data
+- Visualizing Categorical Data and Correlations
 - Means and Modes and Medians
 - Alberto Cairo on infographics
 - Canva
@@ -37,7 +37,7 @@
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
 ####Telling Stories with Charts
 - Stories of Proportions and Distributions
-- Visualizing Distributive Data
+- Visualizing Distributive Data: Parts of a Whole
 - Normal Distributions and those Standard Deviations
 - Choosing and Designing Charts
 - Charting tools: Excel, Datawrapper, Chartbuilder
