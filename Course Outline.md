@@ -72,13 +72,13 @@
 
 ### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
 
-####Telling Stories with which Readers Interact and Engage <br/> Telling Stories with Interactivity
+####Telling Stories for Reader Engagement <br/> Telling Stories with Interactivity
 - Designing for Interactivity
 - Static vs. interactive visualizations.
 - Tableau tutorials
 
 ### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
-####Telling Stories with which Readers Interact  and Engage <br/> Telling Stories with Interactivity
+####Telling Stories for Reader Engagement <br/> Telling Stories with Interactivity
 - Charts, Histogram, Scatterplots and Maps in Tableau
 - Tableau Storypoints
 
