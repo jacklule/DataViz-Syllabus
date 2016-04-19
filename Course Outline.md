@@ -52,7 +52,7 @@
 
 ### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md)
 
-####Telling Stories with Maps
+####Telling Stories of Comparisons Among Places <br/> Different Kinds of Maps
 - Stories of Place and Space
 - Visualizing Spatial Data
 - Choice and Design
@@ -60,7 +60,7 @@
 
 ### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
 
-####Telling Stories with Maps
+####Telling Stories of Comparisons Among Places <br/> Different Kinds of Maps
 - Stories of Place and Space
 - Visualizing Spatial Data
 - ESRI and ArcGis
