@@ -85,14 +85,14 @@
 
 ### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)
 
-####Telling Stories of Sensitive Subjects <br/> Telling Stories with Graphic Comics
+####Telling Stories of Difficult Topics <br/> Telling Stories with Graphic Comics
 - Comics as Journalism
 - Symbolia
 - The Nib
 - Bitstrips as storytelling tool
 
 ### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)
-####Telling Stories from Long Ago <br/> Tell Stories with Comics
+####Telling Stories from Long Ago <br/> Telling Stories with Comics
 - Comics as Journalism
 - Mark Fiore
 - Powtoons
