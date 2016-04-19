@@ -34,7 +34,7 @@
 - Publishing TimelineJS in HTML5
 
 ### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)
-####Telling Stories of Comparisons <br/> The Humble Bar Chart and Pilloried Pie Chart
+####Telling Stories of Comparisons <br/> Telling Stories with the Humble Bar Chart and Pilloried Pie Chart
 - Stories of Proportions and Distributions
 - Visualizing Distributive Data: Parts of a Whole
 - Normal Distributions and those Standard Deviations
@@ -52,7 +52,7 @@
 
 ### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md)
 
-####Telling Stories of Comparisons Among Places <br/> Different Kinds of Maps
+####Telling Stories of Comparisons Among Places <br/> Telling Stories with Maps
 - Stories of Place and Space
 - Visualizing Spatial Data
 - Choice and Design
@@ -60,7 +60,7 @@
 
 ### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)
 
-####Telling Stories of Comparisons Among Places <br/> Different Kinds of Maps
+####Telling Stories of Comparisons Among Places <br/> Telling Stories with Different Kinds of Maps
 - Stories of Place and Space
 - Visualizing Spatial Data
 - ESRI and ArcGis
@@ -71,14 +71,14 @@
 
 ### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)
 
-####Telling Stories with which Readers Interact <br/> Reader Engagement and Tableau
+####Telling Stories with which Readers Interact and Engage <br/> Telling Stories with Interactivity
 - Designing for Interactivity
 - Static vs. interactive visualizations.
 - Tableau tutorials
 
 ### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)
-####Telling Stories with which Readers Interact <br/> Reader Engagement and Tableau
-- Charts, Histogram, Scatterplots and Maps
+####Telling Stories with which Readers Interact  and Engage <br/> Telling Stories with Interactivity
+- Charts, Histogram, Scatterplots and Maps in Tableau
 - Tableau Storypoints
 
 
