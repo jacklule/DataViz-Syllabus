@@ -103,7 +103,7 @@
 - Vertical Video
 
 ### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)
-#### Telling Stories with Documentaries and Data
+#### Telling Stories of Aesthetic Ambition <br/> Telling Stories with Documentaries and Data
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
