@@ -45,8 +45,7 @@
 
 ### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)
 
-####Telling Stories with Charts
-- Stories of Relationships and Differences
+####Telling Stories of Relationships and Differences <br/> Telling Stories with Scatterplots
 - Visualizing Multiple Variables
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
