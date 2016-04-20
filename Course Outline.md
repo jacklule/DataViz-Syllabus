@@ -97,7 +97,7 @@
 - Powtoons
 
 ### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)
-####Telling Stories with Mobile
+####Telling Stories for Mobile <br/> Telling Stories with Design
 - Designing for Mobile
 - Data Viz for the Phone
 - Vertical Video
