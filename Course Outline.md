@@ -1,4 +1,4 @@
-###Jour 24 Data Visualization Module
+##Jour 24 Data Visualization Module
 
 #### Day-by-Day Course Outline: 14 days over 7 weeks
 
