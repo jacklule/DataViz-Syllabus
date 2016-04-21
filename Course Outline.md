@@ -8,8 +8,7 @@
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, markdown language, and the TextEditor
 
-#### [Week 1.2 -- Wed., Aug. 31](WeeklySchedule/week01-02.md)
-####Telling Stories with Data <br/> The Truthful Art
+#### [Week 1.2 -- Wed., Aug. 31](WeeklySchedule/week01-02.md)<br/>Telling Stories with Data <br/> The Truthful Art
 
 - GitHub for Creating, Sharing and Version Control
 - Flowing Data
