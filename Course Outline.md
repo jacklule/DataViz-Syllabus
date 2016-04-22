@@ -15,7 +15,7 @@
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
 
-#### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Inforgraphics
+#### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Infographics
 
 - Means and Modes and Medians
 - Alberto Cairo on infographics
@@ -31,7 +31,7 @@
 
 #### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)<br/>Telling Stories of Comparisons, Distributions and Parts of a Whole <br/> The Humble Bar Chart and Pilloried Pie Chart
 - Stories of Categories and Comparisons
-- Visualizing Categorical Data and CorrelationsStories of Proportions and Distributions
+- Stories of Proportions and Distributions
 - Visualizing Distributive Data: Parts of a Whole
 - Normal Distributions and those Standard Deviations
 - Choosing and Designing Charts
@@ -40,6 +40,7 @@
 
 #### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)<br/>Telling Stories of Relationships and Differences <br/> Scatterplots
 - Visualizing Multiple Variables
+- Visualizing Categorical Data and Correlations
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
