@@ -15,9 +15,8 @@
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
 
-#### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)<br/>Telling Stories with Infographics<br/>The Graphic Illustration
-- Stories of Categories and Comparisons
-- Visualizing Categorical Data and Correlations
+#### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Inforgraphics
+
 - Means and Modes and Medians
 - Alberto Cairo on infographics
 - Canva
@@ -31,7 +30,8 @@
 - Publishing TimelineJS in HTML5
 
 #### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)<br/>Telling Stories of Comparisons, Distributions and Parts of a Whole <br/> The Humble Bar Chart and Pilloried Pie Chart
-- Stories of Proportions and Distributions
+- Stories of Categories and Comparisons
+- Visualizing Categorical Data and CorrelationsStories of Proportions and Distributions
 - Visualizing Distributive Data: Parts of a Whole
 - Normal Distributions and those Standard Deviations
 - Choosing and Designing Charts
