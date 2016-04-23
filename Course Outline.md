@@ -40,7 +40,8 @@
 
 #### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)<br/>Telling Stories of Relationships and Differences <br/> Scatterplots
 - Visualizing Multiple Variables
-- Visualizing Categorical Data and Correlations
+- Visualizing Categorical Data
+- Correlation and Causation
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
