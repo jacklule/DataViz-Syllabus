@@ -70,13 +70,13 @@
 - Tableau Storypoints
 
 
-#### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)<br/>Telling Stories of Difficult Topics <br/> Graphic Comics
+#### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)<br/>Telling Stories of Difficult Topics <br/> Comics and Graphic Nonfiction
 - Comics as Journalism
 - Symbolia
 - The Nib
 - Bitstrips as storytelling tool
 
-#### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)<br/>Telling Stories from Long Ago <br/> Graphic Comics
+#### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)<br/>Telling Stories from Long Ago <br/> Comics and Graphic Nonfiction
 - Comics as Journalism
 - Mark Fiore
 - Powtoons
