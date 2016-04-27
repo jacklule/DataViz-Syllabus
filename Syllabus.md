@@ -12,7 +12,7 @@ The best journalism education has at least three components:
 
 In Lehigh's journalism major, you get all three. In Jour 24 Visual Communication, including this module, you get all three.
 
-In this module, you will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn essential journalism skills, such as reporting, finding information, storytelling and working with images and data. You will become familiar with new, but always evolving, digital tools that will help you tell stories with data.
+In this module, you will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn essential journalism skills, such as reporting, finding information, storytelling and working with images and data. You will become familiar with the principles and practice that ground new, but always evolving, digital tools, tools that will help you tell stories with data.
 
 ##Data: The hole in your resume
 
