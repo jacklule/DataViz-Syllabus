@@ -22,7 +22,7 @@ Found below are instructions for:
 My **annotations** for Hello World:
 - for **Signup**, students should use their first and last name: for example, jacklule
 - before Create a Repository, students should follow the tip to open up Hello World guide in **separate tab** and work in another tab
-- also before creating a repository, GitHub will ask, **Please verify email address**; students will need to open their email
+- also before creating a repository, GitHub will ask, **Please verify email address**; students will need to open their email in yet another tab or perhaps their phone
 - for the repository, no need to name it, "Hello World;" can **name Data Viz**
 - click Public, click Initialize with ReadMe; notice **ReadMe is md file**
 - do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
