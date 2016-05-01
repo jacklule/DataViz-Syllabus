@@ -16,7 +16,7 @@ In this module, you will learn principles of visual communication that have grou
 
 ##Data: The hole in your resume
 
-From Alberto Cairo:
+From Alberto Cairo, professor and author of <i>The Functional Art</i> and <i>The Truthful Art</i>:
 - "I think that the future of visualization doesn't depend on the tools we use, but on solid principles."
 - "Instead of thinking what the future of visualization will be, I perhaps should talk about what I want the future of news visualization to be."
 
