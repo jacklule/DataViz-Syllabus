@@ -84,7 +84,7 @@
 #### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)<br/>Telling Stories for Mobile <br/> Design for the Screen
 - Designing for Mobile
 - Data Viz for the Phone
-- Vertical Video
+- Vertical Video and Snapchat
 
 #### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)<br/>Telling Stories of Aesthetic Ambition <br/> Documentaries and Data
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
