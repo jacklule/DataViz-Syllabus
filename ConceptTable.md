@@ -10,7 +10,7 @@
 | tiger in the grass | Hans Gosling | long life, small family | history of data viz | William Playfair |
 | Charles Minard | John Snow | Amanda Cox | Liberal arts and data viz | Aha moments |
 |**Week 01-02**| | | | |
-| from "Why Visualize?" | tool for eye and brain | fertility rate example | unstructured information | 
+| from "Why Visualize?" | tool for eye and brain | fertility rate example | unstructured information | The Functional Art |
 
 
 ####Meta-comment
