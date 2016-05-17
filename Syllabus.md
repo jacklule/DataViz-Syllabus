@@ -8,7 +8,7 @@
 The best journalism education has at least three components:
 - A broad and solid liberal arts background
 - Basic and fundamental journalism skills
-- Preparation and practice for the digital age
+- Preparation, principles and practice for the digital age
 
 In Lehigh's journalism major, you get all three. In Jour 24 Visual Communication, including this module, you get all three.
 
