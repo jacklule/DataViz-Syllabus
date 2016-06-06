@@ -3,7 +3,7 @@
 
 ## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md)
 
-## Data Visualization Module 7/14 (7 weeks, 14 days)
+## Data Visualization Module 7-14 (7 weeks, 14 days)
 
 The best journalism education has at least three components:
 - A broad and solid liberal arts background
