@@ -15,7 +15,7 @@
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
 
-#### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Infographics
+#### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md) and Wed., Oct. 26]((WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Infographics
 
 - Means and Modes and Medians
 - Alberto Cairo on infographics
