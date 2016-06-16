@@ -29,7 +29,7 @@
 - TimelineJS
 - Publishing TimelineJS in HTML5
 
-#### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md)and [Wed., Nov. 2](WeeklySchedule/week03-01.md)<br/>Telling Stories of Comparisons, Distributions and Parts of a Whole <br/> The Humble Bar Chart and Pilloried Pie Chart
+#### [Week 3.1 -- Mon., Sept. 12](WeeklySchedule/week03-01.md) and [Wed., Nov. 2](WeeklySchedule/week03-01.md)<br/>Telling Stories of Comparisons, Distributions and Parts of a Whole <br/> The Humble Bar Chart and Pilloried Pie Chart
 - Stories of Categories and Comparisons
 - Stories of Proportions and Distributions
 - Visualizing Distributive Data: Parts of a Whole
