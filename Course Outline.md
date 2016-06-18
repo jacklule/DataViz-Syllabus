@@ -38,7 +38,7 @@
 - Charting tools: Excel, Datawrapper, Chartbuilder
 - Chart Exercise: Creating a chart with Chartbuilder
 
-#### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md)and [Mon., Nov. 7](WeeklySchedule/week03-02.md)<br/>Telling Stories of Relationships and Differences <br/> Scatterplots
+#### [Week 3.2 -- Wed., Sept. 14](WeeklySchedule/week03-02.md) and [Mon., Nov. 7](WeeklySchedule/week03-02.md)<br/>Telling Stories of Relationships and Differences <br/> Scatterplots
 - Visualizing Multiple Variables
 - Visualizing Categorical Data
 - Correlation and Causation
