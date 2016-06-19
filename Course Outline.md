@@ -45,7 +45,7 @@
 - Chart Exercise: Embedding charts in HTML5 and publishing
 - Chart Assignment: Adding CSS to your web page
 
-#### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md)<br/>Telling Stories of Comparisons Among Places <br/>Maps
+#### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md) and [Wed., Nov 9](WeeklySchedule/week04-01.md)<br/>Telling Stories of Comparisons Among Places <br/>Maps
 - Stories of Place and Space
 - Visualizing Spatial Data
 - Choice and Design
