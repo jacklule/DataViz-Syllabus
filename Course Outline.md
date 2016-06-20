@@ -51,7 +51,7 @@
 - Choice and Design
 - Mapping tools: Google Fusion, ArcGis, CartoDB, StorymapJS
 
-#### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md)<br/>Telling Stories of Comparisons Among Places <br/>Different Kinds of Maps
+#### [Week 4.2 -- Wed., Sept. 21](WeeklySchedule/week04-02.md) and [Mon., Nov. 14](WeeklySchedule/week04-02.md)<br/>Telling Stories of Comparisons Among Places <br/>Different Kinds of Maps
 - Stories of Place and Space
 - Visualizing Spatial Data
 - ESRI and ArcGis
