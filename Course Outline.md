@@ -60,7 +60,7 @@
 - Map Exercise
 - Map Assignment
 
-#### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md)<br/>Telling Stories for Reader Engagement <br/>Interactivity
+#### [Week 5.1 -- Mon., Sept. 26](WeeklySchedule/week05-01.md) and [Wed., Nov. 16](WeeklySchedule/week05-01.md)<br/>Telling Stories for Reader Engagement <br/>Interactivity
 - Designing for Interactivity
 - Static vs. interactive visualizations.
 - Tableau tutorials
