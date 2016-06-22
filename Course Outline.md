@@ -70,7 +70,7 @@
 - Tableau Storypoints
 
 
-#### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md)<br/>Telling Stories of Difficult Topics <br/> Comics and Graphic Nonfiction
+#### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md) and [Mon., Nov. 28](WeeklySchedule/week06-01.md)<br/>Telling Stories of Difficult Topics <br/> Comics and Graphic Nonfiction
 - Comics as Journalism
 - Symbolia
 - The Nib
