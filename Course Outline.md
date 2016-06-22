@@ -65,7 +65,7 @@
 - Static vs. interactive visualizations.
 - Tableau tutorials
 
-#### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md)<br/>Telling Stories for Reader Engagement <br/> Interactivity
+#### [Week 5.2 -- Wed., Sept. 28](WeeklySchedule/week05-02.md) and [Mon., Nov. 21](WeeklySchedule/week05-02.md)<br/>Telling Stories for Reader Engagement <br/> Interactivity
 - Charts, Histogram, Scatterplots and Maps in Tableau
 - Tableau Storypoints
 
