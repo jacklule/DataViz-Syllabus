@@ -81,7 +81,7 @@
 - Mark Fiore
 - Powtoons
 
-#### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md)<br/>Telling Stories for Mobile <br/> Design for the Screen
+#### [Week 7.1 -- Mon., Oct. 10](WeeklySchedule/week07-01.md) and [Mon. Dec. 5](WeeklySchedule/week07-01.md)<br/>Telling Stories for Mobile <br/> Design for the Screen
 - Designing for Mobile
 - Data Viz for the Phone
 - Vertical Video and Snapchat
