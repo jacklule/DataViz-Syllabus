@@ -86,12 +86,12 @@
 - Data Viz for the Phone
 - Vertical Video and Snapchat
 
-#### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)<br/>Telling Stories of Aesthetic Ambition <br/> Documentaries and Data
+#### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)[Wed. Dec. 7](WeeklySchedule/week07-02.md)<br/>Telling Stories of Aesthetic Ambition <br/> Documentaries and Data
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
 
-#### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md) and [Dec. 7](WeeklySchedule/week08-01.md) <br/>Pacing break and last day of classes
+#### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md) and [Fri. Dec. 9](WeeklySchedule/week08-01.md) <br/>Pacing break and last day of classes
 - portfolios due at name.github.io
 
 
