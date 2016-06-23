@@ -76,7 +76,7 @@
 - The Nib
 - Bitstrips as storytelling tool
 
-#### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md)<br/>Telling Stories from Long Ago <br/> Comics and Graphic Nonfiction
+#### [Week 6.2 -- Wed., Oct. 5](WeeklySchedule/week06-02.md) and [Wed., Nov. 30](WeeklySchedule/week06-02.md)<br/>Telling Stories from Long Ago <br/> Comics and Graphic Nonfiction
 - Comics as Journalism
 - Mark Fiore
 - Powtoons
