@@ -86,7 +86,7 @@
 - Data Viz for the Phone
 - Vertical Video and Snapchat
 
-#### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)[Wed. Dec. 7](WeeklySchedule/week07-02.md)<br/>Telling Stories of Aesthetic Ambition <br/> Documentaries and Data
+#### [Week 7.2 -- Wed., Oct. 12](WeeklySchedule/week07-02.md)and [Wed. Dec. 7](WeeklySchedule/week07-02.md)<br/>Telling Stories of Aesthetic Ambition <br/> Documentaries and Data
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
