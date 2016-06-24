@@ -70,7 +70,7 @@
 - Tableau Storypoints
 
 
-#### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md) and [Mon., Nov. 28](WeeklySchedule/week06-01.md)<br/>Telling Stories of Difficult Topics <br/> Comics and Graphic Nonfiction
+#### [Week 6.1 -- Mon., Oct. 3](WeeklySchedule/week06-01.md) and [after Thanksgiving, Mon., Nov. 28](WeeklySchedule/week06-01.md)<br/>Telling Stories of Difficult Topics <br/> Comics and Graphic Nonfiction
 - Comics as Journalism
 - Symbolia
 - The Nib
@@ -91,7 +91,6 @@
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
 
-#### [Week 8.1 -- Mon., Oct. 17](WeeklySchedule/week08-01.md) and [Fri. Dec. 9](WeeklySchedule/week08-01.md) <br/>Pacing break and last day of classes
-- portfolios due at name.github.io
+#### [Week 8.1 -- Mon., Oct. 17, no class, pacing break](WeeklySchedule/week08-01.md) and [Fri. Dec. 9, no class, lst day of classes](WeeklySchedule/week08-01.md) <br/>Portfolios due at name.github.io
 
 
