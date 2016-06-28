@@ -6,7 +6,7 @@
 - Data, yes, but it is still about **storytelling**
 - Data and the Art of Data Visualization
 - Principles: from Playfair to Tufte to Cairo
-- Practice: GitHub, markdown language, and the TextEditor
+- Practice: GitHub, markdown language and the TextEditor
 
 #### [Week 1.2 -- Wed., Aug. 31](WeeklySchedule/week01-02.md) and [Mon., Oct. 24](WeeklySchedule/week01-02.md)<br/>Telling Stories with Data <br/> The Truthful Art
 
