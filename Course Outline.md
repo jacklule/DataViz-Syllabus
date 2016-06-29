@@ -10,7 +10,7 @@
 
 #### [Week 1.2 -- Wed., Aug. 31](WeeklySchedule/week01-02.md) and [Mon., Oct. 24](WeeklySchedule/week01-02.md)<br/>Telling Stories with Data <br/> The Truthful Art
 
-- GitHub for Creating, Sharing and Version Control
+- GitHub for Creating, Sharing -- and Version Control
 - Flowing Data
 - Journalism in the Age of Data
 - Practice: Publishing in HTML5 for github.io
