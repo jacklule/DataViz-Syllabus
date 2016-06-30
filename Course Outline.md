@@ -4,7 +4,7 @@
 
 #### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
 - Data, yes, but it is still about **storytelling**
-- Data and the Art of Data Visualization
+- Data and the art of data visualization
 - Principles: from Playfair to Tufte to Cairo
 - Practice: GitHub, markdown language and the TextEditor
 
