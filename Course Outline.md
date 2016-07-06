@@ -17,7 +17,7 @@
 
 #### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md) and [Wed., Oct. 26](WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Infographics
 
-- Means and Modes and Medians
+- Means, modes and medians
 - Alberto Cairo on infographics
 - Canva
 - Infog.rm
