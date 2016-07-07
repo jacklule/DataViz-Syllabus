@@ -90,6 +90,7 @@
 - [The Fallen of World War II](http://www.fallen.io/ww2/)
 - MIT Interactive Documentary and Digital Journalism
 - "Hollow"
+- Augmented Reality (AR) and Journalism
 
 #### [Week 8.1 -- Mon., Oct. 17, no class, pacing break](WeeklySchedule/week08-01.md) and [Fri. Dec. 9, no class, last day of classes](WeeklySchedule/week08-01.md)<br/>Portfolios due at name.github.io
 
