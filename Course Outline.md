@@ -42,7 +42,7 @@
 - Visualizing Multiple Variables
 - Visualizing Categorical Data
 - Correlation and Causation
-- Chart Exercise: Embedding charts in HTML5 and publishing
+- Chart Exercise: Embedding and publishing charts in HTML5
 - Chart Assignment: Adding CSS to your web page
 
 #### [Week 4.1 -- Mon., Sept. 19](WeeklySchedule/week04-01.md) and [Wed., Nov. 9](WeeklySchedule/week04-01.md)<br/>Telling Stories of Comparisons Among Places <br/>Maps
