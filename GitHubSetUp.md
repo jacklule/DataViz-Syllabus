@@ -105,7 +105,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 
 <a id="Working-with-GitHub-in-a-computer-lab"></a>
 ##Working with GitHub in a Computer Lab
-Students likely will not have administrative access to download and install GitHub for Mac in a computer lab. The instructor would do so with JournalismAdmin access, for example, with its password. 
+Students likely will not have administrative access to download and install GitHub for Mac in a computer lab. Perhaps the studnets can start the dowload and the instructor could type in the JournalismAdmin password. Or the instructor could do all the downloads before classes begin. 
 
 For students then to set up GitHub.io pages, follow the four-step process at [GitHub Pages](https://pages.github.com/) or see above but also follow these annotations:
 
