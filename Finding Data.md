@@ -6,7 +6,7 @@
 - New search tool for journalists, [Sqoop](http://sqoop.com/), with registration required
 
 ## National and International Data Sources 
-###(feel free to send me links to add to this list)
+(feel free to send me links to add to this list)
 - [How to Teach Data Journalism for Beginners](http://mediashift.org/2015/03/how-to-teach-data-journalism-for-beginners/), with databases
 - [Finding Data](http://datajournalismhandbook.org/1.0/en/getting_data_0.html): The Data Journalism Handbook
 - Also see for the U.S., [data.gov](http://www.data.gov/), [data.gov/states](https://www.data.gov/states/), the [World Bank](http://data.worldbank.org), the [United Nations](http://data.un.org), [GetTheData](http://getthedata.org), and city, county, state and federal databases
