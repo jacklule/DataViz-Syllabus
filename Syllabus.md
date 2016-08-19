@@ -44,11 +44,11 @@ See our [Day-byDay Course Outline](https://github.com/jacklule/DataViz-Syllabus/
 There are no required texts for this class. All readings, videos and tutorials will be found online.
 
 ##Grading
-Your final grade for Jour 24 Visual Communication will be based on your performance in the two modules for the class, the traditional visual communication curriculum on photography and videography and this new curriculum on data visualization. Each module will be weighted exactly 50 percent.
+Your final grade for Jour 24 Visual Communication will be based on your performance in the two modules for the class, the traditional visual communication curriculum on photography, videography and print design and this new curriculum on data visualization. Each module will be weighted exactly 50 percent.
 
 The data visualization module strives for a balance between principles and practice. So will our grading.
 
-**20%** Quizzes, annotations and analyses of readings and videos
+**20%** Quizzes, exams, annotations and analyses of readings and videos
 
 **50%** Assignments that put our principles into practice, likely to include:
 - customized HTML5 page at name.github.io
