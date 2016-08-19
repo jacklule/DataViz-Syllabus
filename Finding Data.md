@@ -5,7 +5,8 @@
 - Nice list of [Data Tools](http://selection.datavisualization.ch/)
 - New search tool for journalists, [Sqoop](http://sqoop.com/), with registration required
 
-# National and International Data Sources (feel free to send me links to add to this list)
+## National and International Data Sources 
+###(feel free to send me links to add to this list)
 - [How to Teach Data Journalism for Beginners](http://mediashift.org/2015/03/how-to-teach-data-journalism-for-beginners/), with databases
 - [Finding Data](http://datajournalismhandbook.org/1.0/en/getting_data_0.html): The Data Journalism Handbook
 - Also see for the U.S., [data.gov](http://www.data.gov/), [data.gov/states](https://www.data.gov/states/), the [World Bank](http://data.worldbank.org), the [United Nations](http://data.un.org), [GetTheData](http://getthedata.org), and city, county, state and federal databases
@@ -18,7 +19,7 @@
 - Essay and list of data on [academic research resources](http://journalistsresource.org/tip-sheets/research/database-checklist-key-academic-research-resources-free-restricted?utm_source=JR-email&utm_medium=email&utm_campaign=JR-email&utm_source=Journalist%27s+Resource&utm_campaign=639c90a2b6-2015_Sept_1_A_B_split3_24_2015&utm_medium=email&utm_term=0_12d86b1d6a-639c90a2b6-80019757)
 - [Project Arclight](http://search.projectarclight.org/), digital humanities database
 
-# Local Data
+## Local Data
 - [ZCTA: Zip Code Tabulation Area](http://www.census.gov/geo/reference/zctas.html)
 - [2010 Census for 18015](http://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml)
 - [2013 County Business Patterns: Search by Zip Code](http://www.census.gov/econ/cbp/index.html)
