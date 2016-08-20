@@ -8,7 +8,9 @@
 | war mortality | Joseph Priestley | chart of biography | | |
 | **TED Talk** | Hans Gosling | long life, small family | history of data viz | William Playfair |
 | war mortality | Joseph Priestley | chart of biography | | |
-| **McGee video** |Flowing Data | democratizing visualization | Amanda Cox | Liberal arts and data viz | Aha moments |
+| **McGee video** (2010) |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
+| scarce resource - using data well| Amanda Cox | budget forecast example | unemployment people like you |
+| BBC road death example | struggle with narrative | Nigel Holmes | | |
 |**Week 01-02**| | | | |
 | from "Why Visualize?" | tool for eye and brain | fertility rate example | unstructured information | The Functional Art |
 
