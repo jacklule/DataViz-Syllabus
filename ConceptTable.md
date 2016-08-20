@@ -6,8 +6,8 @@
 | pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 | **Tableau 5** | John Snow | cholera map | Hans Gosling | Charles Minard | March on Moscow | Florence Nightingale |
 | war mortality | Joseph Priestley | chart of biography | | |
-| **TED Talk** | Hans Gosling | long life, small family | history of data viz | William Playfair |
-| war mortality | Joseph Priestley | chart of biography | | |
+| **TED Talk** | Hans Gosling | long life, small family | data v. preconceived beliefs | data: poverty rates and rise of Asia |
+| data: variations IN Africa | highly contextualized | metaphor: data use as flower | gapminder.com | liberating UN data |
 | **McGee video** (2010) |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | | | | |
