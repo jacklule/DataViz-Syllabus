@@ -1,11 +1,10 @@
 ## Concept Table
 #####(meta-commentary below) 
-|**Week 01-01** | | |  |  |
-| ------------- | ------------- | ------------ | --------------- | -------- |
-| Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
-| evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
-|  | |  | | |
-| John Snow | cholera map | Hans Gosling | Charles Minard | March on Moscow | GitHub |
+|**Week 01-01** | | |  |  | |
+| ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
+| **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
+| pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
+| **Tableau 5** | John Snow | cholera map | Hans Gosling | Charles Minard | March on Moscow | GitHub |
 | pull requests | Edward Tufte | style and failed content | Galileo | pattern recognition |
 | tiger in the grass | Hans Gosling | long life, small family | history of data viz | William Playfair |
 | Charles Minard | John Snow | Amanda Cox | Liberal arts and data viz | Aha moments |
