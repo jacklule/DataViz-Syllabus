@@ -14,7 +14,7 @@
 |**Week 01-02**| | | | |
 | **MediaShift** | preattentive attributes | position | color | size | shape|
 | chart types to fit data | highlighting | first question |
-| **Chronicle of Higher Ed** | GitHub as social coding site | octocat | Git v. GitHub | version control|
+| **Emily Ferber** | GitHub as social coding site | octocat | Git v. GitHub | version control| to talk with programmers |
 | collaboration and code | commits | forking | pull requests |
 
 ####Meta-comment
