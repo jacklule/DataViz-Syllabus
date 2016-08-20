@@ -9,10 +9,9 @@
 | **TED Talk** | Hans Gosling | long life, small family | history of data viz | William Playfair |
 | war mortality | Joseph Priestley | chart of biography | | |
 | **McGee video** (2010) |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
-| scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | | | struggles with narrative | Nigel Holmes | | |
+| scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative | Nigel Holmes | | |
 |**Week 01-02**| | | | |
 | from "Why Visualize?" | tool for eye and brain | fertility rate example | unstructured information | The Functional Art |
-
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
