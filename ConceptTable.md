@@ -2,7 +2,7 @@
 #####(meta-commentary below) 
 |**Week 01-01** | | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
-| Edward Tufte | style and failed content | cartography roots | Google maps |
+| Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
 | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 | KnowMore | 538 | HuffPo Data | Alberto Cairo| Robert Kosara |
 | md files | html files | Emily Ferber | commits | forking | GitHub |
