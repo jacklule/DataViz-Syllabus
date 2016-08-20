@@ -10,7 +10,7 @@
 | data: variations IN Africa | highly contextualized | metaphor: data use as flower | gapminder.com | liberating UN data |
 | **McGee video** (2010) Intro and 1 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
-| Nigel Holmes | | | | |
+| Nigel Holmes | bad visualizations are easy | | | |
 |**Week 01-02**| | | | |
 | **MediaShift** | preattentive attributes | position | color | size | shape|
 | chart types to fit data | highlighting | first question |
