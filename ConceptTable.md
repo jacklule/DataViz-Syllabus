@@ -6,7 +6,7 @@
 | pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 | **Tableau 5** | John Snow | cholera map | Hans Gosling | Charles Minard | March on Moscow | Florence Nightingale |
 | war mortality | Joseph Priestley | chart of biography | | |
-| tiger in the grass | Hans Gosling | long life, small family | history of data viz | William Playfair |
+| **TED Talk** | Hans Gosling | long life, small family | history of data viz | William Playfair |
 | Charles Minard | John Snow | Amanda Cox | Liberal arts and data viz | Aha moments |
 |**Week 01-02**| | | | |
 | from "Why Visualize?" | tool for eye and brain | fertility rate example | unstructured information | The Functional Art |
