@@ -2,8 +2,8 @@
 #####(meta-commentary below) 
 |**Week 01-01** | | |  |  |
 | ------------- | ------------- | ------------ | --------------- | -------- |
-| telling stories | spreadsheets | data.gov | datacatalogs.org | the datahub.org |
-| Socrata | Infochimps |infographics | the guardian.com/data | The Upshot | 
+| Edward Tufte | style and failed content | cartography roots | Google maps |
+| evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 | KnowMore | 538 | HuffPo Data | Alberto Cairo| Robert Kosara |
 | md files | html files | Emily Ferber | commits | forking | GitHub |
 | pull requests | Edward Tufte | style and failed content | Galileo | pattern recognition |
