@@ -1,6 +1,6 @@
 ## Concept Table
 #####(meta-commentary below) 
-|**Week 01-01** | | |  |  | |
+| **Week 01-01** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
 | pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
