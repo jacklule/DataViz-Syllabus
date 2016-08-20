@@ -14,7 +14,8 @@
 |**Week 01-02**| | | | |
 | **MediaShift** | preattentive attributes | position | color | size | shape|
 | chart types to fit data | highlighting | first question |
-| **Chronicle of Higher Ed** | GitHub as social coding site | octocat | Git v. GitHub |
+| **Chronicle of Higher Ed** | GitHub as social coding site | octocat | Git v. GitHub | version control|
+| collaboration and code |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
