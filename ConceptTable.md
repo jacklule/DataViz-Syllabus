@@ -8,14 +8,14 @@
 | war mortality | Joseph Priestley | chart of biography | | |
 | **TED Talk** | Hans Gosling | long life, small family | data v. preconceived beliefs | data: poverty rates and rise of Asia |
 | data: variations IN Africa | highly contextualized | metaphor: data use as flower | gapminder.com | liberating UN data |
-| **McGee video** (2010) |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
+| **McGee video** (2010) Intro and 1 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | | | | |
 |**Week 01-02**| | | | |
 | **MediaShift** | preattentive attributes | position | color | size | shape|
 | chart types to fit data | highlighting | first question |
 | **Chronicle of Higher Ed** | GitHub as social coding site | octocat | Git v. GitHub | version control|
-| collaboration and code |
+| collaboration and code | commits | forking | pull requests |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
