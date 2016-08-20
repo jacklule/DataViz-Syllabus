@@ -26,6 +26,8 @@
 |**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn | visualizations not self-contained |
 | automatic from chosen viz | context free v. context sensitive? |
 | **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
+| ** Infographic on infographic** | data-rich | 30 times more likely to be read | brand building | trying to go viral |
+| **McGhee video Chapter 4** |
 
 
 ####Meta-comment
