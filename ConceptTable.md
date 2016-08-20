@@ -18,6 +18,7 @@
 | collaboration and code | commits | forking | pull requests |
 | **Chronicle of Higher Ed** | GitHub: site of online writing and creativity | collaboration without collaboration | NOT a canonical document | repository | branch |
 | **Aha** Moments | Harvard Business Review | Amanda Cox | actionable results | very liberal arts | "ability to ask good questions" |
+| Aha moment and segregation | unemployment perspectives and "truth" | Flash replaced by Javascript | Update: Amanda Cox and Upshot |
 
 
 ####Meta-comment
