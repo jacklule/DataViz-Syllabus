@@ -25,6 +25,7 @@
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
 |**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn | visualizations not self-contained |
 | automatic from chosen viz | context free v. context sensitive? |
+| **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
 
 
 ####Meta-comment
