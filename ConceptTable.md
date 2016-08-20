@@ -23,7 +23,7 @@
 | drill down from overview | state-by-state map as default | your own neighborhood |Richard Koci Hernandez | "crisis of credit visualized" | Vampire Energy - Nigel Holmes | motion graphics and information graphics |
 | **Week 02-01** | | |  |  | |
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
-|**Kosara**| particular dataset v. many datasets | infographic as self-contained | hand-drawn | visualizations not self-contained |
+|**Kosara on Inforgraphics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn | visualizations not self-contained |
 | automatic from chosen viz | context free v. context sensitive? |
 
 
