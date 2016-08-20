@@ -12,7 +12,9 @@
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | | | | |
 |**Week 01-02**| | | | |
-| from "Why Visualize?" | tool for eye and brain | fertility rate example | unstructured information | The Functional Art |
+| **MediaShift** | preattentive attributes | position | color | size | shape|
+| chart types to fit data | highlighting | first question |
+| **Chronicle of Higher Ed** | GitHub as social coding site | octocat | Git v. GitHub |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
