@@ -17,6 +17,8 @@
 | **Emily Ferber** | GitHub as social coding site | octocat | Git v. GitHub | version control| to talk with programmers |
 | collaboration and code | commits | forking | pull requests |
 | **Chronicle of Higher Ed** | GitHub: site of online writing and creativity | collaboration without collaboration | NOT a canonical document | repository | branch |
+| **Aha** Moments | Harvard Business Review | Amanda Cox | actionable results | very liberal arts | "ability to ask good questions" |
+
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
