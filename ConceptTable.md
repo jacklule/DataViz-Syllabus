@@ -7,7 +7,7 @@
 | **Tableau 5** | John Snow | cholera map | Hans Gosling | Charles Minard | March on Moscow | Florence Nightingale |
 | war mortality | Joseph Priestley | chart of biography | | |
 | **TED Talk** | Hans Gosling | long life, small family | data v. preconceived beliefs | data reveals: | poverty and rise of Asia |
-| fertility rates and lifespans | variations IN Africa | poverty as highly contextualized | metaphor: data use as flower |ga pminder.com | liberating UN data |
+| fertility rates and lifespans | variations IN Africa | poverty as highly contextualized | metaphor: data use as flower |gapminder.com | liberating UN data |
 | **McGee video** (2010) Intro and 1 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | bad visualizations are easy | | | |
@@ -16,6 +16,7 @@
 | chart types to fit data | highlighting | first question |
 | **Emily Ferber** | GitHub as social coding site | octocat | Git v. GitHub | version control| to talk with programmers |
 | collaboration and code | commits | forking | pull requests |
+| **Chronicle of Higher Ed** |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
