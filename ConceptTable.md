@@ -30,6 +30,9 @@
 | **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
 | **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
 | **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
+| **Week 02-02** | | |  |  | |
+|**Lena Groeger**| Why timelines | show how stories unfold, event by event | provide history | show trends | TimelineJS |
+| horizontal v. vertical |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
