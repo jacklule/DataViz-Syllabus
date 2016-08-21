@@ -28,6 +28,7 @@
 | **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
 | **McGhee video Chapter 4** |
 | **Infographic on infographic** | data-rich | 30 times more likely to be read | brand building | trying to go viral |
+| **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
