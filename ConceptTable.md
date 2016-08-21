@@ -23,13 +23,12 @@
 | drill down from overview | state-by-state map as default | your own neighborhood |Richard Koci Hernandez | "crisis of credit visualized" | Vampire Energy - Nigel Holmes | motion graphics and information graphics |
 | **Week 02-01** | | |  |  | |
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
-|**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn | visualizations not self-contained |
-| automatic from chosen viz | context free v. context sensitive? |
+|**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn v. "automatic" | visualizations not self-contained | context free v. context sensitive? |
 | **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
 | **McGhee video Chapter 4** |
 | **Infographic on infographic** | data-rich | 30 times more likely to be read | brand building | trying to go viral |
 | **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
-| **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused |
+| **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
