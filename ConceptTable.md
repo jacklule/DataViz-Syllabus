@@ -8,7 +8,7 @@
 | war mortality | Joseph Priestley | chart of biography | | |
 | **TED Talk** | Hans Gosling | long life, small family | data v. preconceived beliefs | data reveals: | poverty and rise of Asia |
 | fertility rates and lifespans | variations IN Africa | poverty as highly contextualized | metaphor: data use as flower |gapminder.com | liberating UN data |
-| **McGee video** (2010) Intro and  Chapter 1 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
+| **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | bad visualizations are easy | | | |
 |**Week 01-02**| | | | |
@@ -19,12 +19,13 @@
 | **Chronicle of Higher Ed** | GitHub: site of online writing and creativity | collaboration without collaboration | NOT a canonical document | repository | branch |
 | **Aha Moments** | Harvard Business Review | Amanda Cox | actionable results | very liberal arts | "ability to ask good questions" |
 | Aha moment and segregation | unemployment perspectives and "truth" | Flash replaced by Javascript | Update: Amanda Cox and Upshot |
-| **Telling Data Stories** | Genres of narrative visualization | "martini glass" structure | interactive data slideshow | 4-5 seconds to engage | small chunks of information |
-| drill down from overview | state-by-state map as default | your own neighborhood |Richard Koci Hernandez | "crisis of credit visualized" | Vampire Energy - Nigel Holmes | motion graphics and information graphics |
+| **McGhee video: Chapter 3** | Telling Data Stories | Genres of narrative visualization | "martini glass" structure | interactive data slideshow | 4-5 seconds to engage 
+| small chunks of information | drill down from overview | state-by-state map as default | your own neighborhood |Richard Koci Hernandez | "crisis of credit visualized" |
+| Vampire Energy - Nigel Holmes | motion graphics and information graphics |
 | **Week 02-01** | | |  |  | |
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
 |**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn v. "automatic" | visualizations not self-contained | context free v. context sensitive? |
-| **McGhee video Chapter 4** |
+| **McGhee video: Chapter 4** | Cairo critique of infographic awards |
 | **Infographic on infographic** | data-rich | 30 times more likely to be read | brand building | trying to go viral |
 | **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
 | **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
