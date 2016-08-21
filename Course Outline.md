@@ -24,7 +24,7 @@
 ### [Week 2.2 -- Wed., Sept. 7](WeeklySchedule/week02-02.md) and [Mon., Oct. 31](WeeklySchedule/week02-02.md)<br/>Telling Stories of Change over Time <br/> Timelines and Time Series
 
 - Visualizing Time Series Data
-- James Carey on Time in journalism
+- Lena Groeger on Making Timelines
 - TimelineJS
 - Publishing TimelineJS in HTML5
 
