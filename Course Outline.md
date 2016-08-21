@@ -5,7 +5,7 @@
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
 - Data, yes, but it is still about **storytelling**
 - Data and the art of data visualization
-- Principles: from Playfair to Tufte to Cairo
+- Principles: from John Snow to Edward Tufte to Alberto Cairo
 - Practice: GitHub, markdown language and the TextEditor
 
 ### [Week 1.2 -- Wed., Aug. 31](WeeklySchedule/week01-02.md) and [Mon., Oct. 24](WeeklySchedule/week01-02.md)<br/>Telling Stories with Data <br/> The Truthful Art
@@ -17,7 +17,6 @@
 
 ### [Week 2.1 -- Mon., Sept. 5](WeeklySchedule/week02-01.md) and [Wed., Oct. 26](WeeklySchedule/week02-01.md)<br/>Telling Stories that Answer a Question<br/>Infographics
 
-- Means, modes and medians
 - Alberto Cairo on infographics
 - Canva
 - Infog.rm
