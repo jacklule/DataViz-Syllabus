@@ -42,7 +42,7 @@ My **annotations** for Hello World:
 <p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
 My **annotations** for GitHub Pages Guide:
-- GitHub for Mac should already be installed on local computer
+- It is best if GitHub for Mac could already be installed on the local computer. But GitHub asks for admin approval and so profs may want to do that step before classes begin.
 - Go to the [GitHub Pages Guide](https://pages.github.com/) and follow steps, using GitHub for Mac
 - "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
 - Step 2: Clone the Repository **may** be accomplished by merely clicking Set Up in Desktop. Students will need to know, however, where the local repo is being stored on the computer.
