@@ -52,7 +52,7 @@ My **annotations** for GitHub Pages Guide:
 
 <a id="To-Set-Up-TextEdit-to-Create-html-Pages"></a>
 ##To Set Up TextEdit to Create html Pages
-- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences, Click the Plain Text radio button for New Document Format; Under Saving, click the checkbox to turn off "Append '.txt' extension to plain text files."
+- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences > New Document > click the Plain Text radio button under Format; Under Open and Save, When Saving a File, click the checkbox to turn off "Append '.txt' extension to plain text files." Students will now be able to save text edits as html pages.
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
 - Students can then take the next step in the Pages Guide and create an index.html page
 - Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
