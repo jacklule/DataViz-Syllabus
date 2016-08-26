@@ -18,7 +18,13 @@ Rather than have students take two more required classes, we have found natural 
 
 You should treat each module as its own separate course. The grading methods, course structure, assignment weights, etc., will be set by the professor leading each module. Each module will be weighted exactly 50 percent. Your final grade will simply combine the two modules.
 
-In this module, you will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn basic essential journalism skills, such as reporting, finding information, storytelling and working with images and data. You will become familiar with the principles and practice that ground new, but always evolving, digital tools -- tools that will help you tell stories with data. You can decide if you want to specialize in one.
+##Learning Outcomes
+
+Journalism educators have outlined two learning outcomes relevant to this class. Students should know how to:
+- apply basic numerical and statistical concepts
+- apply current tools and technologies appropriate for the communications professions in which they work
+
+In this module, you will learn that and more. You will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn basic essential journalism skills, such as reporting, finding information, storytelling and working with images and data. You will become familiar with the principles and practice that ground new, but always evolving, digital tools -- tools that will help you tell stories with data. You can decide if you want to specialize in one and this course can shape your career.
 
 ##Data: The hole in your resume
 
