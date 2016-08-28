@@ -21,6 +21,7 @@ You should treat each module as its own separate course. The grading methods, co
 ##Learning Outcomes
 
 Journalism education associations have outlined two learning outcomes relevant to this class -- and your career. Students should know how to:
+
 - apply basic numerical and statistical concepts
 - apply current tools and technologies appropriate for the communications professions in which they work
 
