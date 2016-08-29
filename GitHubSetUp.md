@@ -24,7 +24,8 @@ My **annotations** for Hello World:
 - before "Create a Repository", students should follow the tip to open up the Hello World guide in a **separate tab** and work in another tab
 - also before creating a repository, GitHub will ask, **Please verify email address**; students will need to open their email in yet another tab or perhaps their phone
 - for the repository, no need to name it, "Hello World;" can **name Data Viz**
-- click Public, click Initialize with ReadMe; notice **ReadMe is md file**
+- click Public
+- **Important** click Initialize with ReadMe; notice **ReadMe is md file**
 - do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
 - click to access ReadMe (**notice we are in branch**);
 - click pencil icon in top right to **edit ReadMe**; practice md and preview as go along
