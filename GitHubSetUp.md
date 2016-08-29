@@ -17,7 +17,7 @@ Found below are instructions for:
 ##Getting Set Up at GitHub.com <a id="Getting-Set-Up-at-GitHub.com"></a>
 
 <p>Students of course first need to set up an account. After a discussion of visual communication principles and the strengths of GitHub, we set it up on the first day. It is easy at <a href="https://github.com">GitHub.com.</a> 
-<p>We will follow along with but adapt the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
+<p>Students first register and follow along with, but adapt, the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
 
 My **annotations** for Hello World:
 - for **Signup**, students should use their first and last name: for example, jacklule
