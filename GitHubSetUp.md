@@ -105,7 +105,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - on the next text field to the right, after the /, type the *file* name (type .md if you want that style) and hit Enter
 - this creates a folder.
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
--
+
 <a id="To-Delete-a-Repository"></a>
 ##To Delete a Repository
 - Students can make mistake in the early stages of constructing a repository. Sometimes it is easier just to delete and start over.
