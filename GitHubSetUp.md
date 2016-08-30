@@ -9,6 +9,7 @@ Found below are instructions for:
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
 - [To Publish Other Work at GitHub.io](#To-Publish-Other-Work-at-GitHub.io)
 - [To Create and Manage Files and Folders](#To-Create-and-Manage-Files-and-Folders)
+- [To Delete a Repository](#To Delete a Repository)
 - [Working with GitHub in a Computer Lab](#Working-with-GitHub-in-a-computer-lab)
 - [Resources](#Resources)
 
@@ -104,6 +105,14 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - on the next text field to the right, after the /, type the *file* name (type .md if you want that style) and hit Enter
 - this creates a folder.
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
+-
+<a id="To-Delete-a-Repository"></a>
+##To Delete a Repository
+- Students can make mistake in the early stages of constructing a repository. Sometimes it is easier just to delete and start over.
+- From the github.com/name page, click on the Repositories Tab
+- click on the repository to be deleted
+- find and click Settings icon
+- scroll down to the Danger section and delete
 
 <a id="Working-with-GitHub-in-a-computer-lab"></a>
 ##Working with GitHub in a Computer Lab
