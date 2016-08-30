@@ -9,7 +9,7 @@ Found below are instructions for:
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
 - [To Publish Other Work at GitHub.io](#To-Publish-Other-Work-at-GitHub.io)
 - [To Create and Manage Files and Folders](#To-Create-and-Manage-Files-and-Folders)
-- [To Delete a Repository](#To Delete a Repository)
+- [To Delete a Repository](#To-Delete-a-Repository)
 - [Working with GitHub in a Computer Lab](#Working-with-GitHub-in-a-computer-lab)
 - [Resources](#Resources)
 
