@@ -45,16 +45,17 @@ My **annotations** for Hello World:
 
 My **annotations** for GitHub Pages Guide:
 - It is best if GitHub for Mac could already be installed on the local computer. But GitHub asks for admin approval and so profs may want to do that step before classes begin.
-- Students however will first need to [Authenticate and Sign In](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/) on the local computer since Set Up was skipped with the professor installing the app. The basic steps: Open GitHub Desktop > go to top left GitHub Desktop menu > Preferences> Accounts > Sign In to GitHub. Also, in the Advanced tab, students should log in to Git Config.
-- Go to the [GitHub Pages Guide](https://pages.github.com/) and follow steps, using GitHub for Mac
-- "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
+- Students however will first need to [Authenticate and Sign In](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/) on the local computer since Set Up was skipped with the professor installing the app. The basic steps: Open GitHub Desktop > go to top left GitHub Desktop menu > Preferences> Accounts > Sign In to GitHub. Also, in the Advanced tab, students should log in to Git Config. **Then exit GitHub Desktop.**
+- Go to the [GitHub Pages Guide](https://pages.github.com/) and follow steps.
+- But **go out of order** and go to Step 1.5, the question mark and indicated client using GitHub for Mac.
+- Then go to Step 1: "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
 - Step 2: Clone the Repository **may** be accomplished by merely clicking Set Up in Desktop. Students will need to know, however, where the local repo is being stored on the computer.
 - If the cloning does not work, here are [GitHub instructions for cloning](https://help.github.com/articles/cloning-a-repository/); desktop instructions are near the bottom: Go to repo's main page; click on clipboard to copy the URL for the rep; go to GitHub Desktop, verify name and location of where the file should be; click Clone.
 - GitHub then says, **grab your favorite text editor**: not so simple; next step:
 
 <a id="To-Set-Up-TextEdit-to-Create-html-Pages"></a>
 ##To Set Up TextEdit to Create html Pages
-- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences > New Document > click the Plain Text radio button under Format; Under Open and Save, When Saving a File, click the checkbox to turn off "Append '.txt' extension to plain text files." Students will now be able to save text edits as html pages.
+- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences > New Document > click the Plain Text radio button under Format; Under Open and Save, When Saving a File, click the checkbox to turn off "Append '.txt' extension to plain text files." Students will now be able to save text edits as html pages. (And for future editing, in Open and Save, students can also click on Display HTML files as HTML code instead of formatted text."
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
 - Students can then take the next step in the Pages Guide and create an index.html page
 - Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
@@ -84,7 +85,7 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - scroll past generic text and continue to Layout; 
 - I chose Minimal but students can pick from other styles;
 - the repo/portfolio page is now customized;
-- Students can then go to their index page, remove the generic GitHug text and begin providing their own content;
+- Students can then go to their index page, remove the generic GitHub text about index and begin providing their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
 <a id="To-Publish-Other-Work-at-GitHub.io"></a>
