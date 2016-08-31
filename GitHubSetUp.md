@@ -108,7 +108,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 
 <a id="To-Delete-a-Repository"></a>
 ##To Delete a Repository
-- Students can make mistake in the early stages of constructing a repository. Sometimes it is easier just to delete and start over.
+- Students can make mistakes in the early stages of constructing a repository. Sometimes it is easier just to delete and start over.
 - From the github.com/name page, click on the Repositories Tab
 - click on the repository to be deleted
 - find and click Settings icon
