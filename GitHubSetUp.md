@@ -47,9 +47,9 @@ My **annotations** for GitHub Pages Guide:
 - It is best if GitHub for Mac could already be installed on the local computer. But GitHub asks for admin approval and so profs may want to do that step before classes begin.
 - Students however will first need to [Authenticate and Sign In](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/) on the local computer since Set Up was skipped with the professor installing the app. The basic steps: Open GitHub Desktop > go to top left GitHub Desktop menu > Preferences> Accounts > Sign In to GitHub. Also, in the Advanced tab, students should log in to Git Config. **Then exit GitHub Desktop.**
 - Go to the [GitHub Pages Guide](https://pages.github.com/) and follow steps.
-- But **go out of order** and go to Step 1.5, the question mark and indicated client using GitHub for Mac.
+- But **go out of order** and go to Step 1.5, the question mark and indicate client using GitHub for Mac.
 - Then go to Step 1: "Head over to GitHub" means go to **github.com/username** and create a new repository named **username.github.io**
-- Step 2: Clone the Repository **may** be accomplished by merely clicking Set Up in Desktop. Students will need to know, however, where the local repo is being stored on the computer.
+- Step 2: Clone the Repository. This **may** be accomplished by merely clicking Set Up in Desktop. Students will need to know, however, where the local repo is being stored on the computer. They can search Finder for where the folder has been stored.
 - If the cloning does not work, here are [GitHub instructions for cloning](https://help.github.com/articles/cloning-a-repository/); desktop instructions are near the bottom: Go to repo's main page; click on clipboard to copy the URL for the rep; go to GitHub Desktop, verify name and location of where the file should be; click Clone.
 - GitHub then says, **grab your favorite text editor**: not so simple; next step:
 
