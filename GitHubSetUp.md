@@ -55,11 +55,11 @@ My **annotations** for GitHub Pages Guide:
 
 <a id="To-Set-Up-TextEdit-to-Create-html-Pages"></a>
 ##To Set Up TextEdit to Create html Pages
-- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences > New Document > click the Plain Text radio button under Format; Under Open and Save, When Saving a File, click the checkbox to turn off "Append '.txt' extension to plain text files." Students will now be able to save text edits as html pages. (And for future editing, in Open and Save, students can also click on Display HTML files as HTML code instead of formatted text."
+- Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences > New Document > click the Plain Text radio button under Format; Under Open and Save, When Saving a File, click the checkbox to turn off "Append '.txt' extension to plain text files." Students will now be able to save text edits as html pages. (And for future editing, in Open and Save, students can also click on Display HTML files as HTML code instead of formatted text.")
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
 - Students can then take the next step in the Pages Guide and create an index.html page
 - Opening up the Mac's TextEdit, students will follow the html directions at the Guide to create the html page
-- Students then save that page to their GitHub repository on the local computer
+- Students then save that page, using rich text format (not save as web page) and adding the html extension: index.html. This page should be saved to their GitHub repository on the local computer
 - GitHub will recognize a change has been made to the repository. Students then commit the changes and sync with their GitHub site
 - The sync will add the html page to name.github.com
 - Students can view the html page through any browser
