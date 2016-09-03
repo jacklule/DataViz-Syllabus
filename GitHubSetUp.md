@@ -80,12 +80,12 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - After creating username.github.io, students can personalize that page;
 - They should go to page --- username.github.io -- and find the **setting** link to the top right;
 - Scroll down to Update site and click on Automatic Page Generator;
-- provide a straightforward page name: name.github.io
+- Keep the repository page name: name.github.io
 - provide a brief tagline of description;
 - scroll past generic text and continue to Layout; 
 - I chose Minimal but students can pick from other styles;
 - the repo/portfolio page is now customized;
-- Students can then go to their index page, remove the generic GitHub text about index and begin providing their own content;
+- Students can then go to their index page at github.com, click edit, remove the old Hello World text from the index and begin providing their own content;
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
 <a id="To-Publish-Other-Work-at-GitHub.io"></a>
