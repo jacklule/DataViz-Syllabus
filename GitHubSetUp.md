@@ -51,13 +51,13 @@ My **annotations** for Hello World:
 - Open that repository and click Create New File.
 - Name file index.html
 - In the text box, put GitHub's suggested opening text in html **(enclosing lines between < and >)**
-  -!DOCTYPE html
-  -html
-  -body
-  -h1>Hello World</h1
-  -p>I'm hosted with GitHub Pages.</p
-  -/body
-  -/html
+- !DOCTYPE html
+- html
+- body
+- h1>Hello World</h1
+- p>I'm hosted with GitHub Pages.</p
+- /body
+- /html
 - Commit.
 
 <a id="Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop"></a>
