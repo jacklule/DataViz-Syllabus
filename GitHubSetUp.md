@@ -3,7 +3,8 @@ I have attempted to make this guide as simple and clear as possible for those wi
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
-- [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io)
+- [Getting Set Up at GitHub.io without GitHub Desktop](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop)
+- [Getting Set Up at GitHub.io with GitHub Desktop](#Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
 - [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
@@ -42,14 +43,22 @@ My **annotations** for Hello World:
 
 ##Getting Set Up at GitHub.io without GitHub Desktop
 
-<p>Students should go to their github.com page and click the Repositories tab.</p>
-On the far right, find the button that says New.
-Give the repository name the exact username.github.io
-**Important: Click Initialize this repository with a README**
-Commit
-Open that repository and click Create New File.
-Name file index.html
-In the text box, put GitHub's suggested opening text in html:
+- Students should go to their github.com page and click the Repositories tab.</p>
+- On the far right, find the button that says New.
+- Give the repository name the exact username.github.io
+- **Important: Click Initialize this repository with a README**
+- Commit
+- Open that repository and click Create New File.
+- Name file index.html
+- In the text box, put GitHub's suggested opening text in html:
+  -<!DOCTYPE html>
+  -<html>
+  -<body>
+  -<h1>Hello World</h1>
+  -<p>I'm hosted with GitHub Pages.</p>
+  -</body>
+  -</html>
+- Commit.
 
 ##Getting Set Up at GitHub.io with GitHub Desktop
 
