@@ -64,7 +64,7 @@ My **annotations** for GitHub Pages Guide:
 - The sync will add the html page to name.github.com
 - Students can view the html page through any browser
 
-Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. 
+Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. **To check on troubles, view Page Source. Right click with PCs; Option+Command+u for Macs.**
 
 <a id="To-edit-an-html-page-in-TextEdit"></a>
 ##To Edit an html Page in TextEdit
