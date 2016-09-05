@@ -39,8 +39,8 @@ My **annotations** for Hello World:
 - check your repository; changes made and the branch has been deleted; again, students will not use branches much but they can see the advantage of collaborative work flow; check the **GitHub work flow** link
 
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
-<a id="Getting-Set-Up-at-GitHub.io"></a>
 
+<a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
 
 - Students should go to their github.com page and click the Repositories tab.</p>
@@ -50,16 +50,17 @@ My **annotations** for Hello World:
 - Commit
 - Open that repository and click Create New File.
 - Name file index.html
-- In the text box, put GitHub's suggested opening text in html:
-  -<!DOCTYPE html>
-  -<html>
-  -<body>
-  -<h1>Hello World</h1>
-  -<p>I'm hosted with GitHub Pages.</p>
-  -</body>
-  -</html>
+- In the text box, put GitHub's suggested opening text in html **(enclosing lines between < and >:
+  -!DOCTYPE html
+  -html
+  -body
+  -h1>Hello World</h1
+  -p>I'm hosted with GitHub Pages.</p
+  -/body
+  -/html
 - Commit.
 
+<a id="Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io with GitHub Desktop
 
 <p> To work in GitHub Desktop, students should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
