@@ -39,9 +39,21 @@ My **annotations** for Hello World:
 
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
 <a id="Getting-Set-Up-at-GitHub.io"></a>
-##Getting Set Up at GitHub.io 
 
-<p> The following class, the students then should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
+##Getting Set Up at GitHub.io without GitHub Desktop
+
+<p>Students should go to their github.com page and click the Repositories tab.</p>
+On the far right, find the button that says New.
+Give the repository name the exact username.github.io
+**Important: Click Initialize this repository with a README**
+Commit
+Open that repository and click Create New File.
+Name file index.html
+In the text box, put GitHub's suggested opening text in html:
+
+##Getting Set Up at GitHub.io with GitHub Desktop
+
+<p> To work in GitHub Desktop, students should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
 My **annotations** for GitHub Pages Guide:
 - It is best if GitHub for Mac could already be installed on the local computer. But GitHub asks for admin approval and so profs may want to do that step before classes begin.
