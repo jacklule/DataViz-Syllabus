@@ -50,7 +50,7 @@ My **annotations** for Hello World:
 - Commit
 - Open that repository and click Create New File.
 - Name file index.html
-- In the text box, put GitHub's suggested opening text in html **(enclosing lines between < and >:
+- In the text box, put GitHub's suggested opening text in html **(enclosing lines between < and >)**
   -!DOCTYPE html
   -html
   -body
