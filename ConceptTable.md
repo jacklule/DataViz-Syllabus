@@ -34,6 +34,10 @@
 |**Lena Groeger**| Why timelines | show how stories unfold, event by event | provide history | show trends | TimelineJS |
 | horizontal v. vertical | how do you draw time | time as a line | link events to well-known events |
 | **How To** | importance of Title | selection of events | story: begin and end | storyboard/sketch |
+| **Week 03-01** | | |  |  | |
+|**Infog.rm and Google**| When to use: | bar charts/column charts | horizontal bar charts | line graphs/time-series charts | pie charts |
+| horizontal v. vertical | how do you draw time | time as a line | link events to well-known events |
+| **How To** | importance of Title | selection of events | story: begin and end | storyboard/sketch |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
