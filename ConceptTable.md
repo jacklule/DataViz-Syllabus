@@ -37,6 +37,7 @@
 | **Week 03-01** | | |  |  | |
 |**Infog.rm and Google**| When to use: | bar charts/column charts | horizontal bar charts | line graphs/time-series charts | pie charts |
 | area charts | scatter plots/xy plots | bubble charts | tree maps |
+| **Week 03-02** | | |  |  | |
 | **Duke University** | y axis must start at zero | what are legends | what are labels | use of 3D | how many colors |
 | **Data Journalism** | William Playfair | chloropleth map | two most basic charts | maps and color codes |
 
