@@ -44,7 +44,8 @@
 | **Carto** | 4 basic map essentials | **ESRI** | #1 consideration | tips for symbology | |
 | **Quealy- Useful** | what matters most | what are heat maps good for | dot-density maps | |
 | **So You Want To** | Geodata | lat/lng and locations | a straight line on a map | Sources for geodata |
-| **Clay Shirky** | map exercise | xyz axis |
+| **Clay Shirky** | map exercise | xyz axis | **Axis Map Guide** | reference map v. thematic map | |
+| numerical, nominal and ordinal data | standardizing data | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
