@@ -53,3 +53,4 @@ Creating the Map
 - We want to filter by names of boys and girls; drag gender to filers > in the popup box choose M
 - We also want to filter by year; drag year to filter > Tableau sees the range of values from 1910 to 2012 > click OK
 - On Year, right click drop down menu and click show filter so viewer can see slider
+
