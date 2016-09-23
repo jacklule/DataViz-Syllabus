@@ -11,3 +11,7 @@
 
 **Tutorial**
 - Under Resources in right grey bar, click Sample Data Sets
+- Scroll to Lifestyle > Top Baby Names > click Dataset (csv versus xls files) > TopBabyNamesbyState.csv downloads
+- double click csv file > enter first name for Office Mac, if required > Excel opens > double click csv file again
+- inspect csv data: column names and 10507 rows! > close Excel
+- in Tableau Public, in left blue column, Connect **not* to Excel but to a text file > double click TopBabyNamesbyState.csv
