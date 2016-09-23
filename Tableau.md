@@ -45,3 +45,11 @@ elements (a.k.a. Marks). Using the marks card, you can switch between different 
 of detail, and edit the tool tips.
   Rows and Columns Shelves: The rows shelf and the columns shelf is where you determine which
 variables will go on what axis. Put data you want displayed along the X‐axis on the columns shelf and data you want displayed on the Y‐axis on the rows shelf
+
+Creating the Map
+- Because we want to make a map, drag states to Marks > blue dots appear in each state
+- Because we want to make a map with filled colors, not dots, click the drop down menu under Marks/Automatic, select Filled Map; the states are now filled with blue
+- We want to start studying top names per state: drag Top Name to Color and drag Top Name again to Label (it is a big file but Add all members if asked) > the map now has names and colors in each state
+- We want to filter by names of boys and girls; drag gender to filers > in the popup box choose M
+- We also want to filter by year; drag year to filter > Tableau sees the range of values from 1910 to 2012 > click OK
+- On Year, right click drop down menu and click show filter so viewer can see slider
