@@ -81,7 +81,7 @@ Adding a title
 5. Hit OK.
 
 Saving and Publishing to the Web
-Save Dialog
+Save Dashboard
 We are all done and it looks great! Let’s save it and share it with the world!
 Naming Schemes
 Whenever you build a dashboard in Tableau Public, the naming conventions will come up with an address like: public.tableausoftware.com/views/Filename/Dashboard name. Because of this, it’s important to name your dashboard (the same way you name a sheet) and your workbook something you are happy with.
