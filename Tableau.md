@@ -1,17 +1,21 @@
-**To Set Up Tableau in a Computer Lab**
+<h2> Tableau </h2>
+
+<h3>Tableau in a Computer Lab</h3>
+
+**SetUp**
 - open browser > public.tableau.com
 - enter email address > download the app (10-0-1) > 30 seconds
 - in download bar, find Tableau 10-0-1.dmg in Finder > double click
 - Tableau verifies for 1 minute
 - drag Tableau icon to Application folder > requires Authenticate
-- Enter UserName Journalism Admin > wait for password from prof
+- Enter UserName Journalism Admin > wait for prof to enter password
 - Tableau is copied to Applications for 1 minute
 - Doubleclick Tableau Public in Applications > Tableau Desktop opens
 - Students can look at Discover videos in right grey bar out of class
 
-**Tutorial**
+<h3>Tutorial</h3>
 
-Data
+**Data**
 - Under Resources in right grey bar, click Sample Data Sets
 - Scroll to Lifestyle > Top Baby Names > click Dataset (csv versus xls files) > TopBabyNamesbyState.csv downloads
 - double click csv file > enter first name for Office Mac, if required > Excel opens > double click csv file again
@@ -20,77 +24,61 @@ Data
 - inspect column headings and Tableau Public Symbols in column headings
 - in lower left, click Sheet 1, beneath Go to Worksheet
 
-Worksheet
-- inspect Dimensions and Measures
-Definitions
-  Definitions
-  Measure: A variable from the dataset that is meant to be aggregated. This means it should be a number that it makes sense to do math with: sum, average, etc. In this dataset, the only measure is “Occurrences”
-  Dimension: A categorical variable from the dataset that is used to slice and dice the data into different categories. State, year, gender, and name are all dimensions in this dataset.
-  Sheet: A sheet is a singular chart or map in Tableau.
-  Dashboard: A dashboard is a canvas for displaying multiple sheets at a time and allowing them
-to interact with each other
-  Workbook: A workbook is the entire Tableau file containing your sheets and dashboards.
-  Filter: A filter is used to limit what data is being displayed on the sheet. Visible controls for a
-filter on a sheet or dashboard is called a Quick Filter.
-  Pages: Pages are used to quickly flip between different views of a sheet. The most common use
-of pages is to show data for particular points in time.
-  Legend: A legend box shows the color or size scale. In Tableau, legends can also be clicked on to
-highlight certain values.
-  Tooltip: Tooltips are text boxes that appear when hovering over a mark on a sheet that give
-more information. The text and text formatting in them are easily edited through the Marks
-card.
-  Marks card: The marks card is the tool when creating a sheet that controls most of the visual
-elements (a.k.a. Marks). Using the marks card, you can switch between different chart types
-       
-(bar, line, symbol, filled map, etc), change the colors, change sizes, add labels, change the level
-of detail, and edit the tool tips.
-  Rows and Columns Shelves: The rows shelf and the columns shelf is where you determine which
-variables will go on what axis. Put data you want displayed along the X‐axis on the columns shelf and data you want displayed on the Y‐axis on the rows shelf
+**Worksheet**
+- inspect Dimensions and Measures: Necessary Definitions
+- Measure: A variable from the dataset that is meant to be aggregated. This means it should be a number that it makes sense to do math with: sum, average, etc. In our dataset, the only Measure is “Occurrences” -- how many baby names. We would not do math with years, such as 2012 minus 1910. Years are not Measures.
+- Dimension: A category variable from the dataset, often column headings, that we use to start understanding the data. State, year, gender, and name are all Dimensions in this dataset.
+- Sheet: A sheet is a single work space in Tableau.
+- Dashboard: A dashboard is a kind of canvas for displaying multiple sheets at a time. Ultimately you publish Dashboards.
+- Workbook: A workbook is the entire Tableau file of your sheets and dashboards for a project.
+- Filter: A filter is used to filter or limit what data is being displayed on the sheet. For example, you might look only at Gender and you might filter even more for Male or Female. You often want to Show Filter on a sheet or dashboard so viewers can interact.
+- Pages: Pages are used to quickly flip between different views of a sheet. The most common use of pages is to show data for particular points in time.
+- Legend: A legend, as with any chart, shows the meanings of color, size or objects.
+- Tooltip: Tooltips are text boxes that appear when viewers hover over a mark on a sheet. They give more information and interactivity. The text and formatting in them are easily edited through the Marks card.
+- Marks card: The marks card is the tool area, when creating a sheet, that controls most of the visual elements ("marks"). Using the marks card, you can switch between different chart types (bar chart or map, for example), change the colors, change sizes, add labels, change tooltips, change the level of detail and more.
+- Rows and Columns Shelves: The rows shelf and the columns shelf is where you decide what variables will go on what axis. Put data you want displayed along the X‐axis on the columns shelf and data you want displayed on the Y‐axis on the rows shelf. These are easily changed and manipulated.
 
-Creating the Map
+**Creating the Map**
+- We are still at the open Tableau worksheet.
+- Inspect where Tableau has put our variables. If Tableau had mistakenly put Years in Measures, it is easy to drag to Dimensions.
 - Because we want to make a map, drag states to Marks > blue dots appear in each state
 - Because we want to make a map with filled colors, not dots, click the drop down menu under Marks/Automatic, select Filled Map; the states are now filled with blue
 - We want to start studying top names per state: drag Top Name to Color and drag Top Name again to Label (it is a big file but Add all members if asked) > the map now has names and colors in each state
-- We want to filter by names of boys and girls; drag gender to filters > in the popup box, choose M and F and Select All
-- In gender drop down menu select show filter > a box appears with gender choices for the viewer
-- We also want to filter by year; drag year to filter > Tableau sees the range of values from 1910 to 2012 > click OK
-- On Year, right click drop down menu and click show filter so viewer can see slider
+- But we want to filter by names of boys and girls; drag gender to filters > in the popup box, choose M and F and Select All
+- In Gender drop down menu, select Show Filter > a box appears with gender choices for the viewer
+- We also want to filter by year; drag year to Filter > Tableau sees the range of values from 1910 to 2012 > click OK
+- On Year, right click drop down menu and click show filter so viewer can see a slider to move between years
+- We now have a good Sheet 1. But Alaska and Hawaii are scattered making the map small.
  
-Separate Maps for Alaska and Hawaii
-1. In order to make the dashboard more space efficient, we are going to create Hawaii and Alaska as separate maps.
-2. In top tool bar find icon and select “Duplicate Sheet”
-3. Use the bottom zoom control with the square and magnifying glass to focus just on Hawaii.
-4. Right click on bottom tab for Sheet 2 and rename Hawaii
-4. Repeat steps for Alaska.
-5. On the main map, zoom into the continental US.
+**Create New Sheets to Make Separate Maps for Alaska and Hawaii**
+- In order to make the dashboard more space efficient, we are going to create Hawaii and Alaska as separate maps.
+- In top tool bar find icon and select “Duplicate Sheet”
+- On Sheet 2, use the bottom zoom control with the square and magnifying glass to focus just on Hawaii.
+- Right click on bottom tab for Sheet 2 and rename -- Hawaii
+- Repeat steps and create Sheet 3 named -- Alaska.
+- On the main map, zoom into the continental US. Rename Sheet 1 -- 48 states.
 
-Create the Dashboard
+**Create the Dashboard**
 - Click on top or bottom toolbar for Create New Dashboard
-- In left grey sidebar, change size to Automatic
-- At the bottom of the sidebar, under Objects, change Tiled to Floating
-- drag 48 States to Dashboard. It comes with the year slider, gender filter and list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down men for Top Names and select Remove from Dashboard.
-- reposition and make larger the year slider and the gender filter
-- drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter
+- In left grey sidebar, change size to Automatic. This will affect how your viz is seen on different devices.
+- At the bottom of the sidebar, under Objects, change Tiled to Floating. This allows you to move elements around on the Dashboard.
+- Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down men for Top Names and select Remove from Dashboard.
+- Reposition and make larger the year slider and the gender filter
+- Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter
 - Drag and resize until the maps seem right to you
 
-Adding a title
-1. From the left pane, where the sheets are listed, click on text.
-2. Drag text out into the dashboard. Place it at the very top.
-3. In the text editor box, write “Baby Name Trends in the US, 1910‐2012”
-4. Make the text 18pt, bold, and centered.
-5. Hit OK.
+**Adding a title**
+- From the left pane, where the sheets are listed, click on text.
+- Drag text out into the dashboard. Place it at the very top.
+- In the text editor box, write “Baby Name Trends in the US, 1910‐2012”
+- Make the text 18pt, bold, and centered.
+- Create another text box for your name in smaller type.
+- Hit OK.
 
-Saving and Publishing to the Web
-Save Dashboard
-We are all done and it looks great! Let’s save it and share it with the world!
-Naming Schemes
-Whenever you build a dashboard in Tableau Public, the naming conventions will come up with an address like: public.tableausoftware.com/views/Filename/Dashboard name. Because of this, it’s important to name your dashboard (the same way you name a sheet) and your workbook something you are happy with.
-Sheets as Tabs
-There will be a checkbox that says “Show Sheets as Tabs”. What this does is makes all your sheets able for viewing. In this case, we will not want that, so make sure it is unchecked.
-URL and Embed Codes
-  
-Once your dashboard is saved to the web you will get a preview screen. You’ll see a URL that was generated to take the viewer directly to the dashboard. There is also an embed code for the dashboard. If you switch which view you are looking at by clicking on a different sheet on the far left, the embed code and URL will change. Tableau automatically makes a unique code and URL for every view in your workbook.
-Embedding on your website
-To embed your dashboard, copy the embed code and paste it anywhere that allows for HTML input.
-
-
+**Saving the Dashboard and Publishing to the Web**
+- Under File > Save to Tableau Public As > Choose a descriptive name for your viz page. 
+- There may be a checkbox that says “Show Sheets as Tabs”. But you want people just to see your Dashboard, not the sheets that went into it. Make sure it is unchecked.
+- Once your dashboard is saved to the web you will get a preview screen. You’ll see a URL and embed. Copy the embed code.
+- At your GitHub.io site, click create a new file. Give the file a short, descriptive name and don't foget.html
+- You have a title and name on the viz already at Tableau. So rather than adding html to the page, just past the embed code into the top line and Commit.
+- Click Copy Path to see the viz displayed on your html page.
