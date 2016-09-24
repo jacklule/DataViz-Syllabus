@@ -5,7 +5,7 @@
 - Tableau verifies for 1 minute
 - drag Tableau icon to Application folder > requires Authenticate
 - Enter UserName Journalism Admin > wait for password from prof
-- Tableau is copied to Applications for i minute
+- Tableau is copied to Applications for 1 minute
 - Doubleclick Tableau Public in Applications > Tableau Desktop opens
 - Students can look at Discover videos in right grey bar out of class
 
@@ -68,7 +68,29 @@ Create the Dashboard
 - Click on top or bottom toolbar for Create New Dashboard
 - In left grey sidebar, change size to Automatic
 - At the bottom of the sidebar, under Objects, change Tiled to Floating
-- drag 48 States to Dashboard. It comes with the year slider and list of names, which is not necessary. Drag and separate the slider from the list of top names. Click on drop down men for Top Names and select Remove from Dashboard.
-- reposition and make larger the year slider
-- drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider
+- drag 48 States to Dashboard. It comes with the year slider, gender filter and list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down men for Top Names and select Remove from Dashboard.
+- reposition and make larger the year slider and the gender filter
+- drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter
+- Drag and resize until the maps seem right to you
+
+Adding a title
+1. From the left pane, where the sheets are listed, click on text.
+2. Drag text out into the dashboard. Place it at the very top.
+3. In the text editor box, write “Baby Name Trends in the US, 1910‐2012”
+4. Make the text 18pt, bold, and centered.
+5. Hit OK.
+
+Saving and Publishing to the Web
+Save Dialog
+We are all done and it looks great! Let’s save it and share it with the world!
+Naming Schemes
+Whenever you build a dashboard in Tableau Public, the naming conventions will come up with an address like: public.tableausoftware.com/views/Filename/Dashboard name. Because of this, it’s important to name your dashboard (the same way you name a sheet) and your workbook something you are happy with.
+Sheets as Tabs
+There will be a checkbox that says “Show Sheets as Tabs”. What this does is makes all your sheets able for viewing. In this case, we will not want that, so make sure it is unchecked.
+URL and Embed Codes
+  
+Once your dashboard is saved to the web you will get a preview screen. You’ll see a URL that was generated to take the viewer directly to the dashboard. There is also an embed code for the dashboard. If you switch which view you are looking at by clicking on a different sheet on the far left, the embed code and URL will change. Tableau automatically makes a unique code and URL for every view in your workbook.
+Embedding on your website
+To embed your dashboard, copy the embed code and paste it anywhere that allows for HTML input.
+
 
