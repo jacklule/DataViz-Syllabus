@@ -51,7 +51,8 @@ Creating the Map
 - Because we want to make a map, drag states to Marks > blue dots appear in each state
 - Because we want to make a map with filled colors, not dots, click the drop down menu under Marks/Automatic, select Filled Map; the states are now filled with blue
 - We want to start studying top names per state: drag Top Name to Color and drag Top Name again to Label (it is a big file but Add all members if asked) > the map now has names and colors in each state
-- We want to filter by names of boys and girls; drag gender to filers > in the popup box choose M
+- We want to filter by names of boys and girls; drag gender to filters > in the popup box, choose M and F and Select All
+- In gender drop down menu select show filter > a box appears with gender choices for the viewer
 - We also want to filter by year; drag year to filter > Tableau sees the range of values from 1910 to 2012 > click OK
 - On Year, right click drop down menu and click show filter so viewer can see slider
  
@@ -64,4 +65,10 @@ Separate Maps for Alaska and Hawaii
 5. On the main map, zoom into the continental US.
 
 Create the Dashboard
+- Click on top or bottom toolbar for Create New Dashboard
+- In left grey sidebar, change size to Automatic
+- At the bottom of the sidebar, under Objects, change Tiled to Floating
+- drag 48 States to Dashboard. It comes with the year slider and list of names, which is not necessary. Drag and separate the slider from the list of top names. Click on drop down men for Top Names and select Remove from Dashboard.
+- reposition and make larger the year slider
+- drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider
 
