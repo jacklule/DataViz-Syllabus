@@ -23,6 +23,7 @@ Data
 Worksheet
 - inspect Dimensions and Measures
 Definitions
+  Definitions
   Measure: A variable from the dataset that is meant to be aggregated. This means it should be a number that it makes sense to do math with: sum, average, etc. In this dataset, the only measure is “Occurrences”
   Dimension: A categorical variable from the dataset that is used to slice and dice the data into different categories. State, year, gender, and name are all dimensions in this dataset.
   Sheet: A sheet is a singular chart or map in Tableau.
@@ -46,7 +47,6 @@ of detail, and edit the tool tips.
   Rows and Columns Shelves: The rows shelf and the columns shelf is where you determine which
 variables will go on what axis. Put data you want displayed along the X‐axis on the columns shelf and data you want displayed on the Y‐axis on the rows shelf
 
-
 Creating the Map
 - Because we want to make a map, drag states to Marks > blue dots appear in each state
 - Because we want to make a map with filled colors, not dots, click the drop down menu under Marks/Automatic, select Filled Map; the states are now filled with blue
@@ -54,7 +54,7 @@ Creating the Map
 - We want to filter by names of boys and girls; drag gender to filers > in the popup box choose M
 - We also want to filter by year; drag year to filter > Tableau sees the range of values from 1910 to 2012 > click OK
 - On Year, right click drop down menu and click show filter so viewer can see slider
-- 
+ 
 Separate Maps for Alaska and Hawaii
 1. In order to make the dashboard more space efficient, we are going to create Hawaii and Alaska as separate maps.
 2. In top tool bar find icon and select “Duplicate Sheet”
@@ -62,4 +62,6 @@ Separate Maps for Alaska and Hawaii
 4. Right click on bottom tab for Sheet 2 and rename Hawaii
 4. Repeat steps for Alaska.
 5. On the main map, zoom into the continental US.
+
+Create the Dashboard
 
