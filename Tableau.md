@@ -57,8 +57,9 @@ Creating the Map
 - 
 Separate Maps for Alaska and Hawaii
 1. In order to make the dashboard more space efficient, we are going to create Hawaii and Alaska as separate maps.
-2. Right‐click on the map sheet tab and select “Duplicate Sheet”
-3. Use the zoom controls to focus just on Hawaii.
-4. Repeat steps 2+3 for Alaska.
+2. In top tool bar find icon and select “Duplicate Sheet”
+3. Use the bottom zoom control with the square and magnifying glass to focus just on Hawaii.
+4. Right click on bottom tab for Sheet 2 and rename Hawaii
+4. Repeat steps for Alaska.
 5. On the main map, zoom into the continental US.
 
