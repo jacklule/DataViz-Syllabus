@@ -62,7 +62,7 @@
 - Click on top or bottom toolbar for Create New Dashboard
 - In left grey sidebar, change size to Automatic. This will affect how your viz is seen on different devices.
 - At the bottom of the sidebar, under Objects, change Tiled to Floating. This allows you to move elements around on the Dashboard.
-- Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down men for Top Names and select Remove from Dashboard.
+- Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down menu for Top Names and select Remove from Dashboard.
 - Reposition and make larger the year slider and the gender filter
 - Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter
 - Drag and resize until the maps seem right to you
@@ -80,5 +80,5 @@
 - There may be a checkbox that says “Show Sheets as Tabs”. But you want people just to see your Dashboard, not the sheets that went into it. Make sure it is unchecked.
 - Once your dashboard is saved to the web you will get a preview screen. You’ll see a URL and embed. Copy the embed code.
 - At your GitHub.io site, click create a new file. Give the file a short, descriptive name and don't foget.html
-- You have a title and name on the viz already at Tableau. So rather than adding html to the page, just past the embed code into the top line and Commit.
+- You have a title and name on the viz already at Tableau. So rather than adding html to the page, just paste the embed code into the top line and Commit.
 - Click Copy Path to see the viz displayed on your html page.
