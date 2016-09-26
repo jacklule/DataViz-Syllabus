@@ -49,9 +49,10 @@
 | **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | standardizing data | 
 | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
 | **Week 05-01** | | |  |  | |
-| **Where the Poor** | story of interactive chart | **Wall Street Journal** | interactive chart | 
-| **Tableau Videos 1-6** | The dataset for Tableau's instruction | relationship with Google | Data Interpreter |
-| **Women in Olympics** | story of interactive chart |
+| **Where the Poor** | story of interactive chart | **Wall Street Journal** | interactive chart | **Tableau Videos 1-6** | The dataset for Tableau's instruction |
+| Tableau's relationship with Google | Data Interpreter | **Women in Olympics** | story of interactive chart |
+| **Week 05-02** | | |  |  | |
+| **Tableau Videos 9-12** | Show Me Toolbar | Creating Dashboards | Storypoint  | **Bentley-Wall St. Journal** | challenges of mobile |
 
 
 ####Meta-comment
