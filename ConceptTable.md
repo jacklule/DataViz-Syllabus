@@ -48,6 +48,11 @@
 | **Week 04-02** | | |  |  | |
 | **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | standardizing data | 
 | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
+| **Week 05-01** | | |  |  | |
+| **Where the Poor** | story of interactive chart | **Wall Street Journal** | interactive chart | 
+| **Tableau Videos 1-6** | The dataset for Tableau's instruction | relationship with Google | Data Interpreter |
+| **Women in Olympics** | story of interactive chart |
+
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
