@@ -64,7 +64,7 @@
 - At the bottom of the sidebar, under Objects, change Tiled to Floating. This allows you to move elements around on the Dashboard.
 - Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down menu for Top Names and select Remove from Dashboard.
 - Reposition and make larger the year slider and the gender filter
-- Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter (eventually we need to have just one year slider and one gender filter for the entire dashboard)
+- Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter (eventually we need to have just one year slider and one gender filter for the entire dashboard: try clicking on main map and in top right get drop-down menu, click "Use as Fileter." The main map should now control as a filter the other maps and even charts.)
 - Drag and resize until the maps seem right to you
 
 **Adding a title**
