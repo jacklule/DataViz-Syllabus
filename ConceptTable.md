@@ -50,9 +50,9 @@
 | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
 | **Week 05-01** | | |  |  | |
 | **Where the Poor** | story of interactive chart | **Wall Street Journal** | interactive chart | **Tableau Videos 1-6** | The dataset for Tableau's instruction |
-| Tableau's relationship with Google | Data Interpreter | **Women in Olympics** | story of interactive chart |
+| Tableau's relationship with Google | Data Interpreter | **Women in Olympics** | story of  interactive chart |
 | **Week 05-02** | | |  |  | |
-| **Tableau Videos 9-12** | Show Me Toolbar | Creating Dashboards | Storypoint  | **Bentley-Wall St. Journal** | challenges of mobile |
+| **Tableau Videos 9-15** | Show Me Toolbar | Creating Dashboards: filter and highlight | Formatting in Workbook | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
 
 
 ####Meta-comment
