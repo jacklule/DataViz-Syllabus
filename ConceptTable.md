@@ -54,7 +54,8 @@
 | **Week 05-02** | | |  |  | |
 | **Tableau Videos 9-15** | Show Me Toolbar | Creating Dashboards: filter and highlight | Formatting in Workbook | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
 | **Week 06-01** | | |  |  | |
-| **Politico on Comic Journalism** | why accessbility is important in Belgium | Maus | Joe Sacco on graphic novels | Charlie Hebdo | **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | rate by country |
+| **Politico on Comic Journalism** | why accessbility is important in Belgium | Maus | Joe Sacco on graphic novels | Charlie Hebdo |
+| **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | rate by country |
 | **Week 06-02** | | |  |  | |
 | **Politico: Investigative Journalism, Illustrated** | Level 14 | **Nieman: The Core of Story** | Symbolia | why do comics work so well? |
 
