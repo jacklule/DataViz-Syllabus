@@ -2,7 +2,8 @@
 
 ## Day-by-Day Course Outline: 14 days over 7 weeks
 
-| **Week 01-01** | | |  |  | |
+
+| | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | [**Day 1**](WeeklySchedule/week01-01.md) | Telling Stories with Data | Principles and Practice | 19 October |
 | [**Day 2**](WeeklySchedule/week01-02.md) | Telling Stories with Data | Hosting Data | 24 October |
