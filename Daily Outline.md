@@ -4,13 +4,10 @@
 
 | **Week 01-01** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
-| **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
-| pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
-
 | Day 1 | Telling Stories with Data | Hosting Data: GitHub | 19 October |
 | Day 2 | 
-
-
+| **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
+| pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
 - Data, yes, but it is still about **storytelling**
