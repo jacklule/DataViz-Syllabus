@@ -3,8 +3,8 @@
 ## Day-by-Day Course Outline: 14 days over 7 weeks
 
 
-| [Day 1](WeeklySchedule/week01-01.md) | Telling Stories with Data | Hosting Data: GitHub | 19 October |
-| [Day 2](WeeklySchedule/week01-02.md) | 
+| Day 1 | Telling Stories with Data | Hosting Data: GitHub | 19 October |
+| Day 2 | 
 
 
 
