@@ -1,7 +1,7 @@
 #Jour 24 Data Visualization Module
 
 ## Day-by-Day Course Outline: 14 days over 7 weeks
-#####(meta-commentary below) 
+
 | **Week 01-01** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | [**Day 1**](WeeklySchedule/week01-01.md) | Telling Stories with Data | Principles and Practice | 19 October |
