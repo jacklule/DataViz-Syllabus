@@ -6,6 +6,7 @@
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | [**Day 1**](WeeklySchedule/week01-01.md) | Telling Stories with Data | Principles and Practice | The Truthful Art| 19 October |
 | [**Day 2**](WeeklySchedule/week01-02.md) | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | 24 October |
+|[**Day 3**](WeeklySchedule/week02-01.md) | Telling Stories that Answer a Simple Question | Infographics | 26 October |
 | **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
 | pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 
