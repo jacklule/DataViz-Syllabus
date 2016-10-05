@@ -4,7 +4,6 @@
 
 | **Week 01-01** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
-| ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | [**Day 1**](WeeklySchedule/week01-01.md) | Telling Stories with Data | Principles and Practice | The Truthful Art| 19 October |
 | [**Day 2**](WeeklySchedule/week01-02.md) | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | 24 October |
 | **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
