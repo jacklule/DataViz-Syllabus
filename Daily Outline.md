@@ -8,6 +8,7 @@
 | [**Day 2**](WeeklySchedule/week01-02.md) | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | 24 October |
 |[**Day 3**](WeeklySchedule/week02-01.md) | Telling Stories that Answer a Simple Question | Infographics | Canva | 26 October |
 |[**Day 4**](WeeklySchedule/week02-02.md) | Telling Stories of Change Over Time, Part 1 | Timelines | TimelineJS | 31 October |
+|[**Day 5**](WeeklySchedule/week03-01.md) | Telling Stories that Compare Values |
 | **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
 | pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
 
