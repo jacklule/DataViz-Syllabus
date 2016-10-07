@@ -9,7 +9,7 @@
 |[**Day 3**](WeeklySchedule/week02-01.md)  | Telling Stories that Answer a Simple Question | Infographics | Canva | 26 October |
 |[**Day 4**](WeeklySchedule/week02-02.md)  | Telling Stories of Change Over Time, Part 1 | Timelines | TimelineJS | 31 October |
 |[**Day 5**](WeeklySchedule/week03-01.md)  | Telling Stories that Make Comparisons | Bar Charts | Atlas Chartbuilder | 2 November |
-|[**Day 6**](WeeklySchedule/week03-02.md)  | Telling Stories of Changer Over Time, Part 2 | Line Charts | Atlas Chartbuilder | 7 November |
+|[**Day 6**](WeeklySchedule/week03-02.md)  | Telling Stories of Change Over Time, Part 2 | Line Charts | Atlas Chartbuilder | 7 November |
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
 - Data, yes, but it is still about **storytelling**
