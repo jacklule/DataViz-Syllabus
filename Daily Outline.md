@@ -8,7 +8,7 @@
 | [**Day 2**](WeeklySchedule/week01-02.md) | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | 24 October |
 |[**Day 3**](WeeklySchedule/week02-01.md) | Telling Stories that Answer a Simple Question | Infographics | Canva | 26 October |
 |[**Day 4**](WeeklySchedule/week02-02.md) | Telling Stories of Change Over Time, Part 1 | Timelines | TimelineJS | 31 October |
-|[**Day 5**](WeeklySchedule/week03-01.md) | Telling Stories that Compare Things |
+|[**Day 5**](WeeklySchedule/week03-01.md) | Telling Stories that Compare Things | Bar Charts | Atlas Chartbuilder | 2 November |
 
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
