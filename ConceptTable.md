@@ -1,4 +1,4 @@
-## Concept Table
+## Concept Table Weekly
 #####(meta-commentary below) 
 | **Week 01-01** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
