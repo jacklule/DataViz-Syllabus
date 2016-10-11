@@ -11,7 +11,8 @@
 |[**Day 4**](WeeklySchedule/week02-02.md)  | Telling Stories of Change Over Time, Part 1 | Timelines | TimelineJS | M, 31 October |
 |[**Day 5**](WeeklySchedule/week03-01.md)  | Telling Stories that Make Comparisons | Bar Charts | Atlas Chartbuilder | W, 2 November |
 |[**Day 6**](WeeklySchedule/week03-02.md)  | Telling Stories of Change Over Time, Part 2 | Line Charts | Atlas Chartbuilder | M, 7 November |
-|[**Day 7**](WeeklySchedule/week04-01.md)  | Telling Stories of Places | Maps | Google Fusion | M, 7 November |
+|[**Day 7**](WeeklySchedule/week04-01.md)  | Telling Stories of Places | Maps | Google Fusion | W, 9 November |
+|[**Day 8**](WeeklySchedule/week04-02.md)  | Telling Stories of Places | Maps | Google Fusion | M, 14 November |
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
 - Data, yes, but it is still about **storytelling**
