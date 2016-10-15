@@ -15,7 +15,7 @@
 |[**Day 8**](WeeklySchedule/week04-02.md)  | Telling Stories of Places | Maps | Google Fusion | M, 14 November |
 |[**Day 9**](WeeklySchedule/week05-01.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | W, 16 November |
 |[**Day 10**](WeeklySchedule/week05-02.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | M, 21 November |
-
+|[**Day 11**](WeeklySchedule/week06-01.md)  | Telling Stories on Difficult Topics | Comic Journalism | Pixton | M, 28 November |
 
 ### [Week 1.1 -- Mon., Aug. 29](WeeklySchedule/week01-01.md) and [Wed., Oct. 19](WeeklySchedule/week01-01.md)<br/>Telling Stories with Data <br/>The Functional Art
 - Data, yes, but it is still about **storytelling**
