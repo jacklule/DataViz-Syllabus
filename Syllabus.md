@@ -1,7 +1,7 @@
 # Jour 24 Visual Communication
 ##Syllabus: Fall 2016
 
-## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md)
+## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Daily%20Outline.md)
 
 ## Data Visualization Module 7-14 (7 weeks, 14 days)
 
@@ -45,7 +45,7 @@ Our graduates find work in journalism, media, communication, public relations, m
 
 But no more.
 
-See our [Day-byDay Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Course%20Outline.md) for how we will proceed.
+See our [Day-byDay Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Daily%20Outline.md) for how we will proceed.
 
 ##Readings
 There are no required texts for this class. All readings, videos and tutorials will be found online.
@@ -62,10 +62,10 @@ The data visualization module strives for a balance between principles and pract
 - infographic and timeline
 - chart with CSS
 - map story
-- a three-panel comic introduction of yourself
+- a piece of comic journalism
 - interactive story with Tableau
 
-**30%** Portfolio at name.github.io, which will include a final project as well as edited, corrected and improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
+**30%** Portfolio at name.github.io, which will include the edited, corrected and improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
 
 ##Lehigh Commitment to an Equitable Community
 
