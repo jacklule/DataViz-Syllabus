@@ -5,6 +5,9 @@
 - Nice list of [Data Tools](http://selection.datavisualization.ch/)
 - New search tool for journalists, [Sqoop](http://sqoop.com/), with registration required
 
+## Lehigh University Data
+- Lehigh's Office of Institutional Research has a [Data Center](https://www.lehigh.edu/~oir/datacenter.html) with interesting pages of data (PDFs not csv files), including a [diversity profile](https://www.lehigh.edu/~oir/divprofile/divprofile.html) 
+
 ## National and International Data Sources 
 (feel free to send me links to add to this list)
 - [How to Teach Data Journalism for Beginners](http://mediashift.org/2015/03/how-to-teach-data-journalism-for-beginners/), with databases
