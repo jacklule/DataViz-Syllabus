@@ -28,7 +28,7 @@ My **annotations** for Hello World:
 - for the repository, no need to name it, "Hello World;" can **name Data Viz**
 - click Public
 - **Important - Easy to miss this step: Click Initialize with ReadMe; notice ReadMe is md file**
-- do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
+- **Not necessary** can do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
 - click to access ReadMe (**notice we are in branch**);
 - click pencil icon in top right to **edit ReadMe**; practice md and preview as go along
 - -write a Commit title or message (**grey default can be written over**)
