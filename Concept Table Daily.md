@@ -3,11 +3,11 @@
 | **Day 1** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
-| pattern recognition | evolution and viz | narratives from data | revelation |truth and goodness | see to learn | 
+| evolution and viz | narratives from data |truth and goodness | see to learn | 
 | **Tableau 5** | John Snow | cholera map | Hans Gosling | Charles Minard | March on Moscow | Florence Nightingale |
 | war mortality | Joseph Priestley | chart of biography | | |
 | **TED Talk** | Hans Gosling | long life, small family | data v. preconceived beliefs | data reveals: | poverty and rise of Asia |
-| again: fertility rates and lifespans | variations IN Africa  metaphor: data use as flower |why gapminder.com? | liberating UN data |
+| again: fertility rates and lifespans | variations IN Africa | metaphor: data use as flower |why gapminder.com? | liberating UN data |
 | **Emily Ferber** | GitHub as social coding site | octocat | Git v. GitHub | version control| to talk with programmers |
 | collaboration and code | commits | forking | pull requests |
 |**Week 01-02**| | | | |
