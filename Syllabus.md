@@ -68,7 +68,7 @@ The data visualization module strives for a balance between principles and pract
 
 **30%** Portfolio  
 - customized HTML5 page and portfolio at name.github.io: 30 points
-- portfolio will include the edited, corrected and improved versions of all assignments. This portfolio will be a essential part of your search for internships and jobs.
+- portfolio will include the edited, corrected and improved versions of all assignments. This portfolio will be an essential part of your search for internships and jobs.
 
 ##Lehigh Commitment to an Equitable Community
 
