@@ -1,4 +1,4 @@
-## Concept Table Weekly
+## Concept Table Weekly (used August-early October 2016; changed to Concept Table Daily) 
 #####(meta-commentary below) 
 | **Week 01-01** | | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
