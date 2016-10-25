@@ -11,8 +11,6 @@
 | **Emily Ferber** | GitHub as social coding site | octocat | Git v. GitHub | version control| to talk with programmers |
 | collaboration and code | commits | forking | pull requests |
 |**Day 2**| | | | |
-
-| **Week 02-01** | | |  |  | |
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
 |**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn v. "automatic" | visualizations not self-contained | context free v. context sensitive? |
 | **McGhee video: Chapter 4** | Cairo critique of infographic awards | away from narrative | "taking readers with us?" | Cairo critique of Ebb and Flow at Box Office | Eurovision example |
@@ -20,7 +18,7 @@
 | **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
 | **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
 | **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
-| **Week 02-02** | | |  |  | |
+| **Day 3** | | |  |  | |
 |**Lena Groeger**| Why timelines | show how stories unfold, event by event | provide history | show trends | TimelineJS |
 | horizontal v. vertical | how do you draw time | time as a line | link events to well-known events |
 | **How To** | importance of Title | selection of events | story: begin and end | storyboard/sketch |
