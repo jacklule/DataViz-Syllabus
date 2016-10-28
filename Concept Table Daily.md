@@ -18,7 +18,7 @@
 | **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
 | **Day 4** | | |  |  | |
 |**Lena Groeger**| Why timelines | show how stories unfold, event by event | provide history | show trends | TimelineJS |
-| horizontal v. vertical | how do you draw time | time as a line | link events to well-known events |
+| horizontal v. vertical | how do you draw | time as a line | link events to well-known events |
 | **How To** | importance of Title | selection of events | story: begin and end | storyboard/sketch |
 | **Day 5** | | |  |  | |
 |**Infog.rm and Google**| When to use: | bar charts/column charts | horizontal bar charts | line graphs/time-series charts | pie charts |
