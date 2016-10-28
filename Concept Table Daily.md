@@ -13,9 +13,9 @@
 |**Day 3**| | | | |
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
 |**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained? | hand-drawn v. "automatic" | visualizations not self-contained | context free v. context sensitive? |
-| **McGhee video: Chapter 4** | Cairo critique of infographic awards | away from narrative | "taking readers with us?" | Cairo critique of Ebb and Flow at Box Office | Eurovision example |
+| **McGhee video: Chapter 4** | Cairo thoughts on infographic awards | away from narrative | "taking readers with us?" | Cairo thoughts on Ebb and Flow at Box Office | Eurovision example |
 | **Infographic on infographic** | data-rich | 30 times more likely to be read | brand building | trying to go viral |
-| **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
+| **#1 Mistake** | pick topic from data? | what do you start with? | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
 | **Day 4** | | |  |  | |
 |**Lena Groeger**| Why timelines | show how stories unfold, event by event | provide history | show trends | TimelineJS |
 | horizontal v. vertical | how do you draw | time as a line | link events to well-known events |
