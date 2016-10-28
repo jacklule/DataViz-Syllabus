@@ -12,7 +12,7 @@
 | collaboration and code | commits | forking | pull requests |
 |**Day 3**| | | | |
 | **Cairo on Infographics**| infographics to explain | visualizations to explore | presentation v. exploration |
-|**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained | hand-drawn v. "automatic" | visualizations not self-contained | context free v. context sensitive? |
+|**Kosara on Infographics**| particular dataset v. many datasets | infographic as self-contained? | hand-drawn v. "automatic" | visualizations not self-contained | context free v. context sensitive? |
 | **McGhee video: Chapter 4** | Cairo critique of infographic awards | away from narrative | "taking readers with us?" | Cairo critique of Ebb and Flow at Box Office | Eurovision example |
 | **Infographic on infographic** | data-rich | 30 times more likely to be read | brand building | trying to go viral |
 | **#1 Mistake** | pick topic from data? | start with a question | Anti-Malaria Foundation example | Gates Foundation example | answer a question |
@@ -20,29 +20,29 @@
 |**Lena Groeger**| Why timelines | show how stories unfold, event by event | provide history | show trends | TimelineJS |
 | horizontal v. vertical | how do you draw time | time as a line | link events to well-known events |
 | **How To** | importance of Title | selection of events | story: begin and end | storyboard/sketch |
-| **Week 03-01** | | |  |  | |
+| **Day 5** | | |  |  | |
 |**Infog.rm and Google**| When to use: | bar charts/column charts | horizontal bar charts | line graphs/time-series charts | pie charts |
 | area charts | scatter plots/xy plots | bubble charts | tree maps |
-| **Week 03-02** | | |  |  | |
+| **Day 6** | | |  |  | |
 | **Duke University** | y axis must start at zero | what are legends | what are labels | use of 3D | how many colors |
 | **Data Journalism** | William Playfair | chloropleth map | two most basic charts | maps and color codes |
-| **Week 04-01** | | |  |  | |
+| **Day 7** | | |  |  | |
 | **Carto** | 4 basic map essentials | **ESRI** | first item on the checklist for creating a map | tips for symbology | |
 | **Quealy- Useful** | what matters most | what are heat maps good for | dot-density maps | |
 | **So You Want To** | Geodata | lat/lng and locations | a straight line on a map | Sources for geodata |
 | **Clay Shirky** | map exercise | xyz axis | 
-| **Week 04-02** | | |  |  | |
+| **Day 8** | | |  |  | |
 | **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | standardizing data | 
 | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
-| **Week 05-01** | | |  |  | |
+| **Day 9** | | |  |  | |
 | **Where the Poor** | story of interactive chart | **Wall Street Journal** | interactive chart | **Tableau Videos 1-6** | The dataset for Tableau's instruction |
 | Tableau's relationship with Google | Data Interpreter | **Women in Olympics** | story of  interactive chart |
-| **Week 05-02** | | |  |  | |
+| **Day 10** | | |  |  | |
 | **Tableau Videos 9-15** | Show Me Toolbar | Creating Dashboards: filter and highlight | Formatting in Workbook | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
-| **Week 06-01** | | |  |  | |
+| **Day 11** | | |  |  | |
 | **Politico on Comic Journalism** | why accessbility is important in Belgium | Maus | Joe Sacco on graphic novels | Charlie Hebdo |
 | **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | rate by country |
-| **Week 06-02** | | |  |  | |
+| **Day 12** | | |  |  | |
 | **Politico: Investigative Journalism, Illustrated** | Level 14 | **Nieman: The Core of Story** | Symbolia | why do comics work so well? |
 | **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
