@@ -25,7 +25,7 @@
 | area charts | scatter plots/xy plots | bubble charts | tree maps |
 | **Day 6** | | |  |  | |
 | **Duke University** | y axis must start at zero | what are legends | what are labels | use of 3D | how many colors |
-| **Data Journalism** | William Playfair | chloropleth map | two most basic charts | maps and color codes |
+| **Data Journalism** | creator of the bar chart | chloropleth map | two most basic charts | maps and color codes |
 | **Day 7** | | |  |  | |
 | **Carto** | 4 basic map essentials | **ESRI** | first item on the checklist for creating a map | tips for symbology | |
 | **Quealy- Useful** | what matters most | what are heat maps good for | dot-density maps | |
