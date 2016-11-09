@@ -27,7 +27,7 @@
 | **Duke University** | should an axis start at zero | use o gridlines | what are labels | use of 3D | how many colors |
 | **Data Journalism** | creator of the bar chart | chloropleth map | two most basic charts | maps and color codes |
 | **Day 7** | | |  |  | |
-| **Carto** | 4 basic map essentials | **ESRI** | first item on the checklist for creating a map | tips for symbology | |
+| ** Mapping Data** | common format | **Carto** | 4 basic map essentials | **ESRI** | first item on the checklist for creating a map | tips for symbology |
 | **Quealy- Useful** | what matters most | what are heat maps good for | dot-density maps | |
 | **So You Want To** | Geodata | lat/lng and locations | a straight line on a map | Sources for geodata |
 | **Clay Shirky** | map exercise | xyz axis | 
