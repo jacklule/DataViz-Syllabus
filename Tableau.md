@@ -44,9 +44,9 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - Inspect where Tableau has put our variables. If Tableau had mistakenly put Years in Measures, it is easy to drag to Dimensions.
 - Because we want to make a map, drag states to Marks > blue dots appear in each state
 - Because we want to make a map with filled colors, not dots, click the drop down menu under Marks/Automatic, select Filled Map; the states are now filled with blue
-- We want to start studying top names per state: drag Top Name to Color and drag Top Name again to Label (it is a big file but Add all members if asked) > the map now has names and colors in each state
+- We want to start studying top names per state: drag Top Name to Color and drag Top Name again to Label (it is a big file but Add all members if asked) > the map now has names and colors in each state; a list of names also appears
 - But we want to filter by names of boys and girls; drag gender to filters > in the popup box, choose M and F and Select All
-- In Gender drop down menu, select Show Filter > a box appears with gender choices for the viewer
+- In Gender drop down menu, select Show Filter > a box appears with gender choices for the viewer (Show Me might be blocking).
 - We also want to filter by year; drag year to Filter > Tableau sees the range of values from 1910 to 2012 > click OK
 - On Year, right click drop down menu and click show filter so viewer can see a slider to move between years
 - We now have a good Sheet 1. But Alaska and Hawaii are scattered making the map small.
