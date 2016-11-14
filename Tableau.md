@@ -25,7 +25,8 @@
 - in lower left, click Sheet 1, beneath Go to Worksheet
 
 **Worksheet**
-- inspect Dimensions and Measures: Necessary Definitions
+
+Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - Measure: A variable from the dataset that is meant to be aggregated. This means it should be a number that it makes sense to do math with: sum, average, etc. In our dataset, the only Measure is “Occurrences” -- how many baby names. We would not do math with years, such as 2012 minus 1910. Years are not Measures.
 - Dimension: A category variable from the dataset, often column headings, that we use to start understanding the data. State, year, gender, and name are all Dimensions in this dataset.
 - Sheet: A sheet is a single work space in Tableau.
