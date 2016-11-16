@@ -20,7 +20,7 @@
 - Scroll to Lifestyle > Top Baby Names > click Dataset (csv versus xls files) > TopBabyNamesbyState.csv downloads
 - double click csv file > enter first name for Office Mac, if required > Excel opens > double click csv file again
 - inspect csv data: column names and 10507 rows! > close Excel
-- in Tableau Public, in left blue column, Connect **not* to Excel but to a text file > double click TopBabyNamesbyState.csv
+- in Tableau Public, in left blue column, Connect not to Excel but to a text file > double click TopBabyNamesbyState.csv
 - inspect column headings and Tableau Public Symbols in column headings
 - in lower left, click Sheet 1, beneath Go to Worksheet
 
@@ -46,9 +46,9 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - Because we want to make a map with filled colors, not dots, click the drop down menu under Marks/Automatic, select Filled Map; the states are now filled with blue
 - We want to start studying top names per state: drag Top Name to Color and drag Top Name again to Label (it is a big file but Add all members if asked) > the map now has names and colors in each state; a list of names also appears
 - But we want to filter by names of boys and girls; drag gender to filters > in the popup box, choose M and F and Select All
-- In Gender drop down menu, select Show Filter > a box appears with gender choices for the viewer (Show Me might be blocking).
-- We also want to filter by year; drag year to Filter > Tableau sees the range of values from 1910 to 2012 > click OK
-- On Year, right click drop down menu and click show filter so viewer can see a slider to move between years
+- The Gender filter might not show on the Worksheet: In Gender drop down menu, select Show Filter > a box appears with gender choices for the viewer (Show Me might be blocking).
+- We also want to filter by year; drag year to Filter: Again, the Year filter might not show on the Worksheet: In Year drop down menu, click, Show Filter, Dimension and Continuous: Tableau sees the range of values from 1910 to 2012 > click OK
+- use the very bottom square on the worksheet menu to open up a horizontal tool bar; use zoom control (with the square and magnifying glass) to make the 48 states larger
 - We now have a good Sheet 1. But Alaska and Hawaii are scattered making the map small.
  
 **Create New Sheets to Make Separate Maps for Alaska and Hawaii**
