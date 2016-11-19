@@ -32,11 +32,10 @@
 | **So You Want To** | Geodata | lat/lng and locations | a straight line on a map | Sources for geodata |
 | **Clay Shirky** | map exercise | xyz axis | 
 | **Day 8** | | |  |  | |
-| **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | standardizing data | 
-| **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
+| **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | standardizing data | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
 | **Day 9** | | |  |  | |
-| **Where the Poor** | story of interactive chart | **Wall Street Journal** | interactive chart | **Tableau Videos 1-6** | The dataset for Tableau's instruction |
-| Tableau's relationship with Google | Data Interpreter | **Women in Olympics** | story of  interactive chart |
+| NYT story/chart **Where the Poor** | WSJ story/chart **Gender Gap** | **Tableau Videos 1-6** | The dataset for Tableau's instruction |
+| Tableau's relationship with Google | Data Interpreter |
 | **Day 10** | | |  |  | |
 | **Tableau Videos 9-15** | Show Me Toolbar | Creating Dashboards: filter and highlight | Formatting in Workbook | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
 | **Day 11** | | |  |  | |
