@@ -34,11 +34,11 @@
 | **Day 8** | | |  |  | |
 | **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | standardizing data | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
 | **Day 9** | | |  |  | |
-| NYT story/chart **Where the Poor** | WSJ story/chart **Gender Gap** | **Tableau Videos 1-6** | The dataset for Tableau's instruction |
-| Tableau's relationship with Google Sheets | Data Interpreter | problems with data sets | pivoting data |
+| NYT story/chart **Where the Poor** | WSJ story/chart **Gender Gap** | **Tableau Videos 1-6** | The dataset for Tableau's instruction | Tableau's relationship with Google Sheets | Data Interpreter | 
+| problems with data sets | pivoting data |
 | **Day 10** | | |  |  | |
-| **Tableau Videos 9-15** | Show Me Toolbar | Dimensions and Measures | Marks | Creating Dashboards: filter and highlight | 
-| Formatting in Workbook | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
+| **Tableau Videos 9-15** | Show Me Toolbar | Dimensions and Measures | Marks | Creating Dashboards: filter and highlight | Formatting in Workbook | 
+| Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
 | **Day 11** | | |  |  | |
 | **Politico on Comic Journalism** | why accessbility is important in Belgium | Maus | Joe Sacco on graphic novels | Charlie Hebdo |
 | **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | rate by country |
