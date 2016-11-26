@@ -3,12 +3,16 @@
 <h3>Tableau in a Computer Lab</h3>
 
 **SetUp**
+- student should first be registered at Tableau Public (not professional or educator version)
+- if connecting to Tableau Public from a lab computer, student should make sure previous user has logged out
 - open browser > public.tableau.com
+
+**If Tableau is not previously installed**
 - enter email address > download the app (10-0-1) > 30 seconds
 - in download bar, find Tableau 10-0-1.dmg in Finder > double click
 - Tableau verifies for 1 minute
 - drag Tableau icon to Application folder > requires Authenticate
-- Enter UserName Journalism Admin > wait for prof to enter password
+- Enter UserName Journalism Admin > wait for professor to enter password
 - Tableau is copied to Applications for 1 minute
 - Doubleclick Tableau Public in Applications > Tableau Desktop opens
 - Students can look at Discover videos in right grey bar out of class
