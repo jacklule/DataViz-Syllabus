@@ -44,20 +44,6 @@
 | **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | rate by country |
 | **Day 12** | | |  |  | |
 | **Politico: Investigative Journalism, Illustrated** | Level 14 | **Nieman: The Core of Story** | Symbolia | why do comics work so well? |
-| **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
-| scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
-| Nigel Holmes | bad visualizations are easy | | | |
- **Chronicle of Higher Ed** | GitHub: site of online writing and creativity | collaboration without collaboration | NOT a canonical document | repository | branch |
-| **Aha Moments** | Harvard Business Review | Amanda Cox | actionable results | very liberal arts | "ability to ask good questions" |
-| Aha moment and segregation | unemployment perspectives and "truth" | Flash replaced by Javascript | Update: Amanda Cox and Upshot |
-| **McGhee video: Chapter 3** | Telling Data Stories | Genres of narrative visualization | "martini glass" structure | interactive data slideshow | 4-5 seconds to engage 
-| small chunks of information | drill down from overview | state-by-state map as default | your own neighborhood |Richard Koci Hernandez | "crisis of credit visualized" |
-| Vampire Energy - Nigel Holmes | motion graphics and information graphics |
-| **MediaShift** | preattentive attributes | position | color | size | shape|
-| chart types to fit data | highlighting | first question |
-| **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
-| **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
-
 
 ####Meta-comment
 Tables are easy to create with ["GitHub Flavored Markdown."](https://help.github.com/articles/github-flavored-markdown/)
@@ -93,3 +79,18 @@ In html, I would have needed more tags such as html, body, table border=“1”,
 
 </body>
 </html>
+
+| **Unused readings** | | |  |  | |
+| **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
+| scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
+| Nigel Holmes | bad visualizations are easy | | | |
+ **Chronicle of Higher Ed** | GitHub: site of online writing and creativity | collaboration without collaboration | NOT a canonical document | repository | branch |
+| **Aha Moments** | Harvard Business Review | Amanda Cox | actionable results | very liberal arts | "ability to ask good questions" |
+| Aha moment and segregation | unemployment perspectives and "truth" | Flash replaced by Javascript | Update: Amanda Cox and Upshot |
+| **McGhee video: Chapter 3** | Telling Data Stories | Genres of narrative visualization | "martini glass" structure | interactive data slideshow | 4-5 seconds to engage 
+| small chunks of information | drill down from overview | state-by-state map as default | your own neighborhood |Richard Koci Hernandez | "crisis of credit visualized" |
+| Vampire Energy - Nigel Holmes | motion graphics and information graphics |
+| **MediaShift** | preattentive attributes | position | color | size | shape|
+| chart types to fit data | highlighting | first question |
+| **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
+| **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
