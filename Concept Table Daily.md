@@ -41,7 +41,7 @@
 | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
 | **Day 11** | | |  |  | |
 | **Politico on Comic Journalism** | why accessbility is important in Belgium | Maus | Joe Sacco on graphic novels | Charlie Hebdo |
-| **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | rate by country |
+| **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | comic for serious subject |
 | **Day 12** | | |  |  | |
 | **Politico: Investigative Journalism, Illustrated** | Level 14 | **Nieman: The Core of Story** | Symbolia | why do comics work so well? |
 
