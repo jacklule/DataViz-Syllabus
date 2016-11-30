@@ -94,3 +94,4 @@ In html, I would have needed more tags such as html, body, table border=“1”,
 | chart types to fit data | highlighting | first question |
 | **16 Useless Infographics** | NSW example: data v. image | World Bank pie chart | tree map abused | Guardian two different maps | pie charts abused |
 | **Grid-based approach** | 3-4 columns | Rule of Thirds | consider mobile viewers |
+
