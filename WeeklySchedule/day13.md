@@ -1,4 +1,4 @@
-# Day 12
+# Day 13
 ## Telling Stories of the Past <br/>Comics
 
 ### Principles: Before Class
