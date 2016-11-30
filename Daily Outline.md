@@ -13,8 +13,8 @@
 |[**Day 6**](WeeklySchedule/week03-02.md)  | Telling Stories of Change Over Time, Part 2 | Line Charts | Atlas Chartbuilder | M, 7 November |
 |[**Day 7**](WeeklySchedule/week04-01.md)  | Telling Stories of Places | Maps | Google Fusion | W, 9 November |
 |[**Day 8**](WeeklySchedule/week04-02.md)  | Telling Stories of Places | Maps | Google Fusion | M, 14 November |
-|[**Day 9**](WeeklySchedule/week05-01.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | W, 16 November |
-|[**Day 10**](WeeklySchedule/week05-02.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | M, 21 November |
+|[**Day 9**](WeeklySchedule/day9.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | W, 16 November |
+|[**Day 10**](WeeklySchedule/day10.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | M, 21 November |
 |[**Day 11**](WeeklySchedule/day11.md)  | Telling Stories for Mobile Devices | Interactive Design | Tableau | M, 28 November |
 |[**Day 12**](WeeklySchedule/day12.md)  | Telling Stories on Difficult Topics | Comic Journalism | Pixton | W, 30 November |
 |[**Day 13**](WeeklySchedule/day13.md)  | Telling Stories of the Past | Comic Journalism | Pixton | M, 5 December |
