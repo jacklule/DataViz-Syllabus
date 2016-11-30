@@ -1,5 +1,6 @@
-# Day 11
+# Day 12
 ## Telling Stories with Comics. Seriously.
+## Telling Stories of Difficult Topics
 
 ![Creating Comics as Journalism]
 (http://ecx.images-amazon.com/images/I/611vzOTWWkL._SX397_BO1,204,203,200_.jpg)
