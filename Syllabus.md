@@ -60,11 +60,11 @@ The data visualization module strives for a balance between principles and pract
 
 **50%** Assignments that put our principles into practice:
 - 5 assignments at 10 points each: 50 points
-- infographic and comic journalism
-- timeline
-- chart with CSS
-- map story
-- interactive story with Tableau
+  - infographic and comic journalism
+  - timeline
+  - chart with CSS
+  - map story
+  - interactive story with Tableau
 
 **30%** Portfolio  
 - customized HTML5 page and portfolio at name.github.io: 30 points
