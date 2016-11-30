@@ -9,6 +9,8 @@
 - [Data Viz for the Phone](http://www.niemanlab.org/2014/07/data-visualization-is-good-data-visualization-that-works-on-your-phone-is-better/), from Nieman Lab
 
 ###Practice
+A third Tableau exercise
+
 ####Best Practices (from Data Viz for All)
 - Swipe – [Fewer helmets, more deaths](http://www.nytimes.com/interactive/2014/03/31/science/motorcycle-helmet-laws.html?_r=1), New York Times
 - Scroll –[How We Changed Our Thinking on Gay Marriage](http://nyti.ms/1QTzIwn), New York Times
