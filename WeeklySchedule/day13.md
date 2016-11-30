@@ -1,5 +1,5 @@
 # Day 12
-## Telling Stories from Long Ago <br/>Telling Stories with Comics
+## Telling Stories of the Past <br/>Comics
 
 ### Principles: Before Class
 - ProPublica: [Investigative Journalism, Illustrated](http://www.propublica.org/article/investigative-journalism-illustrated-a-qa-with-level-14-creators)
