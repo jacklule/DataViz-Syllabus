@@ -80,10 +80,9 @@ In html, I would have needed more tags such as html, body, table border=“1”,
 </body>
 </html>
 
-| **Unused readings** | | |  |  | |
-
-| **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
-| scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
+| **Unused Readings** | | |  |  | |
+| ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
+| **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov || scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | bad visualizations are easy | | | |
  **Chronicle of Higher Ed** | GitHub: site of online writing and creativity | collaboration without collaboration | NOT a canonical document | repository | branch |
 | **Aha Moments** | Harvard Business Review | Amanda Cox | actionable results | very liberal arts | "ability to ask good questions" |
