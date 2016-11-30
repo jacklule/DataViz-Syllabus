@@ -16,8 +16,8 @@
 |[**Day 9**](WeeklySchedule/week05-01.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | W, 16 November |
 |[**Day 10**](WeeklySchedule/week05-02.md)  | Telling Stories that Engage Readers | Interactivity | Tableau | M, 21 November |
 |[**Day 11**](WeeklySchedule/week07-01.md)  | Telling Stories for Mobile Devices | Interactive Design | Tableau | M, 28 November |
-|[**Day 12**](WeeklySchedule/week06-02.md)  | Telling Stories of the Past | Comic Journalism | Pixton | W, 30 November |
-|[**Day 13**](WeeklySchedule/week06-01.md)  | Telling Stories on Difficult Topics | Comic Journalism | Pixton | M, 5 December |
+|[**Day 13**](WeeklySchedule/day12.md)  | Telling Stories on Difficult Topics | Comic Journalism | Pixton | W, 30 November |
+|[**Day 12**](WeeklySchedule/week06-02.md)  | Telling Stories of the Past | Comic Journalism | Pixton | M, 5 December |
 |[**Day 14**](WeeklySchedule/week07-02.md)  | Telling Stories with Data | Presentations | GitHub.io | W, 7 December |
 
 
