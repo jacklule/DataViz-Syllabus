@@ -81,6 +81,7 @@ In html, I would have needed more tags such as html, body, table border=“1”,
 </html>
 
 | **Unused readings** | | |  |  | |
+
 | **McGhee video** (2010) Chapters 1-2 |Flowing Data | democratizing visualization | Many Eyes (closed) | like art and writing | data.gov |
 | scarce resource - using data well| Amanda Cox | budget forecast example | unemployment: people like you | BBC road death example | struggles with narrative |
 | Nigel Holmes | bad visualizations are easy | | | |
