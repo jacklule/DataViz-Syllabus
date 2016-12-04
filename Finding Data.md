@@ -5,6 +5,8 @@
 - Nice list of [Data Tools](http://selection.datavisualization.ch/)
 - New search tool for journalists, [Sqoop](http://sqoop.com/), with registration required
 - [2016 list of data sources](http://flowingdata.com/2016/11/10/find-the-data-you-need-2016-edition/), organized nicely by demographic, geographic, health, news, sports and more, by the great Nathan Yau and Flowing Data
+- 2016 Google NewsLab developed [three tutorials for finding and analyzing data](https://newslab.withgoogle.com/course/data-journalism); they are geared specifically for journalists
+
 
 ## Lehigh University Data
 - Lehigh's Office of Institutional Research has a [Data Center](https://www.lehigh.edu/~oir/datacenter.html) with interesting pages of data (PDFs not csv files), including a [diversity profile](https://www.lehigh.edu/~oir/divprofile/divprofile.html) 
