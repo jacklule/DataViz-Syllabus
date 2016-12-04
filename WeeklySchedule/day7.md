@@ -21,6 +21,7 @@ With the advent of the mobile phone, people today expect geographic information 
 ## Practice: In Class
 ## New: Google NewsLab
 - Google NewsLab has an [excellent tutorial](https://storage.googleapis.com/gweb-newslab.appspot.com/upload/Google_NewsLab_GoogleMyMaps.pdf) specifically designed for journalists
+
 ## Google Fusion Maps
 - What is Google Fusion?
 - Study Google spreadsheet and card system: [College Marching Bands](https://fusiontables.google.com/DataSource?docid=10AomOwjEjnXnFiYgzzQAbXknU3i15ORsSFW35HI#rows:id=1)
