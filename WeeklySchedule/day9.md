@@ -31,6 +31,7 @@ Creating interactive data visualizations was outside the skill set of many journ
 - [The work of Jewel Loree at Tableau](https://public.tableau.com/s/profile/jewel.loree#!/)
 - [Women in the Olympics](https://public.tableau.com/s/gallery/women-summer-games?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+VizOfTheDay+%28Viz+of+the+Day+-+Beautiful+Visual+Stories%29), on Tableau
 - [The colors of Van Gogh's "Starry Night"](https://public.tableau.com/s/gallery/colors-starry-night?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+VizOfTheDay+%28Viz+of+the+Day+-+Beautiful+Visual+Stories%29), on Tableau
+- [An elegant visualization about the most popular majors over time](http://flowingdata.com/2016/12/07/fields-of-study-ranked-over-past-few-decades/), by Nathan Yau
 
 
 
