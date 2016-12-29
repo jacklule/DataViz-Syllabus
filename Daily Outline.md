@@ -5,8 +5,8 @@
 | | | |  |  | 
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | | **Principles** | **Practice** |  |  | 
-|[**Day 1**](WeeklySchedule/day1.md)  | Telling Stories with Data | Function and Form | The Truthful Art| W,19 October |
-|[**Day 2**](WeeklySchedule/day2.md)  | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | M, 24 October |
+|[**Day 1**](WeeklySchedule/day1.md)  | Telling Stories with Data | Function and Form | The Truthful Art| M, 23 January |
+|[**Day 2**](WeeklySchedule/day2.md)  | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | W, 25 January |
 |[**Day 3**](WeeklySchedule/day3.md)  | Telling Stories that Answer a Simple Question | Infographics | Canva | W, 26 October |
 |[**Day 4**](WeeklySchedule/day4.md)  | Telling Stories of Change Over Time, Part 1 | Timelines | TimelineJS | M, 31 October |
 |[**Day 5**](WeeklySchedule/day5.md)  | Telling Stories that Make Comparisons | Bar Charts | Atlas Chartbuilder | W, 2 November |
