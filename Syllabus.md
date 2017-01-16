@@ -1,5 +1,5 @@
 # Jour 24 Visual Communication
-##Syllabus: Fall 2016
+##Syllabus
 
 ## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Daily%20Outline.md)
 
