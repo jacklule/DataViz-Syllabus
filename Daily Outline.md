@@ -4,7 +4,7 @@
 
 | | | |  |  | 
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
-| | **Principles** | **Practice** |  |  | 
+| | **Principles** | **Practice** |  | **Spring 2017** | 
 |[**Day 1**](WeeklySchedule/day1.md)  | Telling Stories with Data | Function and Form | The Truthful Art| M, 23 January |
 |[**Day 2**](WeeklySchedule/day2.md)  | Telling Stories with Data | Hosting Data, Markdown Language and HTML5 | GitHub | W, 25 January |
 |[**Day 3**](WeeklySchedule/day3.md)  | Telling Stories that Answer a Simple Question | Infographics | Canva | M, 30 January |
