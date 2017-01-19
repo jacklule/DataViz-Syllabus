@@ -28,7 +28,7 @@ My **annotations** for Hello World:
 - for the repository, no need to name it, "Hello World;" can **name Data Viz**
 - click Public
 - **Important - Easy to miss this step: Click Initialize with ReadMe; notice ReadMe is md file**
-- **Not necessary** can do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
+- **Not necessary** *Students also can do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
 - click to access ReadMe (**notice we are in branch**);
 - click pencil icon in top right to **edit ReadMe**; practice md and preview as go along
 - -write a Commit title or message (**grey default can be written over**)
@@ -36,8 +36,7 @@ My **annotations** for Hello World:
 - **request a pull**; (you will not usually make a request of yourself and just work on master) New Pull Request
 - as creator of the master branch, you **compare change**; either in grey base box, master>branch; or click on edit link; notice changes in green and red
 - click **confirm merge** and **delete branch** to keep things clean
-- check your repository; changes made and the branch has been deleted; again, students will not use branches much but they can see the advantage of collaborative work flow; check the **GitHub work flow** link
-
+- check your repository; changes made and the branch has been deleted; again, students will not use branches much but they can see the advantage of collaborative work flow; check the **GitHub work flow** link*
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
