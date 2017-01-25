@@ -4,7 +4,7 @@ I have attempted to make this guide as simple and clear as possible for those wi
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
 - [To Change a User Name after Set Up](#To-Change-a-User-Name-after-Set-Up)
-- [Getting Set Up at GitHub.io without GitHub Desktop: 2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017)
+- [Getting Set Up at GitHub.io without GitHub Desktop 2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017)
 - [Getting Set Up at GitHub.io without GitHub Desktop](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop) (old)
 - [Getting Set Up at GitHub.io with GitHub Desktop](#Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop) (old)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
@@ -47,7 +47,10 @@ My **annotations** for Hello World:
 - Students sometimes sign up at github.com with their clunky Lehigh user name (ie. jl0d219) rather than their real name. It is best to change that early before the creation of other connecting pages.
 - Go to github.com/currentusername. In top right corner, click on the arrow for a drop down menu and go to Settings.
 - In the left column, click Account. Click Change username.
-- If the student created a uername.github.io repository with the clunky user name, it might be easiest just to delete that repository and create a new one. (It is also possible to edit that repository.) To delete: at github.com/username
+- If the student created a uername.github.io repository with the clunky user name, it might be easiest just to delete that repository and create a new one. (It is also possible to edit that repository.) To delete: At github.com/username, click on repository username.github.io. In top right, click Settings. Scroll down to the red Danger Zone and click delete this repository.
+
+ <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017"></a>
+ ##Getting Set Up at GitHub.io without GitHub-Desktop 2017
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
