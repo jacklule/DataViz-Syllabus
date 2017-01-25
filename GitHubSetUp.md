@@ -51,6 +51,8 @@ My **annotations** for Hello World:
 
  <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017"></a>
  ##Getting Set Up at GitHub.io without GitHub-Desktop 2017
+ 
+ - In 2017, GitHub changed how users could generate their own web pages.
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
