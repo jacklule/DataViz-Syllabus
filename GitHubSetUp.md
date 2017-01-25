@@ -44,7 +44,9 @@ My **annotations** for Hello World:
 <a id="To-Change-a-User-Name-after-Set-Up"></a>
 ##To Change a User Name after Set Up
 
-- 
+- Students sometimes sign up at github.com with their clunky Lehigh user name (ie. jl0d219) rather than their real name. It is best to change that early before the creation of other connecting pages.
+- Go to github.com/currentusername. In top right corner, click on the arrow for a drop down menu and go to Settings.
+- In the left column, click Account. Click Change username.
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
