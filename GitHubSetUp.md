@@ -3,8 +3,9 @@ I have attempted to make this guide as simple and clear as possible for those wi
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
-- [Getting Set Up at GitHub.io without GitHub Desktop](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop) old
-- [Getting Set Up at GitHub.io with GitHub Desktop](#Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop) old
+- [Getting Set Up at GitHub.io without GitHub Desktop: 2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop:2017)
+- [Getting Set Up at GitHub.io without GitHub Desktop](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop) (old)
+- [Getting Set Up at GitHub.io with GitHub Desktop](#Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop) (old)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
 - [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
 - [To Customize the GitHub.io Page](#To-Customize-the-Github.io-Page)
