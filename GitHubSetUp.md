@@ -53,10 +53,15 @@ My **annotations** for Hello World:
 ##Getting Set Up at GitHub.io without GitHub Desktop 2017
 
 <p>In 2017, GitHub changed how users could generate their own web pages. I will leave the instructions below in case GitHub returns to its former method. But for 2017:</p>
-- Go to [Getting Started with GitHub Pages](https://guides.github.com/features/pages/#setup)
-- Follow instructions: Go to github.com/username > In top right, under +, get drop down menu and select New Repository.
+- Go to github.com/username > In top right, under +, get drop down menu and select New Repository.
 - Type in repository name: username.github.io
-- In top right, click on Settings and scroll down to Choose a Theme
+- Click Initialize with a ReadMe page. (If students do not initialize, they will be taken to a Quick Setup Page that will require some coding. They can avoid that by finding the link for ReadMe under Quick SetUp).
+- Once repository is created, students will see only the ReadMe page.
+- In top right, click on Settings and scroll down to Choose a Theme. Students can view and then Select Theme.
+- Students will be taken to the Editing window of their ReadMe page, which now has Welcome to GitHub Pages and instructions for using md language and information about Jekyll themes.
+- Students should scroll down to Commit the Changes.
+- The web page should be created at username.github.io.
+- Students can easily start to edit the content on the ReadMe page (which has replaced the former index.html page in earlier versions).
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
