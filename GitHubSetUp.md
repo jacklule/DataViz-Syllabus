@@ -3,7 +3,8 @@ I have attempted to make this guide as simple and clear as possible for those wi
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
-- [Getting Set Up at GitHub.io without GitHub Desktop: 2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop:2017)
+- [To Change a User Name after Set Up](#To-Change-a-User-Name-after-Set-Up)
+- [Getting Set Up at GitHub.io without GitHub Desktop: 2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017)
 - [Getting Set Up at GitHub.io without GitHub Desktop](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop) (old)
 - [Getting Set Up at GitHub.io with GitHub Desktop](#Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop) (old)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
@@ -23,7 +24,7 @@ Found below are instructions for:
 <p>Students first register and follow along with, but adapt, the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
 
 My **annotations** for Hello World:
-- for **Signup**, students should use their first and last name: for example, jacklule
+- for **Signup**, students should use their first and last name: for example, jacklule -- NOT LEHIGH USER NAME
 - before "Create a Repository", students should follow the tip to open up the Hello World guide in a **separate tab** and work in another tab
 - also before creating a repository, GitHub will ask, **Please verify email address**; students will need to open their email in yet another tab or perhaps their phone
 - for the repository, no need to name it, "Hello World;" can **name Data Viz**
@@ -39,6 +40,11 @@ My **annotations** for Hello World:
 - click **confirm merge** and **delete branch** to keep things clean
 - check your repository; changes made and the branch has been deleted; again, students will not use branches much but they can see the advantage of collaborative work flow; check the **GitHub work flow** link
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
+
+<a id="To-Change-a-User-Name-after-Set-Up"></a>
+##To Change a User Name after Set Up
+
+- 
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
