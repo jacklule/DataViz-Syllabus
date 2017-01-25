@@ -50,10 +50,13 @@ My **annotations** for Hello World:
 - If the student created a uername.github.io repository with the clunky user name, it might be easiest just to delete that repository and create a new one. (It is also possible to edit that repository.) To delete: At github.com/username, click on repository username.github.io. In top right, click Settings. Scroll down to the red Danger Zone and click delete this repository.
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017"></a>
-##Getting Set Up at GitHub.io without GitHub-Desktop 2017
+##Getting Set Up at GitHub.io without GitHub Desktop 2017
 
-- In 2017, GitHub changed how users could generate their own web pages. I will leave the instructions below in case GitHub returns to its former method. But for 2017:
-- 
+<p>In 2017, GitHub changed how users could generate their own web pages. I will leave the instructions below in case GitHub returns to its former method. But for 2017:</p>
+- Go to [Getting Started with GitHub Pages](https://guides.github.com/features/pages/#setup)
+- Follow instructions: Go to github.com/username > In top right, under +, get drop down menu and select New Repository.
+- Type in repository name: username.github.io
+- In top right, click on Settings and scroll down to Choose a Theme
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
