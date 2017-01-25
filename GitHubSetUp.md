@@ -46,8 +46,8 @@ My **annotations** for Hello World:
 
 - Students sometimes sign up at github.com with their clunky Lehigh user name (ie. jl0d219) rather than their real name. It is best to change that early before the creation of other connecting pages.
 - Go to github.com/currentusername. In top right corner, click on the arrow for a drop down menu and go to Settings.
-- In the left column, click Account. Click Change username.
-- If the student created a uername.github.io repository with the clunky user name, it might be easiest just to delete that repository and create a new one. (It is also possible to edit that repository.) To delete: At github.com/username, click on repository username.github.io. In top right, click Settings. Scroll down to the red Danger Zone and click delete this repository.
+- In the left column, click Account. Click Change username. The github.com/username should now be changed.
+- If the student also created a uername.github.io repository with the clunky user name, it might be easiest just to delete that repository and create a new one. (It is also possible to edit that repository.) To delete: At github.com/username, click on repository username.github.io. In top right, click Settings. Scroll down to the red Danger Zone and click delete this repository. Follow the steps below, Getting Set Up at GitHub.io without GitHub Desktop 2017, to create a new repository.
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop 2017
