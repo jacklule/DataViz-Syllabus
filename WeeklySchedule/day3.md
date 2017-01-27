@@ -19,8 +19,8 @@
   - [Beginner](https://www.canva.com/design/DABt7NIMOCI/XaP1zkyMrDH-rlB7LvuB3g/edit): 3 minutes
   - [Essential Canva Tools](https://www.canva.com/design/DABruYYnUZk/KmFa2-jSqTcKj5zUT-s9Cw/edit): 10 minutes
   - Focus on layout, design, font and color
-  - [Canva sample on HTML5 page](http://jacklule.github.io/pages/canva.html)
-- **In class exercise**:
+  - [Canva sample on HTML5 page](https://madisonhoff.github.io/infographic.html)
+  - **In class exercise**:
   - for class exercise do infographic on [percentage of tri-state undergraduate students at Lehigh](http://www.lehigh.edu/~oir/profiles/profile.htm)
   - will create this [simple page](http://jacklule.github.io/pages/canvanortheast.html). Here is what it can look like [with a map](http://jacklule.github.io/pages/northeast.html) uploaded and made transparent
 - **To create Canva infographic from template** 
