@@ -56,8 +56,8 @@
 
 ## Practice: Out of Class: Graded Assignment
 - find a story using data from this source: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
-- Create and upload an infographic to your name.github.io site
-- Be sure to follow our [Grading Rubic](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md) to get the maximum 10 points
+- Create an infographic, upload it to your github.io site and create an html page to showcase the infographic
+- Be sure to follow our [Grading Rubic](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md), with attention to typos, source information and more, to get the maximum 10 points
 
 ## Resources
 - [5 Infographic Tools](http://www.huffingtonpost.com/randy-krum/5-great-online-tools-for-_b_5964874.html), by Huffington Post
