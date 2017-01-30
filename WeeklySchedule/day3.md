@@ -54,9 +54,10 @@
  - Trouble? Check your html by looking at Page Source (right click on PCs; Option+Command+u for Macs)
 - To check: click Copy File Path and view infographic in browser
 
-## Practice: Out of Class
+## Practice: Out of Class: Graded Assignment
 - find a story using data from this source: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
 - Create and upload an infographic to your name.github.io site
+- Be sure to follow our [Grading Rubic](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md) to get the maximum 10 points
 
 ## Resources
 - [5 Infographic Tools](http://www.huffingtonpost.com/randy-krum/5-great-online-tools-for-_b_5964874.html), by Huffington Post
