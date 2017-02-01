@@ -29,7 +29,7 @@
     - [Concern that Rio would be ready](https://i.ytimg.com/vi/9qPPxnOlrlo/maxresdefault.jpg). Text focuses on some of the concerns. Date this August 2.
     - [Athletes march in](http://wpmedia.news.nationalpost.com/2016/08/rio_olympics_opening_ceremony-12.jpg). Text states that the Games started on time, with the familiar parade of nations. Date this August 5, 8 p.m.
     - [Rio opening ceremony](http://images.indianexpress.com/2016/08/maracana-main.jpg). Text states the opening ceremony was a celebration of Brazilian history and culture. Date this August 5, 10 p.m.
-    - [2016 takes its place in history](https://www.youtube.com/watch?v=uiKFYHwQKaE). Text states that the 2016 opening ceremony thus took its place in the long history of Olympic ceremonies. Date this August 6.
+    - [2016 takes its place in history](). Text states that the 2016 opening ceremony thus took its place in the long history of Olympic ceremonies. Date this August 6.
   - **Step 2** says: Under File, click Publish to the Web. Click grey Embed. Asked "Are You Sure," press ok. 
       - NOTE: The following has changed as of 21 November 2016!
       - Close the 'Publish to the web' window. It no longer works. Instead, copy the URL for your Timeline from the browser's address bar. 
