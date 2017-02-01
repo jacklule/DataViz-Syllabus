@@ -23,13 +23,13 @@
   - Next: we will study the spreadsheet at the heart of the Timeline and most data visualizations. The [Timeline spreadsheet](https://drive.google.com/a/lehigh.edu/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public#) is based in Google Drive. 
   - You will need to be signed up at Google Drive. The timeline is quite specific in its structure. Here is a [discussion of the spreadsheet](https://timeline.knightlab.com/docs/using-spreadsheets.html).
   - **Create your own timeline**
-  - We will use links to photos and add our own brief text to complete the [4-step TimelineJS tutorial](https://timeline.knightlab.com/index.html#make), including the Optional Settings in Step 3. We will want to pay attention to photo credits. Our timeline will be about opening night of the 2016 Olympics in Rio.
+  - We will use links to photos and add our own brief text to complete the [4-step TimelineJS tutorial](https://timeline.knightlab.com/index.html#make), including the Optional Settings in Step 3. We will want to pay attention to photo credits. Our timeline will be about opening night of the 2016 Olympics in Rio, August 5, 8 p.m.
   - **Step 1** Fill in the spreadsheet with information from links below.
-    - [Rio 2016](https://1.bp.blogspot.com/-gpgFkYiFS0k/V2PgaYiIIWI/AAAAAAAAAGg/iP_5APptn2Yoy-irza5E4unZTHJSPIg9QCLcB/s1600/Rio%2B2016%2BOlympics%2BOpening%2BCeremony.jpeg). Text to state that 2016 Summer Olympics were held in Rio de Janeiro, Brazil.
-    - [Concern that Rio would be ready](https://i.ytimg.com/vi/9qPPxnOlrlo/maxresdefault.jpg). Text focuses on some of the concerns.
-    - [Athletes march in](http://wpmedia.news.nationalpost.com/2016/08/rio_olympics_opening_ceremony-12.jpg). Text states that the Games started on time, with the familiar parade of nations.
-    - [Rio opening ceremony](http://images.indianexpress.com/2016/08/maracana-main.jpg). Text states the opening ceremony was a celebration of Brazilian history and culture.
-    - [2016 takes its place in history](https://www.youtube.com/watch?v=uiKFYHwQKaE). Text states that the 2016 opening ceremony thus took its place in the long history of Olympic ceremonies.
+    - [Rio 2016](https://1.bp.blogspot.com/-gpgFkYiFS0k/V2PgaYiIIWI/AAAAAAAAAGg/iP_5APptn2Yoy-irza5E4unZTHJSPIg9QCLcB/s1600/Rio%2B2016%2BOlympics%2BOpening%2BCeremony.jpeg). Text to state that 2016 Summer Olympics were held in Rio de Janeiro, Brazil. Date this August 1.
+    - [Concern that Rio would be ready](https://i.ytimg.com/vi/9qPPxnOlrlo/maxresdefault.jpg). Text focuses on some of the concerns. Date this August 2.
+    - [Athletes march in](http://wpmedia.news.nationalpost.com/2016/08/rio_olympics_opening_ceremony-12.jpg). Text states that the Games started on time, with the familiar parade of nations. Date this August 5, 8 p.m.
+    - [Rio opening ceremony](http://images.indianexpress.com/2016/08/maracana-main.jpg). Text states the opening ceremony was a celebration of Brazilian history and culture. Date this August 5, 10 p.m.
+    - [2016 takes its place in history](https://www.youtube.com/watch?v=uiKFYHwQKaE). Text states that the 2016 opening ceremony thus took its place in the long history of Olympic ceremonies. Date this August 6.
   - **Step 2** says: Under File, click Publish to the Web. Click grey Embed. Asked "Are You Sure," press ok. 
       - NOTE: The following has changed as of 21 November 2016!
       - Close the 'Publish to the web' window. It no longer works. Instead, copy the URL for your Timeline from the browser's address bar. 
