@@ -58,9 +58,9 @@ What are:
 ## Practice: In Class
 ## Create Bar Chart in Chartbuilder
 **Question: What were the percentages of students in each of Lehigh's undergraduate colleges in 2015?**
-- Find the data from Lehigh's [Fall 2015 institutional profile](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf).
+- Find the data from Lehigh's [Fall 2016 institutional profile](http://www.lehigh.edu/~oir/profiles/profile_files/LUprofile_2016.pdf).
 - Create a spreadsheet in Google docs with two columns: College and 2016 Percent of Undergraduate Enrollment.
-- Copy that spreadsheet and create a column bar chart in Chartbuilder that shows the percentage of undergraduate enrollment per college. 
+- Copy that spreadsheet and create a horizontal or vertical column bar chart in Chartbuilder that shows the percentage of undergraduate enrollment per college. 
 - Check [Anatomy of a Chart](http://www.lamivo.com/tipsheets/anatomy_chart.pdf) to make sure you have the essential elements.
 
 **Steps for uploading through GitHub.com**
