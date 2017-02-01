@@ -22,7 +22,7 @@
 <li><a href="https://www.theatlas.com/charts/new">2016 Atlas site with examples of many uses of Chartbuilder</a></li>
 </ul>
 
-## Charts with Chartbuilder
+## Practice: Charts with Chartbuilder
 
 What are: 
 - time-series data? (sounds like time, with measures of years, days, minutes, centuries)
