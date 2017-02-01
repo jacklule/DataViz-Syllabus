@@ -36,7 +36,9 @@
       - It should look something like this: https://docs.google.com/spreadsheets/d/1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk/edit#gid=0
     - **Important**: This is the link to the spreadsheet NOT to the timeline. You still need to return to TimelineJS and Step 3.
   - **Step 3** Return to TimelineJS Make a Timeline site and under Step 3, paste the link to the spreadseet into the box on Step 3, next to Google Spreadsheet URL.
-  - **Step 4** The final iframe embed link should now appear in the grey box in Step 4 (it should begin with <iframe src="https://cdn.knightlab.com). Copy the iframe embed code from Step 4 and proceed to directions on creating an html page for it.
+  - **Step 4** The final iframe embed link should now appear in the grey box in Step 4 (it should begin with <iframe src="https://cdn.knightlab.com). Copy the iframe embed code from Step 4.
+  - You can simply paste the code into a new file at github.io, call it name.html and the timeline will publish. However, it will be missing your name. 
+  - Alternately, you can proceed to directions below on creating an html page for the timeline.
   - **Create html page for timeline**
     - With the iframe embed code copied, go to github.com, create a New File, title it Rio.html, use standard html coding to create an html page and paste in the iframe embed code:
     - (enter < and > before and after each line where needed so it will appear as html)
