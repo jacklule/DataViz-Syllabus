@@ -57,6 +57,7 @@ The data visualization module strives for a balance between principles and pract
 
 **20%** Quizzes, exams, annotations and analyses of readings and videos
 - 50 questions total for module, .4 points each, 20 points
+- Questions will be taken for each day from our [Concept Table](https://github.com/jacklule/DataViz-Syllabus/blob/master/Concept%20Table%20Daily.md)
 
 **50%** Assignments that put our principles into practice:
 - 5 assignments at 10 points each: 50 points
