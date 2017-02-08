@@ -10,10 +10,9 @@ Maps have been part of human understanding from our earliest days. It is likely 
 
 With the advent of the mobile phone, people today expect geographic information on everything from traffic to restaurants. Recall that many classic and current examples of data visualizations are maps, such as John Snow's exploration of cholera in 1854 London to the work of data visualization journalists at the Washington Post today. We will learn how to tell stories with maps.
 
-- [Excellent 2 pp intro to mapping from Journalist's Resource](http://journalistsresource.org/tip-sheets/mapping-data-visualization-geospatial-information-journalism?utm_source=JR-email&utm_medium=email&utm_campaign=JR-email)
+
 - [Best Practices in Maps, by CartoDB](http://docs.cartodb.com/tips-and-tricks/best-practices-checklist/), now CARTO; good, clear
 - [ESRI Map Checklist](http://www.esri.com/news/arcuser/0911/making-a-map-meaningful.html), detailed narrative
-- [What's Useful about Mapping](http://kpq.github.io/sherp-31/assets/lectures/lecture2-2013.pdf), slides by Kevin Quealy, graphics editor for the NY Times
 - [So You Want To Make a Map...](https://github.com/veltman/learninglunches/tree/master/maps), by Noah Veltman, 2013, a nice intro to geodata terms and numbers (on GitHub)
 - [Simple map exercise](https://github.com/cshirky/SimpleMapping/blob/master/Lesson1.md) from Clay Shirky on GitHub, showing xyz axis using Google maps. 
 - Do a Google search: What are the coordinates for Lehigh University. Put the coordinates into a browser window. 
@@ -43,7 +42,7 @@ With the advent of the mobile phone, people today expect geographic information 
 - [Google intensity/chloropleth map](https://support.google.com/fusiontables/answer/1032332)
 
 ###Resources
-- [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/), by Matthew Ericson, 2011
+- [Excellent 2 pp intro to mapping from Journalist's Resource](http://journalistsresource.org/tip-sheets/mapping-data-visualization-geospatial-information-journalism?utm_source=JR-email&utm_medium=email&utm_campaign=JR-email)- [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/), by Matthew Ericson, 2011
 - [NICAR Mapping Best Practices](https://docs.google.com/presentation/d/1CA9R42cy4wjzIIWlyd0FMWvyW7BqsrzOGLQBgkwsy1Q/edit#slide=id.gd9d64b00_020) 70 slides
 - [A Map about the People Who Live Here](http://flowingdata.com/2016/06/10/a-map-about-the-people-who-live-there/)? from Flowing Data
 - [US State, County and Congressional District Boundaries](https://support.google.com/fusiontables/answer/1182141?hl=en)
@@ -52,4 +51,5 @@ With the advent of the mobile phone, people today expect geographic information 
 - [Another ESRI Map Checklist on PDF](http://downloads.esri.com/MappingCenter2007/arcGISResources/more/MapEvaluationGuidelines.pdf)
 - [Good class on mapping by Kevin Quealy, graphics editor at the NY Times; includes link to lecture on maps](http://kpq.github.io/sherp-31/weeks/week2.html)
 - [Nice visual history](http://www.nytimes.com/interactive/2016/11/01/upshot/many-ways-to-map-election-results.html?_r=0) of NY Times electoral maps.
+- [What's Useful about Mapping](http://kpq.github.io/sherp-31/assets/lectures/lecture2-2013.pdf), slides by Kevin Quealy, graphics editor for the NY Times
 
