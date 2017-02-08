@@ -31,9 +31,9 @@ We will next create and upload a time-based, line chartchart to GitHub and displ
 <li><a href="http://jacklule.github.io/pages/PNGtest.html">Here is a simple Chartbuilder line chart in png format.</a></li>
 
 **Question: What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?**
-- Find the data for ten years of Lehigh's [institutional profile](http://www.lehigh.edu/~oir/profiles/profile.htm). You will be using the html version that has 12 years of Lehigh profiles in tabs at the bottom.
+- Find the data for ten years of Lehigh's [institutional profile](http://www.lehigh.edu/~oir/profiles/profile.htm). You will be using the html version that has more than ten years of Lehigh profiles in tabs at the bottom.
 - Create a spreadsheet in Google docs that has four columns: Year, Arts & Sciences, Business and Engineering.
-- Only collect the data for Arts & Sciences, Business and Engineering from 2006 to 2015 and enter it into a spreadsheet in Google Docs. This will take about 12 minutes.
+- Only collect the data for Arts & Sciences, Business and Engineering for the past ten years and enter it into a spreadsheet in Google Docs. This will take about 12 minutes.
 - Copy that spreadsheet and create a line graph/time-series chart in Chartbuilder that shows the changes in percentage of undergraduate enrollment per college per year. 
 - Download the chart from Charterbuilder, upload to name.github.io and create an html page.
 
