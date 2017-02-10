@@ -23,6 +23,7 @@ With the advent of the mobile phone, people today expect geographic information 
 
 ## Google Fusion Maps
 - What is Google Fusion?
+- [Sample of student work](https://madiwelker.github.io/madiwelker.github.io/sports.html)
 - Study Google spreadsheet and card system: [College Marching Bands](https://fusiontables.google.com/DataSource?docid=10AomOwjEjnXnFiYgzzQAbXknU3i15ORsSFW35HI#rows:id=1)
 - Then do [Google Fusion map tutorial with image cards](https://support.google.com/fusiontables/answer/2527132?hl=en)
 - **Some annotation needed** 
