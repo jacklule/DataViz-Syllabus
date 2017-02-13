@@ -33,7 +33,7 @@ With the advent of the mobile phone, people today expect geographic information 
   - to change the style of the date to a more recognizable format, click on Date> Change> and change to Text: ie., May 24, 1941; 
   - To Publish to html: Go to Share and make map visible to public. Then click Tools > Publish > and get an iframe embed code.
 - **If time**
-  - [To customize icons on Google fusion map](https://support.google.com/fusiontables/answer/2679986?hl=en&ref_topic=2592806)
+  - [To customize icons on Google fusion map](https://support.google.com/fusiontables/answer/2679986?hl=en&ref_topic=2592806). It is too difficult to add or change icons on a map that already has been created. It is better to add to, edit or create new spread sheet with a new column: Icon. Perhaps just do that for 10 rows of the tutorial to save time.
   - [To display images in Google fusion map](https://support.google.com/fusiontables/answer/171189?hl=en)
 - **Also of interest**
 - [To display YouTube videos in Google fusion map](https://support.google.com/fusiontables/answer/1699422?hl=en&ref_topic=2575603).
