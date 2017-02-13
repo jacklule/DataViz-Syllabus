@@ -39,6 +39,7 @@ Go to [Pixton](https://www.pixton.com/) and sign up for an individual account ("
 - A [Mashable article](http://mashable.com/2010/10/24/create-your-own-comics/#qHxwkyvlcPqE) about sites to produce cartoons, including Pixton, which we will use.
 - [Symbolia: "Where comic books and journalism meet"](http://www.symboliamag.com/)
 - [2017 Washington Post article](https://www.washingtonpost.com/news/comic-riffs/wp/2017/01/30/artists-are-using-the-power-of-comics-to-battle-trumps-travel-ban/?utm_term=.dea0b1dcda2d&wpisrc=nl_optimist&wpmm=1) on comics and U.S. travel ban
+- 2017 New York Times book review, [Drawn Into the Middle East](https://www.nytimes.com/2017/02/08/books/review/attack-loic-dauvillier-and-glen-chapron.html) of three graphic non-fiction works.
 
 ### The Sad Rise and Fall of Bitstrips
 - Bitstrips became popular, perhaps too popular, as a [Facebook feature](https://www.facebook.com/games/bitstrips/).
