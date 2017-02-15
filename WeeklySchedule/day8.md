@@ -7,7 +7,7 @@
 ## Principles: Before Class
 - Quiz over Days 7 and 8
 - [Axis Maps has an excellent Thematic Cartography Guide on GitHub](http://axismaps.github.io/thematic-cartography/), read General Map Making Topics
-- [Birthplaces of American Singers](https://www.google.com/fusiontables/embedviz?q=select+col2+from+18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg&viz=MAP&h=false&lat=42.38378713996336&lng=-76.28461759999999&t=1&z=4&l=col2&y=2&tmplt=3&hml=GEOCODABLE). Here is the [Google Fusion data and cards](https://www.google.com/fusiontables/DataSource?docid=18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg) for Birthplaces of American Singers
+- Google Fusion Map sample: [Birthplaces of American Singers](https://www.google.com/fusiontables/embedviz?q=select+col2+from+18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg&viz=MAP&h=false&lat=42.38378713996336&lng=-76.28461759999999&t=1&z=4&l=col2&y=2&tmplt=3&hml=GEOCODABLE). Here is the [Google Fusion data and cards](https://www.google.com/fusiontables/DataSource?docid=18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg) for Birthplaces of American Singers
 
 ## Practice: In-Class
 
