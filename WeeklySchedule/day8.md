@@ -46,14 +46,14 @@
 - Click Done. The maps is now accessible.
 - Go to Tools > Publish and get iframe html code to embed.
 - Create map.html page at github.com to embed the iframe code for the map.
-- ** Challenge**: The map is small on the html page. Go into the code on your html page and double the size.
+- **Challenge**: The map is small on the html page. Go into the code on your html page and double the size.
 
 ## Practice: Out of Class
 ## Graded Assignment
 
 - Create your own spreadsheet and Google Fusion map with at least five locations.
 - Be sure to take out unnecessary bold titles on your cards
-- publish to an html page at github.com, with the size of the map doubled, and send me the link
+- Publish to an html page at github.com, with the size of the map doubled, and send me the link
 
 ## Resources
 
