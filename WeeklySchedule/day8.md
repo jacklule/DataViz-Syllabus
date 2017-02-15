@@ -7,6 +7,7 @@
 ## Principles: Before Class
 - Quiz over Days 7 and 8
 - [Axis Maps has an excellent Thematic Cartography Guide on GitHub](http://axismaps.github.io/thematic-cartography/), read General Map Making Topics
+- [Google Fusion map of American singers](<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col2+from+18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg&amp;viz=MAP&amp;h=false&amp;lat=36.37804134733611&amp;lng=-88.58930509999999&amp;t=1&amp;z=4&amp;l=col2&amp;y=2&amp;tmplt=3&amp;hml=GEOCODABLE"></iframe>)
 - [Crime Mapping at the Chicago Tribune](http://crime.chicagotribune.com/), by the Chicago Tribune News Apps Team, ongoing
 
 ## Practice: In-Class
