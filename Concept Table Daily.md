@@ -31,7 +31,7 @@
 | tips for symbology | **So You Want To** | Geodata | lat/lng and locations | a straight line on a map | Sources for geodata |
 | **Clay Shirky** | map exercise | xyz axis | 
 | **Day 8** | | |  |  | |
-| **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | what is standardizing data | **Crime in Chicago** | violent crime v. property crime rates, 2001-16 |
+| **Axis Map Guide** | reference map v. thematic map | numerical, nominal and ordinal data | what is standardizing data | **Birthplace of American Singers** | what does map use |
 | **Day 9** | | |  |  | |
 | NYT story/chart **Where the Poor** what does it show? | WSJ story/chart **Gender Gap** what does it show? | **Tableau Videos 1-6** | The dataset for Tableau's instruction | Tableau's relationship with Google Sheets | what is Data Interpreter | 
 | what are problems with data sets | what is pivoting data |
