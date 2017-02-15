@@ -7,8 +7,7 @@
 ## Principles: Before Class
 - Quiz over Days 7 and 8
 - [Axis Maps has an excellent Thematic Cartography Guide on GitHub](http://axismaps.github.io/thematic-cartography/), read General Map Making Topics
-- [Google Fusion map of American singers](<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col2+from+18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg&amp;viz=MAP&amp;h=false&amp;lat=36.37804134733611&amp;lng=-88.58930509999999&amp;t=1&amp;z=4&amp;l=col2&amp;y=2&amp;tmplt=3&amp;hml=GEOCODABLE"></iframe>)
-- [Crime Mapping at the Chicago Tribune](http://crime.chicagotribune.com/), by the Chicago Tribune News Apps Team, ongoing
+- [Birthplaces of American Singers](https://www.google.com/fusiontables/embedviz?q=select+col2+from+18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg&viz=MAP&h=false&lat=42.38378713996336&lng=-76.28461759999999&t=1&z=4&l=col2&y=2&tmplt=3&hml=GEOCODABLE). Here is the [Google Fusion data and cards](https://www.google.com/fusiontables/DataSource?docid=18KeGgJBuUr36eWPkcIbfAow998liGL-OGqdh27Tg) for Birthplaces of American Singers
 
 ## Practice: In-Class
 
