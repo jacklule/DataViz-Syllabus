@@ -18,6 +18,7 @@
 - Click grey folder next to name J 24 Google Fusion Data Sample. Click Make a Copy (not Add to Drive) to add to your Google Drive and rename.
 - Add information to a fifth establishment to practice finding and adding data. Find address, URL and image for ArtsQuest in Bethlehem and create new row on spreadsheet. 
 - go to Google Drive, open Google Fusion; Import J24 Table from Google Spreadsheet
+- Under Change Info Window, edit card to remove unecessary boldfaced titles: Name, URL, Address, Description, Image, Icon
 
 **Troubleshoot**
 - If student has two Google drives (Lehigh and Gmail), spreadsheet may not open; student should then download the spreadsheet to the local computer and then have Google Fusion select from there.
@@ -28,8 +29,6 @@
 - When spreadsheet first opened in Google Fusion, the tab said Map of Name, not Map of Location; the map did not work. The dots were all over the world.
 - It turns out that Google Fusion was trying to map by Names, rather than Location.
 - In the fusiontables, click on the Rows tab and hover over the Location cell until a dropdown menu appears. Click Change. Change Type from Text to Location. Repeat steps with Name cell: Change from Location to Text. Map should now say Map of Location and should work.
-
-- Under Change Info Window, edit card to remove unecessary boldfaced titles: Name, URL, Address, Description, Image, Icon
 
 - **Challenge**: under Configure, [Change Type of Icon](https://support.google.com/fusiontables/answer/2679986?hl=en&ref_topic=2592806) if "arts" icon does not display (Change Map > Feature Style > Icon > Column > Icon).
 
@@ -47,12 +46,14 @@
 - Click Done. The maps is now accessible.
 - Go to Tools > Publish and get iframe html code to embed.
 - Create map.html page at github.com to embed the iframe code for the map.
+- ** Challenge**: The map is small on the html page. Go into the code on your html page and double the size.
 
 ## Practice: Out of Class
 ## Graded Assignment
 
 - Create your own spreadsheet and Google Fusion map with at least five locations.
-- publish to an html page at github.com and send me the link
+- Be sure to take out unnecessary bold titles on your cards
+- publish to an html page at github.com, with the size of the map doubled, and send me the link
 
 ## Resources
 
