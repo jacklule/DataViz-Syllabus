@@ -18,13 +18,13 @@
 - Students can look at Discover videos in right grey bar out of class
 
 <h3>Tutorial</h3>
-
+Return to opening page: public.tableau.com
 **Data**
-- Under Resources in right grey bar, click Sample Data Sets
-- Scroll to Lifestyle > Top Baby Names > click Dataset (csv versus xls files) > TopBabyNamesbyState.csv downloads
+- Under Resources in top grey bar, click Sample Data Sets
+- Scroll to Lifestyle > Top Baby Names > click Dataset (csv versus xls files) > The file, TopBabyNamesbyState.csv, downloads
 - double click csv file > enter first name for Office Mac, if required > Excel opens > double click csv file again
-- inspect csv data: column names and 10507 rows! > close Excel
-- in Tableau Public, in left blue column, Connect not to Excel but to a text file > double click TopBabyNamesbyState.csv
+- inspect csv data: column names and 10507 rows! > (Occurrences spelled wrong) close Excel
+- Open Tableau Public, in left blue column, Connect not to Excel but to a text file > double click TopBabyNamesbyState.csv
 - inspect column headings and Tableau Public Symbols in column headings
 - in lower left, click Sheet 1, beneath Go to Worksheet
 
