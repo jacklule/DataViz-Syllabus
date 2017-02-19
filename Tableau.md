@@ -18,6 +18,7 @@
 - Students can look at Discover videos in right grey bar out of class
 
 <h3>Tutorial</h3>
+From NICAR 2014 Tableau Training Guide
 Return to opening page: public.tableau.com
 **Data**
 - Under Resources in top grey bar, click Sample Data Sets
