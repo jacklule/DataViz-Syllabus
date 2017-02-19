@@ -15,7 +15,7 @@
 </ul>
 
 ## Practice: In Class
-<ul>
+2017: Is [ChartAccent](https://chartaccent.github.io/) a worthy competitor to Charbuilder?<ul>
 <li><a href="http://kpq.github.io/sherp-31/assets/lectures/chartexamples.pdf">Skim chart examples; 41 slides</a></li>
 <li><a href="http://i.imgur.com/RzYaLZg.gif">How can you use design to help you say it?</a> Fun gif: Remove to improve</li>
 <li><a href="http://qz.com/278681/all-yes-all-the-charts-from-the-white-house-report-on-millennials/?wpisrc=nl-wonkbk&wpmm=1">Nice example of Quartz charts on White House report.
