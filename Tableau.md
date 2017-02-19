@@ -19,6 +19,7 @@
 
 <h3>Tutorial</h3>
 From NICAR 2014 Tableau Training Guide
+
 Return to opening page: public.tableau.com
 **Data**
 - Under Resources in top grey bar, click Sample Data Sets
@@ -70,7 +71,8 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - At the bottom of the sidebar, under Objects, change Tiled to Floating. This allows you to move elements around on the Dashboard.
 - Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down menu for Top Names and select Remove from Dashboard.
 - Reposition and make larger the year slider and the gender filter
-- Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter (eventually we need to have just one year slider and one gender filter for the entire dashboard: try clicking on main map and in top right get drop-down menu, click "Use as Fileter." The main map should now control as a filter the other maps and even charts.)
+- Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter 
+- If time, eventually we need to have just one year slider and one gender filter for the entire dashboard. Steps for doing this change often. Try clicking on main map and in top right get drop-down menu, click "Use as Filter." The main map should now control as a filter the other maps and even charts. If not, try Dashboard Actions and choose Filter and target three sheets.
 - Drag and resize until the maps seem right to you
 
 **Adding a title**
