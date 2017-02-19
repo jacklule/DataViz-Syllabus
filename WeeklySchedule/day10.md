@@ -11,9 +11,6 @@ We will continue learning the principles and practice of interactivity in data v
 - [The work of Ben Jones at Tableau](http://www.tableau.com/about/blog/contributors/ben-jones)
 - Designing for Interactivity: [On the challenges of interative AND mobile](https://www.journalism.co.uk/news/how-the-wall-street-journal-approaches-data-interactives-on-mobile/s2/a574385/) by Elliot Bentley, of the Wall Street Journal
 
-## Principles: In Class
-- Quiz on Days 9 and 10
-
 ## Practice: In Class
 
 - Download (or perhaps connect directly to Google Sheets from Tableau), this [data set on Ethnicity at Lehigh](https://docs.google.com/spreadsheets/d/12NuHCygG7XaS4Nd0GHgStiEWUjXYpYXuC2Ru2ntLnWw/edit?usp=sharing)
