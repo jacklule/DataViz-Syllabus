@@ -1,6 +1,6 @@
 #Day 11
 
-##Telling Stories for Mobile Devices
+##Telling Interactive Stories for Mobile Devices
 
 ###Principles
 ####Designing Data Visualizations for Mobile
