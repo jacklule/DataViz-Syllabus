@@ -10,7 +10,8 @@
 
 ## Graded Assignment: Part 2
 - Find a dataset that you are interested in. You will find links to many datasets at the [Finding Data](https://github.com/jacklule/DataViz-Syllabus/blob/master/Finding%20Data.md) page of this DataViz Syllabus.
-- Next week, we will begin to create an interactive visualization (chart or map) at Tableau. The visualization should have at least one sheet on a dashboard with title and your name.
+- Create an interactive visualization (chart or map) at Tableau. The visualization should have at least one sheet on a dashboard with title and your name.
+- To the extent possible, consider how your visualization will look/work on a mobile device.
 - Strive for best data viz principles from our [data viz checklist](http://stephanieevergreen.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf).
 - Publish to your github.io page and send me the link.
 
