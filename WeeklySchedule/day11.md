@@ -8,8 +8,11 @@
 - [Top Publishers Discuss How They Design Data Viz for Mobile and Interactivity](http://www.niemanlab.org/2016/03/small-screens-full-art-despite-their-size-smartphones-open-up-new-opportunities-for-interactives/), from Nieman Lab.
 - [Data Viz for the Phone](http://www.niemanlab.org/2014/07/data-visualization-is-good-data-visualization-that-works-on-your-phone-is-better/), from Nieman Lab
 
-###Practice
-A third Tableau exercise
+## Graded Assignment: Part 2
+- Find a dataset that you are interested in. You will find links to many datasets at the [Finding Data](https://github.com/jacklule/DataViz-Syllabus/blob/master/Finding%20Data.md) page of this DataViz Syllabus.
+- Next week, we will begin to create an interactive visualization (chart or map) at Tableau. The visualization should have at least one sheet on a dashboard with title and your name.
+- Strive for best data viz principles from our [data viz checklist](http://stephanieevergreen.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf).
+- Publish to your github.io page and send me the link.
 
 ####Best Practices (from Data Viz for All)
 - Swipe – [Fewer helmets, more deaths](http://www.nytimes.com/interactive/2014/03/31/science/motorcycle-helmet-laws.html?_r=1), New York Times
