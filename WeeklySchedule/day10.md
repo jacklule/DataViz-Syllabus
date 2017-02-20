@@ -18,11 +18,9 @@ We will continue learning the principles and practice of interactivity in data v
 - publish to your github.io page
 
 ## Practice: Out of Class
-## Graded Assignment
+## Graded Assignment: Part 1
 - Find a dataset that you are interested in. You will find links to many datasets at the [Finding Data](https://github.com/jacklule/DataViz-Syllabus/blob/master/Finding%20Data.md) page of this DataViz Syllabus.
-- Create an interactive visualization (chart or map) at Tableau. The visualization should have at least one sheet on a dashboard with title and your name.
-- Strive for best data viz principles from our [data viz checklist](http://stephanieevergreen.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf).
-- Publish to your github.io page and send me the link.
+- Next week, we will begin to create an interactive visualization (chart or map) at Tableau. The visualization should have at least one sheet on a dashboard with title and your name.
 
 ## Resources
 - Storypoints is an interesting development at Tableau. Videos 15 and 16 (about 11 minutes) provide an introduction at the [Resource page](https://public.tableau.com/en-us/s/resources)
