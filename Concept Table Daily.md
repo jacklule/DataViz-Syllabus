@@ -39,7 +39,7 @@
 | **Tableau Videos 9-15** | Show Me Toolbar | Dimensions and Measures | Marks | Creating Dashboards: filter and highlight | Formatting in Workbook | 
 | Storypoint | **Bentley-Wall St. Journal** | challenges of mobile |
 | **Day 11** | | |  |  | |
-|**Nieman Lab** | use the features of the phone | LA Times stories only | **Nieman Lab 2** | design and mobile |
+|**Nieman Lab** | use the features of the phone | LA Times stories only | **Nieman Lab 2** | design and mobile | first two best practices |
 | **Day 12** | | |  |  | |
 | **Politico on Comic Journalism** | why accessbility is important in Belgium | Maus | Joe Sacco on graphic novels | Charlie Hebdo |
 | **Is Comic Journalism Making a Comeback?** | Abike's Story | **Dan Nott** | comic for serious subject |
