@@ -61,7 +61,7 @@ My **annotations** for Hello World:
 - Students will be taken to the Editing window of their ReadMe page, which now has Welcome to GitHub Pages and instructions for using md language and information about Jekyll themes.
 - Students should scroll down to Commit the Changes.
 - The web page should be created at username.github.io.
-- Students can easily start to edit the content on the ReadMe page (which has replaced the former index.html page in earlier versions).
+- Students can easily start to edit the content on the ReadMe page (**which has replaced the former index.html page in earlier versions**).
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
 ##Getting Set Up at GitHub.io without GitHub Desktop
