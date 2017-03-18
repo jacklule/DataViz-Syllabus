@@ -2,7 +2,7 @@
 
 ### Day-by-Day Course Outline: 14 days over 7 weeks
 
-| **Day 1** |**Day 2** | |  |  | |
+|**Spring 2017** || |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | | **Principles** | **Practice** |  | **Spring 2017** | 
 |[**Day 1**](WeeklySchedule/day1.md)  | Telling Stories with Data | Function and Form | The Truthful Art| M, 23 January |
