@@ -1,5 +1,6 @@
 ## Concept Table Daily
 #####(meta-commentary below) 
+
 | **Day 1** |**Day 2** | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
 | **PBS: Art** | Edward Tufte | style and failed content | cartography roots | Google maps | pattern recognition |
