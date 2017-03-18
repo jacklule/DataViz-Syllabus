@@ -18,7 +18,7 @@ Found below are instructions for:
 
 
 <a id="Getting-Set-Up-at-GitHub.com"></a>
-##Getting Set Up at GitHub.com <a id="Getting-Set-Up-at-GitHub.com"></a>
+## Getting Set Up at GitHub.com <a id="Getting-Set-Up-at-GitHub.com"></a>
 
 <p>Students of course first need to set up an account. After a discussion of visual communication principles and the strengths of GitHub, we set it up on the first day. It is easy at <a href="https://github.com">GitHub.com.</a> 
 <p>Students first register and follow along with, but adapt, the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
@@ -50,7 +50,7 @@ My **annotations** for Hello World:
 - If the student also created a uername.github.io repository with the clunky user name, it might be easiest just to delete that repository and create a new one. (It is also possible to edit that repository.) To delete: At github.com/username, click on repository username.github.io. In top right, click Settings. Scroll down to the red Danger Zone and click delete this repository. Follow the steps below, Getting Set Up at GitHub.io without GitHub Desktop 2017, to create a new repository.
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017"></a>
-##Getting Set Up at GitHub.io without GitHub Desktop 2017
+## Getting Set Up at GitHub.io without GitHub Desktop 2017
 
 <p>In 2017, GitHub changed how users could generate their own web pages. I will leave the instructions below in case GitHub returns to its former method. But for 2017:</p>
 
