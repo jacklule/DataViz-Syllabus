@@ -40,6 +40,7 @@
   -   Or, more simply, Sign up for GitHub.com > Create new project/new repository > Initialize and create ReadMe (DataViz) page > Commit > begin to edit page
   -   Practice: [md Markdown basics](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
   -   [Another nice Markdown cheat sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
+  -   Practice: put name on ReadMe page in heading 2 and include link to Lehigh University
 
 ## Resources
 
