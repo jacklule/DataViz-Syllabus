@@ -5,7 +5,7 @@ Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
 - [To Change a User Name after Set Up](#To-Change-a-User-Name-after-Set-Up)
 - [Getting Set Up at GitHub.io without GitHub Desktop: 2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017)
-- [Getting Set Up at GitHub.io without GitHub Desktop: Pres-2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop) (old)
+- [Getting Set Up at GitHub.io without GitHub Desktop: Pre-2017](#Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop) (old)
 - [Getting Set Up at GitHub.io with GitHub Desktop](#Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop) (old)
 - [To Edit an html page in TextEdit](#To-edit-an-html-page-in-TextEdit)
 - [To Set Up TextEdit to Create html Pages](#To-Set-Up-TextEdit-to-Create-html-Pages)
@@ -53,6 +53,7 @@ My **annotations** for Hello World:
 ##Getting Set Up at GitHub.io without GitHub Desktop 2017
 
 <p>In 2017, GitHub changed how users could generate their own web pages. I will leave the instructions below in case GitHub returns to its former method. But for 2017:</p>
+
 - Go to github.com/username > In top right, under +, get drop down menu and select New Repository.
 - Type in repository name: username.github.io
 - Click Initialize with a ReadMe page. (If students do not initialize, they will be taken to a Quick Setup Page that will require some coding. They can avoid that by finding the link for ReadMe under Quick SetUp).
