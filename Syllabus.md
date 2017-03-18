@@ -1,5 +1,5 @@
 # Jour 24 Visual Communication
-##Syllabus
+## Syllabus
 
 ## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Daily%20Outline.md)
 
@@ -18,7 +18,7 @@ Rather than have students take two more required classes, we have found natural 
 
 You should treat each module as its own separate course. The grading methods, course structure, assignment weights, etc., will be set by the professor leading each module. Each module will be weighted exactly 50 percent. Your final grade will simply combine the two modules.
 
-##Learning Outcomes
+## Learning Outcomes
 
 Journalism education associations have outlined two learning outcomes relevant to this class -- and your career. Students should know how to:
 
@@ -27,7 +27,7 @@ Journalism education associations have outlined two learning outcomes relevant t
 
 In this module, you will learn that and more. You will learn principles of visual communication that have grounded the liberal arts for centuries. You will learn basic essential journalism skills, such as reporting, finding information, storytelling and working with images and data. You will become familiar with the principles and practice that ground new, but always evolving, digital tools -- tools that will help you tell stories with data. You can decide if you want to specialize in one and this course can shape your career.
 
-##Data: The hole in your resume
+## Data: The hole in your resume
 
 From Alberto Cairo, professor and author of <i>The Functional Art</i> and <i>The Truthful Art</i>:
 - "I think that the future of visualization doesn't depend on the tools we use, but on solid principles."
@@ -47,10 +47,10 @@ But no more.
 
 See our [Day-byDay Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Daily%20Outline.md) for how we will proceed.
 
-##Readings
+## Readings
 There are no required texts for this class. All readings, videos and tutorials will be found online.
 
-##Grading
+## Grading
 Your final grade for Jour 24 Visual Communication will be based on your performance in the two modules for the class, the traditional visual communication curriculum on photography, videography and print design and this new curriculum on data visualization. Each module will be weighted exactly 50 percent.
 
 The data visualization module strives for a balance between principles and practice. So will our grading.
@@ -71,10 +71,10 @@ The data visualization module strives for a balance between principles and pract
 - customized HTML5 page and portfolio at name.github.io: 30 points
 - portfolio will include the edited, corrected and improved versions of all assignments. This portfolio will be an essential part of your search for internships and jobs.
 
-##Lehigh Commitment to an Equitable Community
+## Lehigh Commitment to an Equitable Community
 
 Lehigh University endorses The Principles of Our Equitable Community (http://www4.lehigh.edu/diversity/principles). We expect each member of this class to acknowledge and practice these Principles. Respect for each other and for differing viewpoints is a vital component of the learning environment inside and outside the classroom. 
 
-##Lehigh Statement on Accommodations for Students with Disabilities  
+## Lehigh Statement on Accommodations for Students with Disabilities  
 
 If you have a disability for which you are or may be requesting accommodations, please contact both your instructor and the Office of Academic Support Services, University Center C212 (610-758-4152) as early as possible in the semester.  You must have documentation from the Academic Support Services office before accommodations can be granted.
