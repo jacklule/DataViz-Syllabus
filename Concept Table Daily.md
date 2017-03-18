@@ -1,5 +1,5 @@
 ## Concept Table Daily
-#####(meta-commentary below) 
+##### (meta-commentary below) 
 
 | **Day 1** |**Day 2** | |  |  | |
 | ------------- | ------------- | ------------ | --------------- | -------- | ---------- |
