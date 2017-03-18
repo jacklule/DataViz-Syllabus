@@ -1,4 +1,4 @@
-#GitHub Set Up
+# GitHub Set Up
 I have attempted to make this guide as simple and clear as possible for those without any GitHub experience. It is written for Macs but can be adapted to PCs. If you have questions, please do let me know so I can continue to improve the document.
 
 Found below are instructions for:
@@ -42,7 +42,7 @@ My **annotations** for Hello World:
 <p>For homework, students should edit their ReadMe page with more information about themselves and their education. They should also add a photo and more information to their profile, all the while gaining experience with markdown.</p>
 
 <a id="To-Change-a-User-Name-after-Set-Up"></a>
-##To Change a User Name after Set Up
+## To Change a User Name after Set Up
 
 - Students sometimes sign up at github.com with their clunky Lehigh user name (ie. jl0d219) rather than their real name. It is best to change that early before the creation of other connecting pages.
 - Go to github.com/currentusername. In top right corner, click on the arrow for a drop down menu and go to Settings.
@@ -65,7 +65,7 @@ My **annotations** for Hello World:
 - Students can easily start to edit the content on the ReadMe page (**which has replaced the former index.html page in earlier versions**).
 
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop"></a>
-##Getting Set Up at GitHub.io without GitHub Desktop
+## Getting Set Up at GitHub.io without GitHub Desktop
 
 - Students should go to their github.com page and click the Repositories tab.</p>
 - On the far right, find the button that says New.
@@ -85,7 +85,7 @@ My **annotations** for Hello World:
 - Commit.
 
 <a id="Getting-Set-Up-at-GitHub.io-with-GitHub-Desktop"></a>
-##Getting Set Up at GitHub.io with GitHub Desktop
+## Getting Set Up at GitHub.io with GitHub Desktop
 
 <p> To work in GitHub Desktop, students should follow the <a href="https://pages.github.com/">GitHub Pages guide</a>, using "User or organization" site and "GitHub for Mac" to set up their .io repository page, which will serve as a Portfolio of their work for the class and for future employers.</p>
 
@@ -100,7 +100,7 @@ My **annotations** for GitHub Pages Guide:
 - GitHub then says, **grab your favorite text editor**: not so simple; next step:
 
 <a id="To-Set-Up-TextEdit-to-Create-html-Pages"></a>
-##To Set Up TextEdit to Create html Pages
+## To Set Up TextEdit to Create html Pages
 - Students must **set up their text editor to create html pages**. For the Mac, this means to edit Preferences in Apple TextEdit. [Apple Support: How to Set Up TextEdit](https://support.apple.com/kb/ta20406?locale=en_US). In sum: Under Preferences > New Document > click the Plain Text radio button under Format; Under Open and Save, When Saving a File, click the checkbox to turn off "Append '.txt' extension to plain text files." Students will now be able to save text edits as html pages. (And for future editing, in Open and Save, students can also click on Display HTML files as HTML code instead of formatted text.")
 - Also see [Creating an html page](http://www.w3schools.com/html/html_intro.asp)
 - Students can then take the next step in the Pages Guide and create an index.html page
@@ -113,14 +113,14 @@ My **annotations** for GitHub Pages Guide:
 Students thus have learned to code and create a new html page to embed and publish each assignment thus doubling the value of each lesson. **To check on troubles, view Page Source. Right click with PCs; Option+Command+u for Macs.**
 
 <a id="To-edit-an-html-page-in-TextEdit"></a>
-##To Edit an html Page in TextEdit
+## To Edit an html Page in TextEdit
 TextEdit will open a previously created html page as an html file, not in text edit. To edit an html page in TextEdit:
 - Under TextEdit, find Preferences
 - Go to the “Open and Save” tab, check the box, “Display HTML files as HTML code instead of formatted text” 
 - Under "New Document," make TextEdit default to "plain text" (instead of "rich text")
 
 <a id="To-Customize-the-Github.io-Page"></a>
-##To Customize the GitHub.io Page
+## To Customize the GitHub.io Page
 Remembering that the page eventually will be their GitHub portfolio, students should follow these steps:
 - Students should have already **set up their repo site at github.io**, using the directions above and at [Git Hub Pages guide above](https://pages.github.com/)
 - After creating username.github.io, students can personalize that page;
@@ -135,7 +135,7 @@ Remembering that the page eventually will be their GitHub portfolio, students sh
 - Here is the result for me at [my GitHub Page](http://jacklule.github.io/)
 
 <a id="To-Publish-Other-Work-at-GitHub.io"></a>
-##To Publish Other Work at GitHub.io
+## To Publish Other Work at GitHub.io
 To publish other work, such as charts, Tableau files and YouTube videos to GitHub.io:
 
 - **To publish work saved on the local computer**, such as svg files produced by Chartbuilder: 1) Students would complete the assignment at Chartbuilder; 2) download the svg file to their local computer (the other option, png files, do not render consistently); 3) create an html page for the assignment; 4) insert the svg file into the html page; 5) upload the html page to their github.io site. Here are examples of a Chartbuilder assignment in svg and png format: [Chartbuilder svg test](http://jacklule.github.io/pages/SVGtest.html) and [Chartbuilder png test](http://jacklule.github.io/pages/PNGtest.html)
@@ -144,7 +144,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - Again, name.github.io will be **The Portfolio** page, a collection of Data Viz work that can be shared with future employers.
 
 <a id="To-Create-and-Manage-Files-and-Folders"></a>
-##To Create and Manage Files and Folders
+## To Create and Manage Files and Folders
 **Creating folders within GitHub**:
 - go to the folder inside which you want to create another folder
 - click on New file
@@ -154,7 +154,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
 
 <a id="To-Delete-a-Repository"></a>
-##To Delete a Repository
+## To Delete a Repository
 - Students can make mistakes in the early stages of constructing a repository. Sometimes it is easier just to delete and start over.
 - From the github.com/name page, click on the Repositories Tab
 - click on the repository to be deleted
@@ -162,7 +162,7 @@ To publish other work, such as charts, Tableau files and YouTube videos to GitHu
 - scroll down to the Danger section and delete
 
 <a id="Working-with-GitHub-in-a-computer-lab"></a>
-##Working with GitHub in a Computer Lab
+## Working with GitHub in a Computer Lab
 Students likely will not have administrative access to download and install GitHub for Mac in a computer lab. Perhaps the students can start the dowload and the instructor could type in the JournalismAdmin password. Or the instructor could do all the downloads before classes begin. 
 
 For students then to set up GitHub.io pages, follow the four-step process at [GitHub Pages](https://pages.github.com/) or see above, [Getting Set Up at GitHub.io](#Getting-Set-Up-at-GitHub.io), but also follow these annotations:
@@ -189,6 +189,6 @@ For students then to set up GitHub.io pages, follow the four-step process at [Gi
   - To check online: Go to the io repository at name.github.com. The index.html file should be now in the github.com repository.
 
 <a id="Resources"></a>
-###Resources
+### Resources
 - [Nice intro to first steps with GitHub to add to a list](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 - [A good, clear introduction to using Terminal/the Command Line and GitHub](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
