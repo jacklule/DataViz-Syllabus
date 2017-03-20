@@ -1,7 +1,7 @@
-#Day 2
-##Telling Stories with Data
+# Day 2
+## Telling Stories with Data
 
-##Principles: Before Class
+## Principles: Before Class
 
 - Retrace steps to your ReadMe page at github.com/name and introduce yourself so you get comfortable with writing in md
 - Complete your github.com profile with photo and contact information
