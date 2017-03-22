@@ -54,6 +54,8 @@ My **annotations** for Hello World:
 
 <p>In 2017, GitHub changed how users could generate their own web pages. The setup guide now works well. I will leave the instructions below in case GitHub returns to its former method.</p>
 
+<p> GitHub also now provides instructions on how to edit the themes pages, such as the page title, by going into the code. Scroll down on this [GitHub Pages Guide](https://guides.github.com/features/pages/)</p>
+
 - Go to github.com/username > In top right, under +, get drop down menu and select New Repository.
 - Type in repository name: username.github.io
 - Click Initialize with a ReadMe page. (If students do not initialize, they will be taken to a Quick Setup Page that will require some coding. They can avoid that by finding the link for ReadMe under Quick SetUp).
