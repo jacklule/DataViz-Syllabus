@@ -21,8 +21,8 @@
 - Create a GitHub portfolio site at github.io
 - Discuss and show differences between md language and HTML5 (right click CTRL click for Macs)
 - [W3Schools](http://www.w3schools.com/) offers individual lessons from which you can pick and choose
-- [Setting up GitHub hosting pages, github.io](https://pages.github.com/). This page was updated in 2017 and works well. If students have trouble, they can also see annotations at [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md), for setup without GitHub Desktop
-- Scroll down on [this page](https://guides.github.com/features/pages/) for instructions on editing the code for themes, such as changing the page title
+- [Setting up GitHub hosting pages, github.io](https://guides.github.com/features/pages/) This page was updated in 2017 and works well. If students have trouble, they can also see annotations at [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md), for setup without GitHub Desktop
+- Scroll down on that same [page guide](https://guides.github.com/features/pages/) for instructions on editing the code for themes, such as changing the page title
 - Remembering that the page eventually will be their GitHub portfolio, students should customize their pages in md language. Directions To Customize the GitHub.io Page can be found at our [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md). For example, [my GitHub Page](http://jacklule.github.io/)
 
 ## Resources
