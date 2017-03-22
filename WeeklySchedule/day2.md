@@ -21,11 +21,11 @@
 - Create a GitHub portfolio site with HTML5 at github.io
 - Discuss and show differences between md language and HTML5 (right click CTRL click for Macs)
 - [W3Schools](http://www.w3schools.com/) offers individual lessons from which you can pick and choose
-- [Setting up GitHub hosting pages, github.io](https://pages.github.com/). But first see annotations at [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md), for setup without GitHub Desktop
-- Remembering that the page eventually will be their GitHub portfolio, students should customize their pages. Directions To Customize the GitHub.io Page can be found at our [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md). For example, [my GitHub Page](http://jacklule.github.io/)
-- Also see, [Creating an HTML page](http://www.w3schools.com/html/html_intro.asp)
+- [Setting up GitHub hosting pages, github.io](https://pages.github.com/). This page was updated in 2017 and works well. If students have trouble, they can also see annotations at [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md), for setup without GitHub Desktop
+- Remembering that the page eventually will be their GitHub portfolio, students should customize their pages in md language. Directions To Customize the GitHub.io Page can be found at our [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md). For example, [my GitHub Page](http://jacklule.github.io/)
 
 ## Resources
+- Also see, [Creating an HTML page](http://www.w3schools.com/html/html_intro.asp)
 - [CodeCademy Web Fundamentals](http://www.codecademy.com/), famed web class for learning code
 - Read an excellent introductory [Flowing Data essay](http://flowingdata.com/2010/09/27/journalism-in-the-age-of-data/) and then watch "Introduction" (4:00) and "Data Viz in Journalism" (10:55), the first two chapters of Geoff McGhee's excellent video: [Journalism in the Age of Data](http://datajournalism.stanford.edu/)
 - View chapter 3, "Telling Data Stories," of Geoff McGhee video: [Journalism in the Age of Data](http://datajournalism.stanford.edu/) (2010) but still a classic, talked about at Fall 2016 conference on Digital Humanities + Data Journalism.
