@@ -18,7 +18,7 @@
 - Review our class [evaluation rubric](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md)
 
 ## Practice 
-- Create a GitHub portfolio site with HTML5 at github.io
+- Create a GitHub portfolio site at github.io
 - Discuss and show differences between md language and HTML5 (right click CTRL click for Macs)
 - [W3Schools](http://www.w3schools.com/) offers individual lessons from which you can pick and choose
 - [Setting up GitHub hosting pages, github.io](https://pages.github.com/). This page was updated in 2017 and works well. If students have trouble, they can also see annotations at [class GitHub Setup Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md), for setup without GitHub Desktop
