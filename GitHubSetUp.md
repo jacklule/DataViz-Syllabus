@@ -52,7 +52,7 @@ My **annotations** for Hello World:
 <a id="Getting-Set-Up-at-GitHub.io-without-GitHub-Desktop-2017"></a>
 ## Getting Set Up at GitHub.io without GitHub Desktop 2017
 
-<p>In 2017, GitHub changed how users could generate their own web pages. I will leave the instructions below in case GitHub returns to its former method. But for 2017:</p>
+<p>In 2017, GitHub changed how users could generate their own web pages. The setup guide now works well. I will leave the instructions below in case GitHub returns to its former method.</p>
 
 - Go to github.com/username > In top right, under +, get drop down menu and select New Repository.
 - Type in repository name: username.github.io
