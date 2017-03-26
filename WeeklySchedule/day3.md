@@ -15,8 +15,8 @@
 ## Practice: In Class
 
 - **In class exercise**:
-  - [Canva tutorials](https://designschool.canva.com/tutorials/). Students will need to register at Canva. 
-  - [Beginner](https://www.canva.com/design/DABt7NIMOCI/XaP1zkyMrDH-rlB7LvuB3g/edit): 3 minutes
+  - Students will need to register at [Canva](https://www.canva.com/). 
+  - [Beginner Tutorial](https://www.canva.com/design/DABt7NIMOCI/XaP1zkyMrDH-rlB7LvuB3g/edit): 3 minutes
   - [Essential Canva Tools](https://www.canva.com/design/DABruYYnUZk/KmFa2-jSqTcKj5zUT-s9Cw/edit): 10 minutes
   - Focus on layout, design, font and color
   - [Canva sample on HTML5 page](https://madisonhoff.github.io/infographic.html)
@@ -35,7 +35,7 @@
   - open in Finder and give the infographic a one-word name.
   - open https://github.com/name/name.github.io and click upload file
   - drag or choose png file and commit
-- **To create an html page to display your infographic**
+- **To create an html page to display your infographic (2017- can also try on md page)**
   - select create New File at name.github.io
   - give file one-word name **with .html after the name**
   - in the text box, enter:
@@ -55,7 +55,7 @@
 - To check: click Copy File Path and view infographic in browser
 
 ## Practice: Out of Class: Graded Assignment
-- find a story using data from this source: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
+- find a story using data. Try ot mak the data of personal interest or from this source: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
 - Create an infographic, upload it to your github.io site and create an html page to showcase the infographic
 - Be sure to follow our [Grading Rubic](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md), with attention to typos, source information and more, to get the maximum 10 points
 
