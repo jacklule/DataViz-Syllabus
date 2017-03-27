@@ -56,7 +56,7 @@
 - To check: click Copy File Path and view infographic in browser
 
 ## Practice: Out of Class: Graded Assignment
-- find a story using data. Try ot mak the data of personal interest or from this source: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
+- find a story using data. Try to make the data of personal interest. If you have trouble, you can use Lehigh data: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
 - Create an infographic, upload it to your github.io site and create an html page to showcase the infographic
 - Be sure to follow our [Grading Rubic](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md), with attention to typos, source information and more, to get the maximum 10 points
 
