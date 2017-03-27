@@ -36,7 +36,7 @@
   - open https://github.com/name/name.github.io and click upload file
   - drag or choose png file and commit
 - **To create an html page to display your infographic (2017- can also try on md page)**
-  - 2017: use link to embed on ReadMe.md page: ![title of infographic](https://petergormley.github.io/2016LehighMajors.png)
+  - 2017: use link to embed on ReadMe.md page: ![title of infographic](https://name.github.io/nameofinfographic.png)
   - Prior to 2017: select create New File at name.github.io
   - give file one-word name **with .html after the name**
   - in the text box, enter:
