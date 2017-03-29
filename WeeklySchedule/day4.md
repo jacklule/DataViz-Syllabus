@@ -19,12 +19,13 @@
 ## Practice: In Class
 
 - In-Class Exercises
+  - **Review** how to find links to jpegs, not web pages in Google search.
   - **Review again**: [Examples of TimelineJS](https://timeline.knightlab.com/index.html#examples), noting the combination of image, text and time
   - Next: we will study the spreadsheet at the heart of the Timeline and most data visualizations. The [Timeline spreadsheet](https://drive.google.com/a/lehigh.edu/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public#) is based in Google Drive. 
   - You will need to be signed up at Google Drive. The timeline is quite specific in its structure. Here is a [discussion of the spreadsheet](https://timeline.knightlab.com/docs/using-spreadsheets.html).
   - **Create your own timeline**
   - We will use links to photos and add our own brief text to complete the [4-step TimelineJS tutorial](https://timeline.knightlab.com/index.html#make), including the Optional Settings in Step 3. We will want to pay attention to photo credits. Our timeline will be about opening night of the 2016 Olympics in Rio, August 5, 8 p.m.
-  - **Step 1** Fill in the spreadsheet with information from links below.
+  - **Step 1** Fill in the spreadsheet with information from links below. For each photo and video, credit NBC Sports.
     - [Rio 2016](https://1.bp.blogspot.com/-gpgFkYiFS0k/V2PgaYiIIWI/AAAAAAAAAGg/iP_5APptn2Yoy-irza5E4unZTHJSPIg9QCLcB/s1600/Rio%2B2016%2BOlympics%2BOpening%2BCeremony.jpeg). Text to state that 2016 Summer Olympics were held in Rio de Janeiro, Brazil. Date this August 1.
     - [Concern that Rio would be ready](https://i.ytimg.com/vi/9qPPxnOlrlo/maxresdefault.jpg). Text focuses on some of the concerns. Date this August 2.
     - [Athletes march in](http://wpmedia.news.nationalpost.com/2016/08/rio_olympics_opening_ceremony-12.jpg). Text states that the Games started on time, with the familiar parade of nations. Date this August 5, 8 p.m.
@@ -37,8 +38,9 @@
     - **Important**: This is the link to the spreadsheet NOT to the timeline. You still need to return to TimelineJS and Step 3.
   - **Step 3** Return to TimelineJS Make a Timeline site and under Step 3, paste the link to the spreadseet into the box on Step 3, next to Google Spreadsheet URL.
   - **Step 4** The final iframe embed link should now appear in the grey box in Step 4 (it should begin with <iframe src="https://cdn.knightlab.com). Copy the iframe embed code from Step 4.
-  - You can simply paste the code into a new file at github.io, call it name.html and the timeline will publish. However, it will be missing your name. 
-  - Alternately, you can proceed to directions below on creating an html page for the timeline.
+  - You can simply paste the code into your ReadMe.md page.
+  
+  Alternately, students can create a new file at github.io, call it name.html and the timeline will publish. However, it will be missing the student's name. Students thus can proceed to directions below on creating an html page for the timeline.
   - **Create html page for timeline**
     - With the iframe embed code copied, go to github.com, create a New File, title it Rio.html, use standard html coding to create an html page and paste in the iframe embed code:
     - (enter < and > before and after each line where needed so it will appear as html)
@@ -56,6 +58,7 @@ Commit
 ## Practice: Out of Class Assignment
 
 - Find a topic you care about and construct your own TimelineJS, using 5-8 photos or videos with 2-3 lines of text for each.
+- Remember to include credits for photos.
 - Publish the TimelineJS on an html page.
 - Send me a link to that page.
 - Eventually put the link on your page at name.github.io
