@@ -44,7 +44,7 @@ We will next create and upload a time-based, line chartchart to GitHub and displ
 - Consult our rubric to check your work
 - Download and post to your GitHub site
 
-###Resources
+### Resources
 - [9 Ways to Visualize Proportions – A Guide](http://flowingdata.com/2009/11/25/9-ways-to-visualize-proportions-a-guide/) slightly more advanced charts, by Nathan Yau, 2009
 - [11 Ways to Visualize Changes Over Time – A Guide](http://flowingdata.com/2010/01/07/11-ways-to-visualize-changes-over-time-a-guide/), by Nathan Yau, 2010
 - [Design Principles for News Apps & Graphics](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics), by Lena Groeger, 2013
