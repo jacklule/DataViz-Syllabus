@@ -68,9 +68,11 @@ What are:
 <p>2) Export as Image (png file -- portable network graphic) or svg file (scalable vector graphic, used for interactivity) 
 <p>3) The file will download to local computer. Rename to a single name, no spaces</p>
 <p>4) At github.com, upload the file to your name.github.io repository. For 2017: Place on ReadMe.md page with the following codes:</p>
-    - ![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true) or 
-    - sometimes Copy Path can work as well
-    - ![My image](username.github.com/repository/img/imagename.jpg)
+
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true) or 
+sometimes Copy Path can work as well
+![My image](username.github.com/repository/img/imagename.jpg)
+
 <p>5) Prior to 2017: Create New File -- include .html in the name -- and create html page, perhaps adapting the code from your infographic html page. Be sure to use the exact name of your uploaded file when putting it into the page</p>
 <p>6) Copy file path and check if the chart appears in your browser</p>
 
