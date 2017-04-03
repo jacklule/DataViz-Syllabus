@@ -69,9 +69,9 @@ What are:
 <p>3) The file will download to local computer. Rename to a single name, no spaces</p>
 <p>4) At github.com, upload the file to your name.github.io repository. For 2017: Place on ReadMe.md page with the following codes:</p>
 
-*![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)* 
+![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true) 
 sometimes Copy Path can work as well
-*![My image](username.github.com/repository/img/imagename.jpg)* (without asterisks)
+![My image] (username.github.com/repository/img/imagename.jpg) (without spaces between brackets and parentheses)
 
 <p>5) Prior to 2017: Create New File -- include .html in the name -- and create html page, perhaps adapting the code from your infographic html page. Be sure to use the exact name of your uploaded file when putting it into the page</p>
 <p>6) Copy file path and check if the chart appears in your browser</p>
