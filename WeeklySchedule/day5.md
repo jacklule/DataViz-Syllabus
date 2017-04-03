@@ -19,7 +19,7 @@
 <li><a href="http://kpq.github.io/sherp-31/assets/lectures/chartexamples.pdf">Skim chart examples; 41 slides</a></li>
 <li><a href="http://i.imgur.com/RzYaLZg.gif">How can you use design to help you say it?</a> Fun gif: Remove to improve</li>
 <li><a href="http://qz.com/278681/all-yes-all-the-charts-from-the-white-house-report-on-millennials/?wpisrc=nl-wonkbk&wpmm=1">Nice example of Quartz charts on White House report.
-<li><a href="https://www.theatlas.com/charts/new">2016 Atlas site with examples of many uses of Chartbuilder</a></li>
+<li><a href="https://www.theatlas.com/charts/new">Atlas site with examples of many uses of Chartbuilder</a></li>
 </ul>
 
 ## Practice: Charts with Chartbuilder
