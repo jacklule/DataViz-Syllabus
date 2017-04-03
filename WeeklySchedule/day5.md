@@ -71,6 +71,8 @@ What are:
 
 ![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
 
+![title] (https:/ /name.github.io/title of png.png)
+
 sometimes Copy Path can work as well
 
 ![My image] (username.github.com/repository/img/imagename.jpg) (without spaces between brackets and parentheses)
