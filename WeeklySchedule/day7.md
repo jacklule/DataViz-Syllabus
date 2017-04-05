@@ -42,7 +42,7 @@ With the advent of the mobile phone, people today expect geographic information 
 - [Google Map Tutorial for Journalists](http://www.smalldatajournalism.com/projects/one-offs/mapping-with-fusion-tables/?utm_content=buffer8c5f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) long but thorough
 - [Google intensity/chloropleth map](https://support.google.com/fusiontables/answer/1032332)
 
-###Resources
+### Resources
 - [Excellent 2 pp intro to mapping from Journalist's Resource](http://journalistsresource.org/tip-sheets/mapping-data-visualization-geospatial-information-journalism?utm_source=JR-email&utm_medium=email&utm_campaign=JR-email)- [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/), by Matthew Ericson, 2011
 - [NICAR Mapping Best Practices](https://docs.google.com/presentation/d/1CA9R42cy4wjzIIWlyd0FMWvyW7BqsrzOGLQBgkwsy1Q/edit#slide=id.gd9d64b00_020) 70 slides
 - [A Map about the People Who Live Here](http://flowingdata.com/2016/06/10/a-map-about-the-people-who-live-there/)? from Flowing Data
