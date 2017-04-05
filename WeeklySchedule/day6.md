@@ -6,8 +6,6 @@
 
 ## Principles: Before Class
 
-Link to Quiz 3 over Days 5 and 6
-
 We will continue our exploration and work with the "two workhorses" of data visualization: the bar chart and the line chart.
 <ul>
 <li><a href=http://guides.library.duke.edu/datavis/topten>Top Ten Dos and Don'ts</a>: from Duke University</l1>
