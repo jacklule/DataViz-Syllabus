@@ -24,7 +24,9 @@ We will continue our exploration and work with the "two workhorses" of data visu
 
 ## Practice: In Class
 ## Create Line Chart in Chartbuilder
+
 We will next create and upload a time-based, line chartchart to GitHub and display it on your github.io pages.
+
 <li><a href="http://jacklule.github.io/pages/SVGtest.html">Here is a simple Chartbuilder line chart in svg format.</a></li>
 <li><a href="http://jacklule.github.io/pages/PNGtest.html">Here is a simple Chartbuilder line chart in png format.</a></li>
 
@@ -33,7 +35,7 @@ We will next create and upload a time-based, line chartchart to GitHub and displ
 - Create a spreadsheet in Google docs that has four columns: Year, Arts & Sciences, Business and Engineering.
 - Only collect the data for Arts & Sciences, Business and Engineering for the past ten years and enter it into a spreadsheet in Google Docs. This will take about 12 minutes.
 - Copy that spreadsheet and create a line graph/time-series chart in Chartbuilder that shows the changes in percentage of undergraduate enrollment per college per year. 
-- Download the chart from Charterbuilder, upload to name.github.io and create an html page.
+- Download the chart from Charterbuilder, upload to name.github.io and place on your ReadMe page.
 
 ## Practice: Out of Class
 ## Graded Assignment
