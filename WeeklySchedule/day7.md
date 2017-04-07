@@ -18,6 +18,10 @@ With the advent of the mobile phone, people today expect geographic information 
 - Do a Google search: What are the coordinates for Lehigh University. Put the coordinates into a browser window. 
 
 ## Practice: In Class
+
+## Before Leaving Charts
+- With Chartbuilder, revise [Editor and Publisher Pie Chart](http://www.editorandpublisher.com/gallery/datapage/)
+
 ## New: Google NewsLab
 - Google NewsLab has an [excellent tutorial](https://storage.googleapis.com/gweb-newslab.appspot.com/upload/Google_NewsLab_GoogleMyMaps.pdf) specifically designed for journalists
 
