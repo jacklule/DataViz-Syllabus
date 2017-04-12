@@ -18,7 +18,7 @@
 - Click grey folder next to name J 24 Google Fusion Data Sample. Click Make a Copy (not Add to Drive) to add to your Google Drive and rename.
 - Add information to a fifth establishment to practice finding and adding data. Find address, URL and image for ArtsQuest in Bethlehem and create new row on spreadsheet. 
 - go to Google Drive, open Google Fusion; Import J24 Table from Google Spreadsheet
-- Under Change Info Window, edit card to remove unecessary boldfaced titles: Name, URL, Address, Description, Image, Icon
+- When map displays correnctly, go to dropdown menu for Change Map; under Change Info Window, edit card's html to remove unecessary boldfaced titles: Name, URL, Address, Description, Image, Icon
 
 **Troubleshoot**
 - If student has two Google drives (Lehigh and Gmail), spreadsheet may not open; student should then download the spreadsheet to the local computer and then have Google Fusion select from there.
@@ -30,7 +30,7 @@
 - It turns out that Google Fusion was trying to map by Names, rather than Location.
 - In the fusiontables, click on the Rows tab and hover over the Location cell until a dropdown menu appears. Click Change. Change Type from Text to Location. Repeat steps with Name cell: Change from Location to Text. Map should now say Map of Location and should work.
 
-- **Challenge**: under Configure, [Change Type of Icon](https://support.google.com/fusiontables/answer/2679986?hl=en&ref_topic=2592806) if "arts" icon does not display (Change Map > Feature Style > Icon > Column > Icon).
+**For Reference**: under Configure, [Change Type of Icon](https://support.google.com/fusiontables/answer/2679986?hl=en&ref_topic=2592806) if "arts" icon does not display (Change Map > Feature Style > Icon > Column > Icon).
 
 **Troubleshoot**
 - It is possible to add different icons to Google Fusion, rather than the spreadsheet. 
@@ -44,9 +44,9 @@
 - Select the Public or "Anyone with the link" radio button under Visibility options.
 - Click Save. The change is effective immediately.
 - Click Done. The maps is now accessible.
-- Go to Tools > Publish and get iframe html code to embed.
-- Create map.html page at github.com to embed the iframe code for the map.
-- **Challenge**: The map is small on the html page. Go into the code on your html page and double the size.
+- Go to Tools > Publish and get iframe html code to embed on ReadMe page.
+- (Previously: Create map.html page at github.com to embed the iframe code for the map.)
+- The map is small on the github.io page. Go into the code on your html page and double the size.
 
 ## Practice: Out of Class
 ## Graded Assignment
