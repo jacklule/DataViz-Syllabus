@@ -12,9 +12,8 @@ We will continue learning the principles and practice of interactivity in data v
 - Designing for Interactivity: [On the challenges of interative AND mobile](https://www.journalism.co.uk/news/how-the-wall-street-journal-approaches-data-interactives-on-mobile/s2/a574385/) by Elliot Bentley, of the Wall Street Journal
 
 ## Practice: In Class
-- Use Tableau for "data exploration" -- [use Cat v Dog Popularity Dataset to explore maps and charts](https://public.tableau.com/en-us/s/resources)
-- Download (or perhaps connect directly to Google Sheets from Tableau), this [data set on Ethnicity at Lehigh](https://docs.google.com/spreadsheets/d/12NuHCygG7XaS4Nd0GHgStiEWUjXYpYXuC2Ru2ntLnWw/edit?usp=sharing)
-- Follow our class [Tableau instructions](https://github.com/jacklule/DataViz-Syllabus/blob/master/Tableau.md) and create an interactive time-series chart tracking the data
+- Use Tableau for "data exploration" -- [use a Sample Data Set, such as Titanic Names or Cat v Dog Popularity to explore maps and/or charts](https://public.tableau.com/en-us/s/resources)
+- Follow our class [Tableau instructions](https://github.com/jacklule/DataViz-Syllabus/blob/master/Tableau.md) and create an interactive visualization with the data; have at least two sheets and a Dashboard; if three sheets consider a Storypoint
 - publish to your github.io page
 
 ## Practice: Out of Class
@@ -32,5 +31,6 @@ We will continue learning the principles and practice of interactivity in data v
 - 2016 Washington Post [interactive map on housing prices](https://www.washingtonpost.com/graphics/business/wonk/housing/overview/?zip=#18015)
 - [Migration Within the US](http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0&_r=0), by the NY Times Upshot: Kevin Quealy
 - [10 Data Journalists who use Tableau](https://public.tableau.com/s/blog/2016/02/10-data-journalists-follow-tableau-public?utm_campaign=Tableau%20Public%20Newsletter%20-%20GLOBAL%20en-US%20-%202016-03-08&utm_medium=email&utm_source=Eloqua&domain=gmail.com&eid=CTBLS000006197857#modal-signin)
+- Other exercise: Download (or perhaps connect directly to Google Sheets from Tableau), this [data set on Ethnicity at Lehigh](https://docs.google.com/spreadsheets/d/12NuHCygG7XaS4Nd0GHgStiEWUjXYpYXuC2Ru2ntLnWw/edit?usp=sharing)
 
 
