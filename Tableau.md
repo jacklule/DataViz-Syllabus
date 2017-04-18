@@ -26,7 +26,7 @@ Return to opening page: public.tableau.com
 - Scroll to Lifestyle > Top Baby Names > click Dataset (csv versus xls files) > The file, TopBabyNamesbyState.csv, downloads
 - double click csv file > enter first name for Office Mac, if required > Excel opens > double click csv file again
 - inspect csv data: column names and 10507 rows! > (Occurrences spelled wrong) close Excel
-- Open Tableau Public, in left blue column, Connect not to Excel but to a text file > double click TopBabyNamesbyState.csv
+- In Applications on the lab computers, find and open Tableau Public; in left blue column, Connect not to Excel but to a text file > double click TopBabyNamesbyState.csv
 - inspect column headings and Tableau Public Symbols in column headings
 - in lower left, click Sheet 1, beneath Go to Worksheet
 
@@ -59,8 +59,8 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
  
 **Create New Sheets to Make Separate Maps for Alaska and Hawaii**
 - In order to make the dashboard more space efficient, we are going to create Hawaii and Alaska as separate maps.
-- In top tool bar find icon and select “Duplicate Sheet”
-- On Sheet 2, use the bottom zoom control with the square and magnifying glass to focus just on Hawaii.
+- In bottom or top tool bar, hover over the icons until you find Duplicate Sheet. Sheet 2 will be created.
+- In top tool bar (put your cursor on the white canvas) go to the bottom square and find the icon with the square and magnifying glass. It is a zoom tool. Use it to focus just on Hawaii.
 - Right click on bottom tab for Sheet 2 and rename -- Hawaii
 - Repeat steps and create Sheet 3 named -- Alaska.
 - On the main map, zoom into the continental US. Rename Sheet 1 -- 48 states.
@@ -72,7 +72,10 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down menu for Top Names and select Remove from Dashboard.
 - Reposition and make larger the year slider and the gender filter
 - Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter 
-- If time, eventually we need to have just one year slider and one gender filter for the entire dashboard. Steps for doing this change often. Try clicking on main map and in top right get drop-down menu, click "Use as Filter." The main map should now control as a filter the other maps and even charts. If not, try Dashboard Actions and choose Filter and target three sheets.
+- If time, eventually we need to have just one year slider and one gender filter for the entire dashboard. Steps for doing this change often. 
+- - Try clicking on main map and in top right get drop-down menu, click "Use as Filter." The main map should now control as a filter the other maps and even charts. 
+- - If not, try Dashboard Actions and choose Filter and target three sheets.
+- - If not, select the 48 State Sheet, right click on Filter, select apply to worksheet, select all using related data sources
 - Drag and resize until the maps seem right to you
 
 **Adding a title**
