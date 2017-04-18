@@ -54,13 +54,13 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - But we want to filter by names of boys and girls; drag gender to filters > in the popup box, choose M and F and Select All
 - The Gender filter might not show on the Worksheet: In Gender drop down menu, select Show Filter > a box appears with gender choices for the viewer (Show Me might be blocking).
 - We also want to filter by year; drag year to Filter: Again, the Year filter might not show on the Worksheet: In Year drop down menu, click, Show Filter, Dimension and Continuous: Tableau sees the range of values from 1910 to 2012 > click OK
-- use the very bottom square on the worksheet menu to open up a horizontal tool bar; use zoom control (with the square and magnifying glass) to make the 48 states larger
+- - In top tool bar (put your cursor on the white canvas) go to the bottom square and find the icon with the square and magnifying glass. It is a zoom tool. Use the very bottom square on the worksheet menu to open up a horizontal tool bar; use zoom control (with the square and magnifying glass) to make the 48 states larger
 - We now have a good Sheet 1. But Alaska and Hawaii are scattered making the map small.
  
 **Create New Sheets to Make Separate Maps for Alaska and Hawaii**
 - In order to make the dashboard more space efficient, we are going to create Hawaii and Alaska as separate maps.
 - In bottom or top tool bar, hover over the icons until you find Duplicate Sheet. Sheet 2 will be created.
-- In top tool bar (put your cursor on the white canvas) go to the bottom square and find the icon with the square and magnifying glass. It is a zoom tool. Use it to focus just on Hawaii.
+- As above, in top tool bar (put your cursor on the white canvas) go to the bottom square and find the icon with the square and magnifying glass. It is a zoom tool. Use it to focus just on Hawaii.
 - Right click on bottom tab for Sheet 2 and rename -- Hawaii
 - Repeat steps and create Sheet 3 named -- Alaska.
 - On the main map, zoom into the continental US. Rename Sheet 1 -- 48 states.
