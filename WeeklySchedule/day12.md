@@ -2,8 +2,7 @@
 ## Telling Stories with Comics. Seriously.
 ## Telling Stories of Difficult Topics
 
-![Creating Comics as Journalism]
-(http://ecx.images-amazon.com/images/I/611vzOTWWkL._SX397_BO1,204,203,200_.jpg)
+![Creating Comics as Journalism](http://ecx.images-amazon.com/images/I/611vzOTWWkL._SX397_BO1,204,203,200_.jpg)
 
 ### Principles: Before Class
 - Politico: [How Comic Journalism Grew Up](http://www.politico.eu/article/how-comic-journalism-grew-up/)
