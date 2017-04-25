@@ -26,7 +26,7 @@ Pixton is my latest creator site. No matter what site you use, recognize that co
 
 Go to [Pixton](https://www.pixton.com/) and sign up for an individual account ("For Fun"). Create your primary character. Take your time, this character will represent you in an introduction to your data visualizations. You surely should do better than my Pixton introduction:
 
-![My Pixton trial introduction](https://jacklule.github.io/pages/Pixton Introduction.png)
+![My Pixton trial introduction](https://github.com/jacklule/jacklule.github.io/blob/master/pages/Pixton%20Introduction.png)
 
 ### Resources
 - [Post-Colonial Digital Humanities comics project](http://dhpoco.tumblr.com/tagged/comics)
