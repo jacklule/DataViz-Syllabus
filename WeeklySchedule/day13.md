@@ -11,9 +11,10 @@
 
 ### Practice
 - Use [Pixton](https://www.pixton.com/) to make a three-panel introduction of yourself for your data viz portfolio at name.github.io, such as this screen shot of my Pixton introduction:
-![My Pixton trial introduction]
-(https://jacklule.github.io/pages/Pixton Introduction.png)
-- To avoid using a screen shot on your web site, when you publish, you can change iframe embed code width to 155 to remove the white block. If you have more than three panels, you can double the height to expand the length of the comic so the readers does not need to scroll down: 
+
+![My Pixton trial introduction](https://jacklule.github.io/pages/Pixton Introduction.png)
+
+- To avoid using a screen shot on your web site, when you publish, you can change iframe embed code width to 155 to remove the white block. If you have more than three panels, you can double the height to expand the length of the comic so the readers does not need to scroll down, such as this example with the width and height increased in the code: 
 
 iframe src="//www.pixton.com/embed/0wrj8fvs" frameborder="0" width="155%" height="678" allowfullscreen></iframe
 
@@ -31,15 +32,14 @@ iframe src="//www.pixton.com/embed/0wrj8fvs" frameborder="0" width="155%" height
 - A 2011 Atlantic review of [10 Great Graphic Non-Fiction Works](http://www.theatlantic.com/entertainment/archive/2011/08/comic-books-as-journalism-10-masterpieces-of-graphic-nonfiction/243351/)
 - [Mark Fiore](https://www.markfiore.com/) made the switch from newspapers to the web
 
-###The Beautiful Research and Illustration of Richard McGuire's *Here*
-![A page from <i>Here</>]
-(https://static01.nyt.com/images/2015/10/18/books/review/1018-BKS-Sante/1018-BKS-Sante-blog427.jpg)
+### The Beautiful Research and Illustration of Richard McGuire's *Here*
+![A page from <i>Here</>](https://static01.nyt.com/images/2015/10/18/books/review/1018-BKS-Sante/1018-BKS-Sante-blog427.jpg)
 - [Guardian Review by Chris Ware](http://www.theguardian.com/books/2014/dec/17/chris-ware-here-richard-mcguire-review-graphic-novel) of Richard McGuire's graphic novel <i>Here</i>, the story of . . . a New Jersey room, over a million years.
 - [New York Times review](http://www.nytimes.com/2015/10/18/books/review/richard-mcguires-here.html?_r=0) of <i>Here</i>
 - Wired Magazine [Five Reasons to Read <i>Here</i>](http://www.wired.com/2014/12/here-graphic-novel-richard-mcguire/)
 - [Paris Review interview with Richard McGuire](http://www.theparisreview.org/blog/2015/06/12/split-screens-an-interview-with-richard-mcguire/)
 - The [original 1989 comic strip](http://tumblr.austinkleon.com/post/105360385626) on which <i>Here</i> was based
 
-![A page from <i>Here</>]
-(https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/15/1418647639436/b23a911f-f287-4725-bef2-d86be8e0228f-2060x1497.jpeg?w=620&q=55&auto=format&usm=12&fit=max&s=24e6f462b73591cbe71e3a9d019acb57)
+![A page from <i>Here</>](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/15/1418647639436/b23a911f-f287-4725-bef2-d86be8e0228f-2060x1497.jpeg?w=620&q=55&auto=format&usm=12&fit=max&s=24e6f462b73591cbe71e3a9d019acb57)
+
 
