@@ -12,7 +12,7 @@
 ### Practice
 - Use [Pixton](https://www.pixton.com/) to make a three-panel introduction of yourself for your data viz portfolio at name.github.io, such as this screen shot of my Pixton introduction:
 
-![My Pixton trial introduction](https://jacklule.github.io/pages/Pixton Introduction.png)
+![My Pixton trial introduction](https://github.com/jacklule/jacklule.github.io/blob/master/pages/Pixton%20Introduction.png)
 
 - To avoid using a screen shot on your web site, when you publish, you can change iframe embed code width to 155 to remove the white block. If you have more than three panels, you can double the height to expand the length of the comic so the readers does not need to scroll down, such as this example with the width and height increased in the code: 
 
